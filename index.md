@@ -1,18 +1,8 @@
-## Welcome
+## Willkommen bei Greenmeadows Labradors
 
-You can use the [editor on GitHub](https://github.com/bgruenefeld/greenmeadows/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Die Seite befindet sich momentan im Aufbau und wird in kürze mit Leben gefüllt werden.
+Bitte haben Sie noch etwas Geduld :-)
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
+### Weitere Infos
 
 
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/bgruenefeld/greenmeadows/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.

@@ -3,10 +3,10 @@ layout: page
 title: Hunde
 permalink: /dogs/
 ---
- **Reggae vom Keien Fenn**(*15.06.2019)
+ **Reggae vom Keien Fenn** (*15.06.2019)
  
 (Megore Mynoosa vom Keien Fenn x DK-FTCh Astraglen Bailey)
-| |  |
+|. | . |
 | ----------- | ----------- |
 | Züchterinnen | Andrea Oellers & Dr. Helena Niehof-Oellers |
 |Arbeitsergebnisse (Auszug)|APD-A sehr gut, Wunstorf WT-A, 2. Platz mit 117/120 Punkte|

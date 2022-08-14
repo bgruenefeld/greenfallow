@@ -10,6 +10,10 @@ permalink: /dogs/reggae
 - Arbeitsergebnisse (Auszug): APD-A sehr gut, Wunstorf WT-A, 2. Platz mit 117/120 Punkte
 - Formwert: sehr gut
 
+<a href="https://drc.de/adr/listen/show_druede.php?what=Hunde&rvid=151591&race=Labrador-Retriever" target="_blank">DRC 1</a>
+
+<button type="button">DRC</button>
+ 
 **Wesenstest:** Eine aktive 2 jährige Labrador Hündin mit hoher Motivation für Beute-, Such- und Spielverhalten, die den Parcours neugierig, sicher und selbständig durchläuft
 
 **Beschreibung:** 

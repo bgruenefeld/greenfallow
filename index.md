@@ -1,5 +1,5 @@
 ---
-title: ... für Jagd, Sport und die Familie
+title: ... Labrador Retriever für Jagd, Sport und die Familie
 ---
 Die Seite befindet sich momentan im Aufbau und wird in kürze mit Leben gefüllt werden.
 Bitte haben Sie noch etwas Geduld :-)

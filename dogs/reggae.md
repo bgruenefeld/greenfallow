@@ -10,17 +10,15 @@ permalink: /dogs/reggae
 - Arbeitsergebnisse (Auszug): APD-A sehr gut, Wunstorf WT-A, 2. Platz mit 117/120 Punkte
 - Formwert: sehr gut
 
-<a href="https://drc.de/adr/listen/show_druede.php?what=Hunde&rvid=151591&race=Labrador-Retriever" target="_blank">DRC 1</a>
-
-<button type="button">DRC</button>
+<a href="https://drc.de/adr/listen/show_druede.php?what=Hunde&rvid=151591&race=Labrador-Retriever" target="_blank">DRC</a> | <a href="https://db.drc.de/adr/ahnen/ahnen1.php?zbnr=1923796&race=Labrador-Retriever" target="_blank">DRC AT</a> | <a href="https://www.k9data.com/fivegen.asp?ID=1083868" target="_blank">K9Data AT</a> 
  
 **Wesenstest:** Eine aktive 2 jährige Labrador Hündin mit hoher Motivation für Beute-, Such- und Spielverhalten, die den Parcours neugierig, sicher und selbständig durchläuft
 
 **Beschreibung:** 
 Reggae (aka Lotti) stammt aus der Zucht [vom Keien Fenn](http://keienfenn.de/WP/). Schon längere Zeit hatte ich mich nach einer weiteren Hündin umgesehen und dabei ist mir Reggaes Mutter Megore bei verschiedenen Trainings mehrfach sehr positiv aufgefallen. 
-Reggae ist eine neugierige Hündin, die über eine hohe Arbeitsmotivation und ein hohes Maß an Selbständigkeit verfügt, dabei ist sie trotzdem feinfühlig und aufmerksam. Reggae hat stark ausgeprägte jagdlichen Anlagen und eine erstaunliche körperliche Härte. 
+Reggae ist eine neugierige Hündin, die über eine große Arbeitsmotivation sowie ein hohes Maß an Selbständigkeit verfügt, dabei ist sie trotzdem feinfühlig und aufmerksam. Reggae hat stark ausgeprägte jagdlichen Anlagen und eine erstaunliche körperliche Härte. 
 
-Sie hat ein hervorragendes Memory und excellente Markierfähigkeiten. 
+Sie zeigte schon sehr früh ein hervorragendes Memory und excellente Markierfähigkeiten, so dass ich davon ausgehen das es Anlagen sind.
 
 Trotz ihrer hohen Arbeitsmotivation kann sie in Pausen abschalten und entspannen. Was Prüfungen ( und das Leben im allgemeinen &#128522; ) sehr angenehm mit ihr macht.
  

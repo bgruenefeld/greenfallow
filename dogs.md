@@ -4,7 +4,7 @@ title: Hunde
 permalink: /dogs/
 ---
 
-[**Reggae vom Keien Fenn** (*15.06.2019)](dogs/reggae.md )
+[**Reggae vom Keien Fenn** (*15.06.2019)](dogs/reggae.md)
 
 <img src="/assets/reggae-garten.jpeg" width="243"  />
 

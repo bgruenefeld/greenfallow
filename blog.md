@@ -1,4 +1,10 @@
- ## Reggae - zweiter Platz beim Wunstorfer Workingtest!
+---
+layout: page
+title: Blog
+permalink: /blog/
+---
+
+## Reggae - zweiter Platz beim Wunstorfer Workingtest!
 2022-08-06"
 Wunstorf
 

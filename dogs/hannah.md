@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Hunde
+title: Hannah
 permalink: /dogs/hannah
 ---
 

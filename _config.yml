@@ -3,6 +3,7 @@ header_pages:
   - dogs.md
   - about.md
 show_excerpts: true
+skin: dark
 minima:
   social_links:
     twitter: jekyllrb

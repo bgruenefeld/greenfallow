@@ -4,8 +4,8 @@ title: Hannah
 permalink: /dogs/hannah
 ---
 
-**Work and More Hannah** (*06.06.2012)
-- (Work and More Flame x FTW Saxaphone John Smiths)
+### Work and More Hannah (*06.06.2012)
+#### (Work and More Flame x FTW Saxaphone John Smiths)
 - Züchter: Dietmar Romeike"
 - Arbeitsergebnisse (Auszug): APD-A 2. Platz (sehr gut), diverse F Workingtests
 

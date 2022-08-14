@@ -14,4 +14,5 @@ permalink: /dogs/
 **Beschreibung:** 
 Reggae (aka Lotti) stammt aus der Zucht vom Keien Fenn. Ich hatte mich schon längere Zeit nach einer weiteren Hündin umgesehen und dabei ist mir Reggaes Mutter Megore mehrfach positiv aufgefallen. Reggae ist eine neugierige Hündin die über eine hohe Selbständigkeit verfügt - beides gute Vorraussetzungen für einen exzellenten Arbeitshund. Sie ist eine feinfühlige und aufmerksame Hündin die es mir in der Grundausbildung einfach gemacht hat. Reggae wird nach der mit sehr gut bestandenen APD-A von mir auf Working Tests geführt. Trotz ihrer hohen Arbeitsmotivation besitzt sie die Fähigkeit in Pausen abzuschalten und zu entspannen, was Prüfungen ( und das Leben im allgemeinen &#128522; ) sehr angenehm mit ihr macht. Sie zeigte schon früh ausgeprägte jagdlichen Anlagen. Kein Brombeerbusch ist zu stachelig, um nicht kopfüber hineinzuspringen und z.B. eine verendete Taube daraus in die Hand zu apportieren. Im Haus ist sie unauffällig, liebt es in der Sonne zu dösen und geduldig zu warten bis es raus geht. Wenn es dann losgeht, ist sie hellwach und sehr agil. Mit anderen Menschen oder Hunden hat sie keine Probleme, sie ist freundlich interessiert und bei passender Aufforderung auch gerne zu einem Spielchen bereit.
 
-**Work and More Hannah** (*06.06.2012)
+ 
+[**Work and More Hannah** (*06.06.2012)](dogs/hannah.md)

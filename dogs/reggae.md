@@ -6,6 +6,7 @@ carousels:
   - images: 
     - image: /assets/reggae-garten.jpeg
     - image: /assets/reggae-me-wasser.jpeg
+    - image: /assets/reggae-happy.jpeg
 ---
 
 **Megore Mynoosa vom Keien Fenn x DK-FTCh Astraglen Bailey**

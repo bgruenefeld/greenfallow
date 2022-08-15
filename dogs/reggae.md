@@ -11,6 +11,7 @@ DOB|*15.06.2019
 Züchterinnen| Andrea Oellers & Dr. Helena Niehof-Oellers
 Arbeitsergebnisse (Auszug)| APD-A sehr gut, Wunstorf WT-A, 2. Platz mit 117/120 Punkte
 Formwert|sehr gut
+Gesundheit| HD:A2/A2, ED:0/0,  SD2: Träger, prcd-PRA / CNM / EIC: über Erbgang frei, sonstige Befunde: OCD-Schulter / Sprunggelenk: frei
 Wesenstest|Eine aktive 2 jährige Labrador Hündin mit hoher Motivation für Beute-, Such- und Spielverhalten, die den Parcours neugierig, sicher und selbständig durchläuft
 Details| <a href="https://drc.de/adr/listen/show_druede.php?what=Hunde&rvid=151591&race=Labrador-Retriever" target="_blank">DRC</a> / <a href="https://db.drc.de/adr/ahnen/ahnen1.php?zbnr=1923796&race=Labrador-Retriever" target="_blank">DRC AT</a> / <a href="https://www.k9data.com/fivegen.asp?ID=1083868" target="_blank">K9Data AT</a> 
  

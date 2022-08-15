@@ -2,6 +2,7 @@ remote_theme: jekyll/minima
 header_pages:
   - blog.md
   - dogs.md
+  - breed.md
   - about.md
 show_excerpts: true
 minima:

@@ -8,7 +8,7 @@ permalink: /dogs/hannah
 
 DOB|*06.06.2012 
 :--|:--
-Züchterinnen| Dietmar Romeike
+Züchterinnen|  <a href="http://www.workandmore.de" target="_blank">Dietmar Romeike (Work and More) </a>
 Arbeitsergebnisse (Auszug)| Arbeitsergebnisse (Auszug): APD-A 2. Platz (sehr gut), diverse F Workingtests
 Gesundheit|HD A1/A1, ED 0/0, prcd-PRA/EIC/SD2: über Erbgang frei
 Details| <a href="https://drc.de/adr/listen/show_druede.php?what=Hunde&rvid=100234&race=Labrador-Retriever" target="_blank">DRC</a> / <a href="https://db.drc.de/adr/ahnen/ahnen1.php?zbnr=1217258&race=Labrador-Retriever" target="_blank">DRC AT</a> / <a href="https://www.k9data.com/pedigree.asp?ID=500934" target="_blank">K9Data AT</a> 

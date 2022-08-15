@@ -1,6 +1,7 @@
 ---
 layout: home
 title: Labrador Retriever für Sport, Jagd und die Familie
+description: Labrador Retriever, working dogs, field trials, breed, zucht, greenmeadows
 ---
 Die Seite befindet sich momentan im Aufbau und wird langsam mit Leben gefüllt werden.
 Bitte haben Sie noch etwas Geduld :-)

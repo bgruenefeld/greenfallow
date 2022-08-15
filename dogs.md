@@ -2,7 +2,6 @@
 layout: page
 title: Hunde
 permalink: /dogs/
-description: Labrador Retriever, working dogs, field trials, jagd, breed, zucht, greenmeadows, litters, würfe, welpen, drc, fci
 ---
 
 [**Reggae vom Keien Fenn** (*15.06.2019)](dogs/reggae.md)

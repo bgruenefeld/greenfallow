@@ -20,7 +20,7 @@ Gesundheit| HD:A2/A2, ED:0/0,  SD2: Träger, prcd-PRA / CNM / EIC: über Erbgang
 Wesenstest|Eine aktive 2 jährige Labrador Hündin mit hoher Motivation für Beute-, Such- und Spielverhalten, die den Parcours neugierig, sicher und selbständig durchläuft
 Details| <a href="https://drc.de/adr/listen/show_druede.php?what=Hunde&rvid=151591&race=Labrador-Retriever" target="_blank">DRC</a> / <a href="https://db.drc.de/adr/ahnen/ahnen1.php?zbnr=1923796&race=Labrador-Retriever" target="_blank">DRC AT</a> / <a href="https://www.k9data.com/fivegen.asp?ID=1083868" target="_blank">K9Data AT</a> 
 
-{% include carousel.html height="50" width="100" unit="%" duration="15" number="1" %}
+{% include carousel.html height="200" unit="px" duration="15" number="1" %}
 
 **Beschreibung:** 
 

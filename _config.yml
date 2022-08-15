@@ -6,6 +6,6 @@ header_pages:
   - about.md
 show_excerpts: true
 minima:
-  skin: solarized-dark
+  skin: solarized
   social_links:
     facebook: bernd.gruenefeld.5

@@ -10,5 +10,6 @@ carousels:
 ---
 Die Seite befindet sich momentan im Aufbau und wird langsam mit Leben gefüllt werden.
 Bitte haben Sie noch etwas Geduld :-)
-
+<div>
 {% include carousel.html height="100" unit="%" duration="15" number="1" %}
+</div>

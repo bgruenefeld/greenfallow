@@ -1,3 +1,4 @@
+theme: minima
 header_pages:
   - blog.md
   - dogs.md

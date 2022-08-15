@@ -8,7 +8,7 @@ permalink: /blog/
 2022-08-06
 Wunstorf
 
-<img align="right" src="/assets/reggae-pokal-wunstorf.jpeg" height="200">
+<img align="right" src="/assets/reggae-pokal-wunstorf.jpeg" height="300">
 Nur eine Woche nach dem Working-Test in Ringsted, hatten wir die Gelegenheit es in Wunstorf noch ein bischen besser zu machen. 
 
 Es war das erste Mal das ich in der Wunstorfer Sandkuhle gestartet bin. Es war deshalb ein relativ neues Terrain mit viel Sand, steilen Hängen und Hügeln. Die einzige Erhebung die wir hier im hohen Norden kennen sind Deiche - insofern wars spannend!

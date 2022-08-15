@@ -1,4 +1,4 @@
-theme: minima
+remote_theme: jekyll/minima
 header_pages:
   - blog.md
   - dogs.md

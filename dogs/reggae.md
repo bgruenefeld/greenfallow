@@ -7,7 +7,7 @@ permalink: /dogs/reggae
 **Megore Mynoosa vom Keien Fenn x DK-FTCh Astraglen Bailey**
 
 DOB|*15.06.2019 
---|--
+:--|:--
 Züchterinnen| Andrea Oellers & Dr. Helena Niehof-Oellers
 Arbeitsergebnisse (Auszug)| APD-A sehr gut, Wunstorf WT-A, 2. Platz mit 117/120 Punkte
 Formwert|sehr gut

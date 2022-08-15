@@ -15,6 +15,7 @@ Wesenstest|Eine aktive 2 jährige Labrador Hündin mit hoher Motivation für Beu
 Details| <a href="https://drc.de/adr/listen/show_druede.php?what=Hunde&rvid=151591&race=Labrador-Retriever" target="_blank">DRC</a> / <a href="https://db.drc.de/adr/ahnen/ahnen1.php?zbnr=1923796&race=Labrador-Retriever" target="_blank">DRC AT</a> / <a href="https://www.k9data.com/fivegen.asp?ID=1083868" target="_blank">K9Data AT</a> 
  
 **Beschreibung:** 
+
 Reggae (aka Lotti) stammt aus der Zucht [vom Keien Fenn](http://keienfenn.de/WP/). <img align="right" src="/assets/reggae-garten.jpeg" width="243"> Schon längere Zeit hatte ich mich nach einer weiteren Hündin umgesehen und dabei ist mir Reggaes Mutter Megore bei verschiedenen Trainings mehrfach sehr positiv aufgefallen. 
 Reggae ist eine intelligente, neugierige Hündin, die über eine große Arbeitsmotivation sowie ein hohes Maß an Selbständigkeit verfügt, dabei ist sie trotzdem feinfühlig und aufmerksam. Reggae hat stark ausgeprägte jagdlichen Anlagen und eine erstaunliche körperliche Härte. 
 

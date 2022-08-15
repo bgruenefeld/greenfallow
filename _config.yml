@@ -4,11 +4,7 @@ header_pages:
   - dogs.md
   - about.md
 show_excerpts: true
-skin: dark
 minima:
+  skin: dark
   social_links:
-    twitter: jekyllrb
-    github: jekyll
-    stackoverflow: "11111"
-    dribbble: jekyll
-    facebook: jekyll
+    facebook: Grünbär Feld

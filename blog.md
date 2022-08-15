@@ -2,7 +2,7 @@
 layout: post
 title: Blog
 permalink: /blog/
-description: Labrador Retriever, working dogs, field trials, breed, zucht, greenmeadows, infos, blog
+description: Labrador Retriever, working dogs, field trials, jagd, breed, zucht, greenmeadows, litters, würfe, welpen, drc, fci, infos, blog
 ---
 
 ## Reggae - "vorzüglich" und zweiter Platz in Wunstorf. Qualifikation für´s DRC Workingtest Finale! &#128522;

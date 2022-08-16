@@ -8,7 +8,7 @@ layout:
   {% if page.url contains '.xml' or page.url contains 'assets' %}{% else %}
       <url>
         <loc>{{ site.url }}{{ page.url }}</loc>
-        <changefreq>monthly</changefreq>
+        <changefreq>daily</changefreq>
         <priority>1.0</priority>
        </url>
   {% endif %}
@@ -16,14 +16,14 @@ layout:
   {% for page in site.posts %}
       <url>
         <loc>{{ site.url }}{{ page.url | replace: 'index.html', '' }}</loc>
-        <changefreq>monthly</changefreq>
+        <changefreq>daily</changefreq>
         <priority>1.0</priority>
        </url>
   {% endfor %}
   {% for page in site.without-plugin %}
       <url>
         <loc>{{ site.url }}{{ page.url | replace: 'index.html', '' }}</loc>
-        <changefreq>monthly</changefreq>
+        <changefreq>daily</changefreq>
         <priority>1.0</priority>
        </url>
   {% endfor %}

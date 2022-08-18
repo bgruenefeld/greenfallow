@@ -42,17 +42,3 @@ Coronabedingt mussten wir mit Reggae noch unsere Hausaufgaben machen und für di
 Nach Erledigung der formalien und Begrüßung durch Sonderleiterin und Richter wurden kurz den Aufgaben erklärt und offene Fragen besprochen. Das Prüfungsgelände würde ich für diese Art von Prüfung als ideal bezeichnen. Ein mittelgroßer, separater Teich, Wiesen mit Feldgehölzen und Binsen für die Suche sowie grosse Brachflächen. Alles lag nah beinander, so dass keine grossen Wege zurückgelegt werden mussten. Durch die Perfekte Organisation konnte die Prüfung schnell und entspannt durchgeführt werden. Reggae war gewohnt brav und entspannt bis dran war. Insbesondere bei den Markierungen und mit der Suche war ich sehr zufrieden, so dass wir schliesslich mit einem sehr-gut bestehen konnten.",
 Eintrittskarte gelöst und jetzt heisst es die Zeit bis zu den Workingtests im Sommer/Herbst zu nutzen und zu trainieren.",
 
-## Formwert 
-2022-03-16, Lübeck
-
-Eine Vorraussetzung für die Zuchtzulassung ist ein mindestens mit gut bestandener Formwert. Der Hund wird dabei einem Formwertrichter vorgestellt und in seinem Äusseren bewertet.",
-
-Für mich war es das erste Mal das ich einen Formwert mit einem meiner Hunde machte, insofern war es schon spannend. Wir hatten uns dafür eine Prüfung ausgesucht bei der Frau Assenmacher-Feyel, eine der wenigen deutschen Internationalen Zuchtrichter, richtet. Grossartig vorbereiten kann man sich auf diese Art von Prüfung nicht. Der Hund sollte aber dann doch ein paar Sachen können. Er sollte sich hinstellen können, stehen bleiben damit er vermessen werden kann, sollte sich von einer fremden Person anfassen lassen und schliesslich an lockerer Leine mit seinem HF laufen/traben können. Reggae hat sich sehr brav benommen und geduldig vermessen und beäugen lassen. Schiesslich konnten wir in Expresszeit von 15 Minuten(!!!) unser Formwertzeugnis erhalten und in die schöne Lübecker altstadt für einen Cappucino entschwinden",
-Auch ein Formwert ist kein Hexenwerk und war in erstaunlich kurzer Zeit durchgeführt",
-
-## Hannah wird 10 
-2022-06-12 Rastede
-
-Kaum zu glauben aber Hannah wird dies Jahr schon zehn Jahre.",
-
-Unglaublich tolle, führige Hündin",

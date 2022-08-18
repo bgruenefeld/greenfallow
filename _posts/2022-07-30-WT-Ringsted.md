@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Kleiner Workingtest, kleine Ungenauigkeit mit großer Wirkung!"
+title: Kleiner Workingtest, kleine Ungenauigkeit mit großer Wirkung!
 categories: reggae
 ---
 

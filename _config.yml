@@ -6,7 +6,7 @@ header_pages:
   - about.md
 show_excerpts: true
 minima:
-  paginate: 2
+  paginate: 5
   paginate_path: "/blog/page:num/"
   social_links:
     facebook: bernd.grunefeld.5

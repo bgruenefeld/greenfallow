@@ -11,8 +11,6 @@ carousels:
 
 **Megore Mynoosa vom Keien Fenn x DK-FTCh Astraglen Bailey**
 
-**Beschreibung:** 
-
 Reggae (aka Lotti) stammt aus der Zucht [vom Keien Fenn](http://keienfenn.de/WP/). <img align="right" src="/assets/reggae-garten.jpeg" width="243"> Schon längere Zeit hatte ich mich nach einer weiteren Hündin umgesehen und dabei ist mir Reggaes Mutter Megore bei verschiedenen Trainings mehrfach sehr positiv aufgefallen. 
 Reggae ist eine intelligente, neugierige Hündin, die über eine große Arbeitsmotivation sowie ein hohes Maß an Selbständigkeit verfügt, dabei ist sie trotzdem feinfühlig und aufmerksam. Reggae hat stark ausgeprägte jagdlichen Anlagen und eine erstaunliche körperliche Härte. 
 

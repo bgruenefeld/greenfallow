@@ -7,6 +7,6 @@ header_pages:
 show_excerpts: true
 minima:
   paginate: 3
-  paginate_path: "/blog/page:num/"
+  paginate_path: "/_posts/page:num/"
   social_links:
     facebook: bernd.grunefeld.5

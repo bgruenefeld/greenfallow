@@ -11,7 +11,17 @@ carousels:
 
 **Megore Mynoosa vom Keien Fenn x DK-FTCh Astraglen Bailey**
 
-<img align="right" src="/assets/reggae-garten.jpeg" width="243">
+**Beschreibung:** 
+
+Reggae (aka Lotti) stammt aus der Zucht [vom Keien Fenn](http://keienfenn.de/WP/). <img align="right" src="/assets/reggae-garten.jpeg" width="243"> Schon längere Zeit hatte ich mich nach einer weiteren Hündin umgesehen und dabei ist mir Reggaes Mutter Megore bei verschiedenen Trainings mehrfach sehr positiv aufgefallen. 
+Reggae ist eine intelligente, neugierige Hündin, die über eine große Arbeitsmotivation sowie ein hohes Maß an Selbständigkeit verfügt, dabei ist sie trotzdem feinfühlig und aufmerksam. Reggae hat stark ausgeprägte jagdlichen Anlagen und eine erstaunliche körperliche Härte. 
+
+Sie zeigte schon sehr früh ein hervorragendes Memory und excellente Markierfähigkeiten.
+
+Trotz ihrer hohen Arbeitsmotivation kann sie in Pausen abschalten und entspannen. Was Prüfungen ( und das Leben im allgemeinen &#128522; ) sehr angenehm mit ihr macht.
+ 
+Im Haus ist sie unauffällig. Sie liebt es in der Sonne zu dösen und geduldig zu warten bis es raus geht. Wenn es dann losgeht, ist sie hellwach und sehr motiviert. Mit anderen Menschen oder Hunden hat sie keine Probleme, sie ist freundlich interessiert und bei passender Aufforderung auch gerne zu einem Spielchen bereit.
+
 DOB|*15.06.2019 
 :--|:--
 Züchterinnen| Andrea Oellers & Dr. Helena Niehof-Oellers
@@ -22,14 +32,3 @@ Wesenstest|Eine aktive 2 jährige Labrador Hündin mit hoher Motivation für Beu
 Details| <a href="https://drc.de/adr/listen/show_druede.php?what=Hunde&rvid=151591&race=Labrador-Retriever" target="_blank">DRC</a> / <a href="https://db.drc.de/adr/ahnen/ahnen1.php?zbnr=1923796&race=Labrador-Retriever" target="_blank">DRC AT</a> / <a href="https://www.k9data.com/fivegen.asp?ID=1083868" target="_blank">K9Data AT</a> 
 
 {% include carousel.html height="400" unit="px" duration="15" number="1" %}
-
-**Beschreibung:** 
-
-Reggae (aka Lotti) stammt aus der Zucht [vom Keien Fenn](http://keienfenn.de/WP/). Schon längere Zeit hatte ich mich nach einer weiteren Hündin umgesehen und dabei ist mir Reggaes Mutter Megore bei verschiedenen Trainings mehrfach sehr positiv aufgefallen. 
-Reggae ist eine intelligente, neugierige Hündin, die über eine große Arbeitsmotivation sowie ein hohes Maß an Selbständigkeit verfügt, dabei ist sie trotzdem feinfühlig und aufmerksam. Reggae hat stark ausgeprägte jagdlichen Anlagen und eine erstaunliche körperliche Härte. 
-
-Sie zeigte schon sehr früh ein hervorragendes Memory und excellente Markierfähigkeiten.
-
-Trotz ihrer hohen Arbeitsmotivation kann sie in Pausen abschalten und entspannen. Was Prüfungen ( und das Leben im allgemeinen &#128522; ) sehr angenehm mit ihr macht.
- 
-Im Haus ist sie unauffällig. Sie liebt es in der Sonne zu dösen und geduldig zu warten bis es raus geht. Wenn es dann losgeht, ist sie hellwach und sehr motiviert. Mit anderen Menschen oder Hunden hat sie keine Probleme, sie ist freundlich interessiert und bei passender Aufforderung auch gerne zu einem Spielchen bereit.

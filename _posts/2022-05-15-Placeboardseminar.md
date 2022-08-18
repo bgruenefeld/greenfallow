@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Placeboardseminar in Bremen"
+categories: reggae
+---
+
 Kurzfristig hatte ich mich dazu entschlossen an einem Seminar mit dem Thema Placeboard der DRC BZG Weser teilzunehmen. 
 
 Claudia Schmidt was als Referntin eingeladen worden und da die Ankündigung interssant klang, hab ich mich am Sonntag früh in Richtung Bremen auf den Weg gemacht.",

@@ -1,4 +1,10 @@
-Kleiner Workingtest, kleine Ungenauigkeit mit großer Wirkung!
+---
+layout: post
+title: "Kleiner Workingtest, kleine Ungenauigkeit mit großer Wirkung!"
+categories: reggae
+---
+
+
 
 Nach Ende der Brut- und Setzzeit stand unser erster Workingtest an. Da der WT in Ringsted immer ein nettes, freundliches Ambiente bietet und auch noch in direkter Nachbarschaft liegt, haben wir dort gemeldet.",
     

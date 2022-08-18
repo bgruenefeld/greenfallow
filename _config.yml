@@ -10,3 +10,5 @@ minima:
   paginate_path: "/blog/page:num/"
   social_links:
     facebook: bernd.grunefeld.5
+plugins:
+ - jekyll-paginate

@@ -1,5 +1,10 @@
+---
+layout: post
+title: Reggae - *vorzüglich* und zweiter Platz in Wunstorf!
+categories: reggae
+---
 
-Reggae - "vorzüglich" und zweiter Platz in Wunstorf. Qualifikation für´s DRC Workingtest Finale! &#128522;
+Qualifikation für´s DRC Workingtest Finale! &#128522;
 
 
 <img align="right" src="/assets/reggae-pokal-wunstorf.jpeg" height="300">

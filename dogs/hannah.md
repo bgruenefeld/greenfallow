@@ -19,6 +19,4 @@ Beschreibung:
 Ihre Ausbildung war aufgrund ihre sehr guten Anlagen einfach und wir konnten schon nach kurzer Zeit in der Fortgeschrittenen Klasse starten und uns dort schnell für die Offene Klasse qualifizieren. 
 Hannah verfügt über ein gutes Marking und Memory, sowie ein sehr gutes Lining. Auch im Alter von 10 Jahren fällt es ihr nicht schwer sich einweisen zu lassen. 
 
-[video link](https://youtu.be/iWowJBRMtpc?t=90s){:.no-lightbox}
-
-   
+[Wasserarbeit](https://player.vimeo.com/video/698589886?h=c3578e62e7&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479)

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Reggae vom Keien Fenn
-permalink: /dogs/reggae
+permalink: /dogs/reggae2
 carousels:
   - images: 
     - image: /assets/reggae-garten.jpeg

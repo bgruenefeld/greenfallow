@@ -8,7 +8,7 @@ show_excerpts: true
 minima:
   social_links:
     facebook: bernd.grunefeld.5
-paginate: 3
-paginate_path: "/blog/page:num/"    
+  paginate: 3
+  paginate_path: "/blog/page:num/"    
 plugins:
  - jekyll-paginate

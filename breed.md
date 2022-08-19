@@ -10,4 +10,4 @@ permalink: /breed/
 
 Wir sind Mitglied im DRC, angeschlossen an JGHV, VDH, FCI und züchten unter den Zuchauflagen des DRC. 
 
-<img src="/assets/logo-drc.jpg"> <img src="/assets/logo-vdh.jpg"> <img src="logo-fci.jpg"> <img src="logo-jghv.jpg">
+<img src="/assets/logo-drc.jpg"> <img src="/assets/logo-vdh.jpg"> <img src="/assets/logo-fci.jpg"> <img src="/assets/logo-jghv.jpg">

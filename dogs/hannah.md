@@ -15,7 +15,7 @@ Details| <a href="https://drc.de/adr/listen/show_druede.php?what=Hunde&rvid=1002
 
 {% include image-gallery.html folder="/assets/hannah-gallery" %}
 
-<img src="/assets/hannah-steht3.jpg" align="right" width="300"> Hannah ist eine sehr führige Hündin, die auch in sehr hohen Trieblagen immer mit ihrem HF zusammenarbeiten will. 
+Hannah ist eine sehr führige Hündin, die auch in sehr hohen Trieblagen immer mit ihrem HF zusammenarbeiten will. 
 Ihre Ausbildung war aufgrund ihre sehr guten Anlagen einfach und wir konnten schon nach kurzer Zeit in der Fortgeschrittenen Klasse starten und uns dort schnell für die Offene Klasse qualifizieren. 
 Hannah verfügt über ein gutes Marking und Memory, sowie ein sehr gutes Lining. Auch im Alter von 10 Jahren fällt es ihr nicht schwer sich einweisen zu lassen. 
 

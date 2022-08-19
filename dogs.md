@@ -6,8 +6,8 @@ permalink: /dogs/
 
 [**Reggae vom Keien Fenn** (*15.06.2019)](dogs/reggae.html)
 
-<img src="/assets/reggae-garten.jpeg" width="243"  />
+<img src="/assets/reggae-gallery/reggae-garten.jpeg" width="243"  />
 
 [**Work and More Hannah** (*06.06.2012)](dogs/hannah.md)
 
-<img src="/assets/hannah-dream.jpg" width="243" />
+<img src="/assets/hannah-gallery/hannah-dream.jpg" width="243" />

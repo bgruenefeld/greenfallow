@@ -6,4 +6,5 @@ description: Hundezucht von Labrador Retriever aus Field Trial Linien für die J
 
 Die Seite befindet sich momentan im Aufbau und wird langsam mit Leben gefüllt werden.
 Bitte haben Sie noch etwas Geduld :-)
-<img src="/assets/hannah-reggae.jpeg" height="">
+
+<img src="/assets/hannah-gallery/hannah-reggae.jpeg" height="">

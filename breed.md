@@ -8,6 +8,6 @@ permalink: /breed/
 *Sandra and John Halsted*
 
 
-Wir sind Mitglied im <a href="https://drc.de/">Deutscher Retriever Club e.V.</a> (DRC), angeschlossen an JGHV, VDH, FCI und züchten unter <a href="https://drc.de/zucht/zucht/ordnungen-vorschriften">den Zuchtauflagen des DRC</a>. 
+Wir sind Mitglied im <a href="https://drc.de/" target="_blank">Deutscher Retriever Club e.V.</a> (DRC), angeschlossen an JGHV, VDH, FCI und züchten unter <a href="https://drc.de/zucht/zucht/ordnungen-vorschriften" target="_blank">den Zuchtauflagen des DRC</a>. 
 
 <img src="/assets/logo-drc.jpg"> <img src="/assets/logo-vdh.jpg"> <img src="/assets/logo-fci.jpg"> <img src="/assets/logo-jghv.jpg">

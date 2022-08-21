@@ -8,6 +8,6 @@ permalink: /breed/
 *Sandra and John Halsted*
 
 
-Wir sind Mitglied im DRC, angeschlossen an JGHV, VDH, FCI und züchten unter den Zuchauflagen des DRC. 
+Wir sind Mitglied im DRC, angeschlossen an JGHV, VDH, FCI und züchten unter den Zuchtauflagen des DRC. 
 
 <img src="/assets/logo-drc.jpg"> <img src="/assets/logo-vdh.jpg"> <img src="/assets/logo-fci.jpg"> <img src="/assets/logo-jghv.jpg">

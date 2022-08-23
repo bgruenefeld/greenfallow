@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Reggae - *vorzüglich* und zweiter Platz in Wunstorf!
+title: Reggae - vorzüglich und zweiter Platz in Wunstorf!
 categories: reggae
 ---
 

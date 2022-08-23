@@ -17,4 +17,5 @@ Der Test umfasste drei Stationen mit je zwei Aufgaben, so dass die perfekt organ
 Um so überraschter war ich als wir für den zweiten Platz aufgerufen wurden. Wir haben an diesem Tag 117/120 Punkte (20,20,20,20,20,17) und das Prädikat vorzüglich ergattert.
 
 Mit dem zweiten Platz sind wir nach nur zwei WT Starts in diesem Jahr für das **Workingtest-A Finale in Kevelaer qualifiziert**!
-<i class="fa-light fa-blog"></i>
+
+<i class="fa-brands fa-blogger"></i>

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Reggae - *vorzüglich* und zweiter Platz in Wunstorf!
+title: DRC Finale in Kevelaer!
 categories: reggae
 ---
 

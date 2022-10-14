@@ -11,7 +11,7 @@ An den beiden Prüfungstagen wurden insgesamt über 130 Hund gerichtetet und jew
 1. ohne Null durchkommen und bestehen!
 2. wenn alles gut läuft wäre eine Top Ten Platzierung grandios!
 
-Gleich die erste Aufgabe sollte dann leider aufgrund eines _technischer Fehler_ meinerseits unsere schlechteste sein und uns dies ein wertvolle Punkte kosteten. Die anderen Aufgaben verliefen dann (fast) allesamt sehr gut. Lediglich am zweiten Tag, in der Aufgabe von Thorsten Helmrath, musste ich einmal zur Pfeife greifen und Reggae etwas korrigieren.
+Gleich die erste Aufgabe sollte dann leider aufgrund eines _technischer Fehler_ meinerseits unsere schlechteste sein und uns ein paar wertvolle Punkte kosten. Die anderen Aufgaben verliefen dann (fast) allesamt sehr gut. Lediglich am zweiten Tag, in der Aufgabe von Thorsten Helmrath, musste ich einmal zur Pfeife greifen und Reggae etwas korrigieren.
 
 Am Ende des ersten langen Tags hatten wir alle Dummies drin und konnten uns bei gutem Wetter auf den zweiten Tag freuen. Auch am zweiten Tag lief es gut, so dass wir am Ende des Tages unser erstes Ziel als erfolgreich erledigt abhacken konnten. Insgesamt war ich mit Reggaes Leistung über die beiden Tage sehr zufrieden, sie war steady, aufmerksam und hat wie gewohnt sehr gut markiert.Nach unserer letzten Aufgabe schaltetet wir schnell und zufrieden in den Freizeitmodus, schlenderten herum, plauderten mit den Mitstartern und schauten bei den anderen Leistungsklassen zu.
 

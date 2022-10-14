@@ -18,7 +18,7 @@ Am Ende des ersten langen Tags hatten wir alle Dummies drin und konnten uns bei 
 Um so überraschter war ich als wir zu einem Stechen um eine Platzierung aufgerufen wurden. Es stellte sich heraus, dass wir mit noch zwei anderen Teams im Stechen um den die dritten Platz waren! Es musste dabei eine weite Markierung über einen kleinen Graben gearbeitet werden. Hier hatte jedoch ein Golden Retriever das wesentlich bessere Markierwasser getrunken und das Stechen verdient gewonnen. Wir landen mit 167/180 Punkten, nur einen Punkt hinter dem erstplatzierten Team, mit dem Prädikat **vorzüglich** überglücklich auf dem vierten Platz.
 
 
-<img src="../../../../assets/20221009-wta-finale.jpg" width="50%" height="50%">
+<img src="/assets/20221009-wta-finale.jpg" width="50%" height="50%">
 
 ***Stechen um Platz drei; Reggae and Me auf dem Weg zu Heike Reichelt***
 

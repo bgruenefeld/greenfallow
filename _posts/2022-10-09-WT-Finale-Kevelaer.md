@@ -18,9 +18,10 @@ Am Ende des ersten langen Tags hatten wir alle Dummies drin und konnten uns bei 
 Um so überraschter war ich als wir zu einem Stechen um eine Platzierung aufgerufen wurden. Es stellte sich heraus, dass wir mit noch zwei anderen Teams im Stechen um den die dritten Platz waren! Es musste dabei eine weite Markierung über einen kleinen Graben gearbeitet werden. Hier hatte jedoch ein Golden Retriever das wesentlich bessere Markierwasser getrunken und das Stechen verdient gewonnen. Wir landen mit 167/180 Punkten, nur einen Punkt hinter dem erstplatzierten Team, mit dem Prädikat **vorzüglich** überglücklich auf dem vierten Platz.
 
 
-<img src="/assets/20221009-wta-finale.jpg" width="50%" height="50%">
+<div style="float:left"><img src="/assets/20221009-wta-finale.jpg" width="45%" height="45%">***Stechen um Platz drei; Reggae and Me auf dem Weg zu Heike Reichelt***</div><div style="float:left"> <img src="/assets/wt-a-finale2022.jpeg" width="50%" height="50%">***Me und Trainingskameradin Ilka Bielefeld, die mit einem Punkt Vorsprung den ersten! Platz belegte***</div>
 
-***Stechen um Platz drei; Reggae and Me auf dem Weg zu Heike Reichelt***
+
+
 
 Insgesamt war die Leistungsdichte im oberen viertel sehr hoch - die ersten fünf Hunde trennte lediglich ein Punkt! Der vermeidbare technische Fehler aus unserer der ersten Aufgabe hat zwar ein _noch ein bischen besser_ verhindert, aber man lernt dazu und wir werden es beim nächsten mal besser machen! 
 

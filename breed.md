@@ -12,4 +12,4 @@ permalink: /breed/
 <p>Wir sind Mitglied im <a href="https://drc.de/" target="_blank">Deutscher Retriever Club e.V.</a> (DRC), angeschlossen an JGHV, VDH, FCI und züchten unter <a href="https://drc.de/zucht/zucht/ordnungen-vorschriften" target="_blank">den Zuchtauflagen des DRC</a>. </p>
 
 
-<div style="position: absolute; bottom: 125px;right: 30%;"><img src="/assets/logo-drc.jpg"> <img src="/assets/logo-vdh.jpg"> <img src="/assets/logo-fci.jpg"> <img src="/assets/logo-jghv.jpg"></div>
+<img src="/assets/logo-drc.jpg"> <img src="/assets/logo-vdh.jpg"> <img src="/assets/logo-fci.jpg"> <img src="/assets/logo-jghv.jpg">

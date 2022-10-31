@@ -17,7 +17,7 @@ Am Ende des ersten langen Tags hatten wir alle Dummies drin und konnten uns bei 
 
 <div style="float:left;width:70%"><img src="/assets/20221009-wta-finale.jpg" width="80%" height="80%"> <p style="font-style: italic;">Auf dem Weg zu Heike Reichelt - stechen um Platz drei.</p></div> 
 
-Um so überraschter war ich als wir zu einem Stechen um eine Platzierung aufgerufen wurden. Es stellte sich heraus, dass wir mit noch zwei anderen Teams im Stechen um den die dritten Platz waren! Es musste dabei eine weite Markierung über einen kleinen Graben gearbeitet werden. Hier hatte jedoch ein Golden Retriever besser markiert und das Stechen verdient gewonnen. Wir landeten mit 167/180 Punkten, nur einen Punkt hinter dem erstplatzierten Team, mit dem Prädikat **vorzüglich** überglücklich auf dem vierten Platz.
+Um so überraschter war ich als wir zu einem Stechen um eine Platzierung aufgerufen wurden. Es stellte sich heraus, dass wir mit noch zwei anderen Teams im Stechen um den die dritten Platz waren! Es musste dabei eine weite Markierung über einen kleinen Graben gearbeitet werden. Hier hatte jedoch ein Golden Retriever besser markiert und das Stechen verdient gewonnen. Wir landeten mit 167/180 Punkten, nur einen Punkt hinter dem erstplatzierten Team, mit dem Prädikat **vorzüglich** überglücklich auf dem vierten Platz. [<a href="https://drc-finale-2022.wixsite.com/start" target="_blank">Ergebnisse</a>]
 
 <div style="float:left"> <img src="/assets/wt-a-finale2022.jpeg" width="75%" height="75%">
   <p style="font-style: italic;">Reggae und ich nebst Trainingskameradin Ilka Bielefeld, die mit ihrer Hündin mit einem Punkt Vorsprung den ersten Platz belegte</p></div>

@@ -4,10 +4,12 @@ title: Hunde
 permalink: /dogs/
 ---
 
-[**Reggae vom Keien Fenn** (*15.06.2019)](dogs/reggae.html)
-
+<div style="float:left">
+  <a href="dogs/reggae.html"> Reggae vom Keien Fenn (*15.06.2019)</a>
 <img src="/assets/reggae-gallery/reggae-garten.jpeg" width="243"  />
+</div>
 
-[**Work and More Hannah** (*06.06.2012)](dogs/hannah.md)
-
+<div style="float:left">
+ <a href="dogs/hannah.md">Work and More Hannah (*06.06.2012)</a>
 <img src="/assets/hannah-gallery/hannah-dream.jpg" width="243" />
+</div>

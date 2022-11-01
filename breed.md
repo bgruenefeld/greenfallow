@@ -10,7 +10,7 @@ permalink: /breed/
 
 
 <img src="/assets/Reggae-welpe.jpg" width="300px" style="float: left;margin: 2%;" title="Baby Reggae, by Stefan Hübner">
-Wir züchten Labrador Retriever aus reinen Arbeitslinien. Dafür verwenden wir ausschließlich Hunde, die über Generationen hinweg auf die dem Labrador <a href="https://drc.de/retrieverrassen/labrador-retriever/standard" target="_blank">typischen Eigenschaften</a> selektiert wurden.
+Wir züchten Labrador Retriever aus reinen Arbeitslinien. Dafür verwenden wir ausschließlich Hunde, die über Generationen hinweg auf die dem Labrador <a href="https://drc.de/retrieverrassen/labrador-retriever/beschreibung" target="_blank">typischen Eigenschaften</a> selektiert wurden.
 
 Ziel ist es gesunde, leistungsfähige und -wesensfeste Hunde zu züchten, die möglichst über ein Höchstmaß an Arbeitsanlagen verfügen und ihren Besitzern Freude bereiten. Um diesem Anspruch möglichst nahe zu kommen, verwenden wir nach sorgfältiger Recherche Deckrüden aus Arbeitslinien die unseren Zielen entsprechen.
 

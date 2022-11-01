@@ -10,6 +10,6 @@ permalink: /dogs/
 </div>
 
 <div style="float:left; margin: 10px;">
- <p><strong><a href="hannah.md">Work and More Hannah (*06.06.2012)</a></strong></p>
+ <p><strong><a href="hannah">Work and More Hannah (*06.06.2012)</a></strong></p>
 <img src="/assets/hannah-gallery/hannah-dream.jpg" width="343" />
 </div>

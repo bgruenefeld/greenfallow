@@ -4,7 +4,9 @@ title: Würfe
 permalink: /litters/
 ---
 
-
+<div style="float:left; margin: 10px;">
+  <img style="float:left;" src="/assets/litters/hannah-lovely.png" width="250">
+</div>
 Aktuell planen wir mit **Reggae** unseren **A-Wurf**. Der Wurf wird vorbehaltich einer ausreichenden Anzahl von Interessenten im **Frühjahr 2023** stattfinden.
 
 Interessenten können sich per email unter <a href="mailto:greenmeadows@gmx.de">greenmeadows@gmx.de</a> bei uns melden.

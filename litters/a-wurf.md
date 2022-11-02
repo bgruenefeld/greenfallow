@@ -17,5 +17,7 @@ Für unseren A Wurf haben wir uns für einen sehr substanzvollen, gelben Rüden 
 
 Neben dem ausgezeichneten Exterieur hat der Rüde ein sehr freundliches und gelassenes Wesen. 
 
+
+
 Die Kombination ähnlicher Linien hat in der Vergangenheit sehr leistungsstarke Hunde mit Temperament und Arbeitswillen hervorgebracht, so dass wir uns für die Welpen dieses Wurfs aktive Menschen wünschen die mit den Hunden jagdlich, im Dummysport oder in der Rettunngshundearbeit arbeiten. 
 Als reine Familienhunde geben wir die Hunde nicht ab.

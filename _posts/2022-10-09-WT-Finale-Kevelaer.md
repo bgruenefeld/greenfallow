@@ -4,7 +4,7 @@ title: DRC Finale in Kevelaer!
 categories: reggae
 ---
 
-Da das Finale bereits um 7:30 Uhr gegann, haben wir uns schon am Freitag auf den Weg an den Niederrhein gemacht, um am Samstag früh ausgeschlafen an den Start gehen zu können.
+Da das Finale bereits um 7:30 Uhr begann, haben wir uns schon am Freitag auf den Weg an den Niederrhein gemacht, um am Samstag früh ausgeschlafen an den Start gehen zu können.
 
 An den beiden Prüfungstagen wurden insgesamt über 130 Hund gerichtetet und jeweils neun Aufgaben gearbeitet. Da es unser erstes Finale war und jede Menge gute Hunde und Hundeführer da waren, hatten wir uns zwei Zielen gesteckt:
 

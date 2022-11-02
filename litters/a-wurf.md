@@ -3,7 +3,7 @@ layout: page
 title: A Wurf
 permalink: /litters/a-wurf
 ---
-<img style="float:left;margin:20px" src="/assets/reggae-gallery/reggae-heu.jpeg" width="250"><img src="/assets/reggae-gallery/ruede-platzhalter.jpeg" width="270" style="float:left;margin:20px">
+<img style="float:left;margin:20px" src="/assets/litters/reggae-heu.jpeg" width="250"><img src="/assets/litters/ruede-platzhalter.jpeg" width="270" style="float:left;margin:20px">
 
 Für unseren A Wurf haben wir uns für einen sehr substanzvollen, gelben Rüden aus Field Trial Linien entschieden der im ständigen jagdlichen Einsatz steht. Neben dem ausgezeichneten Exterieur hat der Rüde ein sehr freundliches uns gelassenes Wesen. 
 

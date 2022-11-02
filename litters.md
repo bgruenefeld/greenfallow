@@ -10,7 +10,7 @@ Aktuell planen wir mit **Reggae** unseren **A-Wurf**. Der Wurf wird vorbehaltich
 Interessenten können sich gerne frühzeitig zunächst gerne per eMail unter <a href="mailto:greenmeadows@gmx.de">greenmeadows@gmx.de</a> bei uns melden.
 Wir beantworten dann gerne Ihre Fragen per e-mail oder in einem telefonat. 
 
-Auch Ersthundeführer sind herzlich willkommen!
+Auch Ersthundeführer sind herzlich willkommen und werden gerne mit Rat und Tat unterstützt!
 
 
 <div style="float:left; margin: 10px;">

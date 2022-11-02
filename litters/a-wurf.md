@@ -11,7 +11,9 @@ permalink: /litters/a-wurf
   <img src="/assets/litters/ruede-platzhalter.jpeg" width="270" style="float:left;">
   <p><strong><a href="#"> tbd</a></strong></p>
 </div>
+
 Für unseren A Wurf haben wir uns für einen sehr substanzvollen, gelben Rüden aus Field Trial Linien entschieden der im ständigen jagdlichen Einsatz steht.
+
 
 Neben dem ausgezeichneten Exterieur hat der Rüde ein sehr freundliches und gelassenes Wesen. 
 

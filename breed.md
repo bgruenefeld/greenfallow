@@ -9,7 +9,7 @@ permalink: /breed/
 >
 
 
-<img src="/assets/Reggae-welpe.jpg" width="300px" style="float: left;margin: 2%;" title="Baby Reggae, by Stefan Hübner">
+<img src="/assets/Reggae-welpe.jpg" width="300px" style="margin-top: 5px;margin-right: 15px;" title="Baby Reggae, by Stefan Hübner">
 Wir sind Mitglied im <a href="https://drc.de/" target="_blank">Deutscher Retriever Club e.V.</a> (DRC), angeschlossen an JGHV, VDH, FCI und züchten unter <a href="https://drc.de/zucht/zucht/ordnungen-vorschriften" target="_blank">den Zuchtauflagen des DRC</a> Labrador Retriever aus reinen Arbeitslinien, die über Generationen hinweg auf die dem Labrador <a href="https://drc.de/retrieverrassen/labrador-retriever/beschreibung" target="_blank">typischen Arbeitseigenschaften</a> selektiert wurden.
 
 <h3>Für unsere Welpenkäufer</h3>

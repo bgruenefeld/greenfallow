@@ -7,8 +7,8 @@ permalink: /litters/
 
 Aktuell planen wir mit **Reggae** unseren **A-Wurf**. Der Wurf wird vorbehaltich einer ausreichenden Anzahl von Interessenten im **Frühjahr 2023** stattfinden.
 
-Interessenten können sich gerne frühzeitig zunächst gerne per eMail unter <a href="mailto:greenmeadows@gmx.de">greenmeadows@gmx.de</a> bei uns melden.
-Wir beantworten dann gerne Ihre Fragen per e-mail oder in einem telefonat. 
+Interessenten können sich gerne frühzeitig zunächst gerne per email unter <a href="mailto:greenmeadows@gmx.de">greenmeadows@gmx.de</a> bei uns melden.
+Wir beantworten dann gerne Ihre Fragen per email oder in einem Telefonat. 
 
 Auch Ersthundeführer sind herzlich willkommen und werden gerne mit Rat und Tat unterstützt!
 

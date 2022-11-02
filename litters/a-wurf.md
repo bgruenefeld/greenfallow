@@ -4,12 +4,12 @@ title: A Wurf
 permalink: /litters/a-wurf
 ---
 <div style="float:left; margin: 10px;">
-  <p><strong><a href="reggae.html"> Reggae vom Keien Fenn (*15.06.2019)</a></strong></p>
-  <img style="float:left;margin:20px" src="/assets/litters/reggae-heu.jpeg" width="250">
+  <img style="float:left;" src="/assets/litters/reggae-heu.jpeg" width="250">
+  <p><strong><a href="reggae.html"> Reggae vom Keien Fenn</a></strong></p>
 </div>
 <div style="float:left; margin: 10px;">
-  <p><strong><a href="reggae.html"> tbd</a></strong></p>
-  <img src="/assets/litters/ruede-platzhalter.jpeg" width="270" style="float:left;margin:20px">
+  <img src="/assets/litters/ruede-platzhalter.jpeg" width="270" style="float:left;">
+  <p><strong><a href="#"> tbd</a></strong></p>
 </div>
 Für unseren A Wurf haben wir uns für einen sehr substanzvollen, gelben Rüden aus Field Trial Linien entschieden der im ständigen jagdlichen Einsatz steht. Neben dem ausgezeichneten Exterieur hat der Rüde ein sehr freundliches und gelassenes Wesen. 
 

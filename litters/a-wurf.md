@@ -4,11 +4,11 @@ title: A Wurf
 permalink: /litters/a-wurf
 ---
 <div style="width: 100%; float: left;">
-  <div style="float:left; margin: 10px;">
+  <div style="float:left; margin-right: 10px;">
     <img style="float:left;" src="/assets/litters/reggae-heu.jpeg" width="250">
     <p><strong><a href="/dogs/reggae.html"> Reggae vom Keien Fenn</a></strong></p>
   </div>
-  <div style="float:left; margin: 10px;">
+  <div style="float:left; margin-left: 10px;">
     <img src="/assets/litters/ruede-platzhalter.jpeg" width="270" style="float:left;">
     <p><strong><a href="#"> tbd</a></strong></p>
   </div>

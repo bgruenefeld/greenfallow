@@ -5,7 +5,7 @@ permalink: /litters/a-ruede
 ---
 
 <h3>Balbirnie Khaki</h3>
-<p>DK FTCh Studebaker Accord x Balbirnie Happy</p>
+<p>(DK FTCh Studebaker Accord x Balbirnie Happy)</p>
 <img src="https://www.balbirnie.dk/images/images_hunde/Khaki_20151220_01.JPG" width="500" style="float:left; margin-right:4%">
 Für diesen Wurf haben wir uns für einen Rüden entschieden der aus Linien stammt, die in ähnlichen Verpaarungen gesunde und leistungsstarke Arbeitshunde gebracht haben.
 

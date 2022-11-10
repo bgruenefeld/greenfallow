@@ -4,9 +4,9 @@ title: A Wurf Rüde
 permalink: /litters/a-ruede
 ---
 
-<h3>Balbirnie Khaki>h3>
+<h3>Balbirnie Khaki</h3>
 <p>DK FTCh Studebaker Accord x Balbirnie Happy</p>
-<img src="https://www.balbirnie.dk/images/images_hunde/Khaki_20151220_01.JPG" width="500" style="float:left; margin-right:5%">
+<img src="https://www.balbirnie.dk/images/images_hunde/Khaki_20151220_01.JPG" width="500" style="float:left; margin-right:4%">
 Für diesen Wurf haben wir uns für einen Rüden entschieden der aus Linien stammt, die in ähnlichen Verpaarungen gesunde und leistungsstarke Arbeitshunde gebracht haben.
 
 Balbirnie Khaki stammt aus sehr erfolgreichen britischen Field Trial Linien und wurde in Dänemark im <a href="https://www.balbirnie.dk/index.html" target="_blank">Kennel Balbirnie</a> von Per Maasbøl und Mette Voigt gezogen.

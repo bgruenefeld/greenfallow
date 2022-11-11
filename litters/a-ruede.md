@@ -16,6 +16,16 @@ Khaki lebt und arbeitet bei Per Maasbøl auf einer der großen kommerziellen Jag
  
 Wir konnten uns bei einem Besuch in Dänemark von Khakis exzellenten Arbeitsanlagen und seinem freundlichen, offenen Wesen überzeugen. Zudem ist er ein stattlicher Rüde mit einem sehr guten Exterieur.
 
+Here is a simple flow chart:
+
+```mermaid
+graph TD;
+    A-->B;
+    A-->C;
+    B-->D;
+    C-->D;
+```
+
 <details><summary>Ahnentafel</summary>
 <p>
 

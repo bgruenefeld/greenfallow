@@ -4,7 +4,7 @@ title: Über uns
 permalink: /about/
 ---
 
-Hunde gab es bereits seit kindesbeinen in unseren Familien, und seit inzwischen 15 Jahren bereichern Labradore unsere Familie. 
+Hunde gab es bereits seit kindesbeinen in unseren Familien, und seit inzwischen 15 Jahren bereichern Labradore unser Leben. 
 
 Zuerst zog ein Labradorrüde (Runi) als reiner Familienhund ein. Runi hatte eine phantastische Nase und gute jagdliche Anlagen, allerdings ein mässiges Nervenkostüm hatte. Beides erforderte sich intensiver mit dem Thema Hund zu beschäftigen und so enstand schnell ein schönes Hobby, dass den Kopf wunderbar freiblässt und einen tollen Ausgleich zum ansonsten kopflastigem Berufsleben bietet.
 

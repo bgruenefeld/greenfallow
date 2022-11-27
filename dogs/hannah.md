@@ -6,7 +6,7 @@ permalink: /dogs/hannah
 
 **Work and More Flame x FTW Saxaphone John Smiths**
 
-DOB|*06.06.2012 
+DOB|*06.06.2012, aus jagdl. Leistungszucht  
 :--|:--
 Züchterinnen|  <a href="http://www.workandmore.de" target="_blank">Dietmar Romeike (Work and More) </a>
 Arbeitsergebnisse (Auszug)| Arbeitsergebnisse (Auszug): APD-A 2. Platz (sehr gut), diverse F Workingtests

@@ -1,5 +1,4 @@
-#remote_theme: jekyll/minima
-remote_theme: jekyll/slate
+remote_theme: jekyll/minima
 header_pages:
   - blog.md
   - dogs.md
@@ -13,4 +12,3 @@ minima:
   paginate_path: "/blog/page:num/"    
 plugins:
  - jekyll-paginate
- - jekyll-remote-theme 

@@ -1,5 +1,5 @@
-remote_theme: jekyll/minima
-#remote_theme:
+#remote_theme: jekyll/minima
+remote_theme: pages-themes/slate@v0.2.0
 header_pages:
   - blog.md
   - dogs.md

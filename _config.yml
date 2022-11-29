@@ -1,4 +1,5 @@
-remote_theme: manid2/lone-wolf-theme
+remote_theme: jekyll/minima
+#remote_theme:
 header_pages:
   - blog.md
   - dogs.md

@@ -13,3 +13,4 @@ minima:
   paginate_path: "/blog/page:num/"    
 plugins:
  - jekyll-paginate
+ - jekyll-remote-theme 

@@ -6,6 +6,7 @@ header_pages:
   - breed.md
   - about.md
 show_excerpts: true
+site_title: greenfallow labradors
 minima:
   paginate: 3
   paginate_path: "/blog/page:num/"    

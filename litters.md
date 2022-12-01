@@ -11,7 +11,7 @@ permalink: /litters/
 </div>
 
 
-Aktuell planen wir mit **Reggae** unseren <a href="a-wurf"><strong>A-Wurf</strong></a>. Der Wurf wird vorbehaltlich einer ausreichenden Anzahl von Interessenten im **Frühjahr 2023** stattfinden.
+Aktuell planen wir mit <a href="/dogs/reggae.html">**Reggae**</a> unseren <a href="a-wurf"><strong>A-Wurf</strong></a>. Der Wurf wird vorbehaltlich einer ausreichenden Anzahl von Interessenten im **Frühjahr 2023** stattfinden.
 
 Interessenten können sich per email unter <a href="mailto:greenfallow@gmx.de">greenfallow@gmx.de</a> bei uns melden.
 Gerne beantworten wir dann Ihre Fragen per email oder in einem Telefonat.

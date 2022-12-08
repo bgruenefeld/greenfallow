@@ -8,7 +8,7 @@ permalink: /litters/a-ruede
 #### (DK FTCh Studebaker Accord x Balbirnie Happy)
 
 <img src="https://www.balbirnie.dk/images/images_hunde/Khaki_20151220_01.JPG" width="500" style="float:left; margin-right:3%">
-Bei diesen Wurf haben wir uns für einen Rüden entschieden der aus Linien stammt, die in ähnlichen Verpaarungen gesunde und leistungsstarke Arbeitshunde gebracht haben.
+Bei diesem Wurf haben wir uns für einen Rüden entschieden der aus Linien stammt, die in ähnlichen Verpaarungen gesunde und leistungsstarke Arbeitshunde gebracht haben.
 
 Balbirnie Khaki stammt aus sehr erfolgreichen britischen Field Trial Linien und wurde in Dänemark im <a href="https://www.balbirnie.dk/index.html" target="_blank">Kennel Balbirnie</a> von Per Maasbøl und Mette Voigt gezogen. Er stammt aus einer Verpaarung von DK FTCh Studebaker Accord und Balbirnie Happy und geht damit auf FTCh Eastdale Harry zurück, der widerum zahlreiche sehr gute und führige Jagdhunde gebracht hat. 
 

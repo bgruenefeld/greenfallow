@@ -9,8 +9,9 @@ permalink: /litters/a-wurf
     <p><strong><a href="/dogs/reggae.html"> Reggae vom Keien Fenn</a></strong></p>
   </div>
   <div style="float:left; margin-left: 10px;">
-    <img src="/assets/litters/ruede-platzhalter.jpeg" width="270" style="float:left;">
-    <p><strong><a href="#"> tbd</a></strong></p>
+    <!--img src="/assets/litters/ruede-platzhalter.jpeg" width="270" style="float:left;"-->
+    <img src="https://www.balbirnie.dk/images/images_hunde/Khaki_20151220_01.JPG" width="270" style="float:left;">
+    <p><strong><a href="/litters/a-ruede">Balbirnie Khaki</a></strong></p>
   </div>
 </div>
 

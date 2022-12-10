@@ -20,7 +20,7 @@ Am Ende des ersten langen Tags hatten wir alle Dummies drin und konnten uns bei 
 Um so überraschter war ich als wir zu einem Stechen um eine Platzierung aufgerufen wurden. Es stellte sich heraus, dass wir mit noch zwei anderen Teams im Stechen um den die dritten Platz waren! Es musste dabei eine weite Markierung über einen kleinen Graben gearbeitet werden. Hier hatte jedoch ein Golden Retriever besser markiert und das Stechen verdient gewonnen. Wir landeten mit 167/180 Punkten, einen Punkt hinter dem erstplatzierten Team, mit dem Prädikat **vorzüglich** überglücklich auf dem vierten Platz. [<a href="https://drc-finale-2022.wixsite.com/start" target="_blank">Ergebnisse</a>]
 
 <div style="float:left"> <img src="/assets/wt-a-finale2022.jpeg" width="75%" height="75%">
-  <p style="font-style: italic;">Reggae und ich nebst Trainingskameradin Ilka Bielefeld (<a href="https://www.hundeschule-bringfreude.de/">Hundeschule Bringfreude</a>), die mit ihrer Hündin mit einem Punkt Vorsprung den ersten Platz belegte.</p></div>
+  <p style="font-style: italic;">Reggae und ich nebst Trainingskameradin Ilka Bielefeld (<a href="https://www.hundeschule-bringfreude.de/" target="_blank">Hundeschule Bringfreude</a>), die mit ihrer Hündin mit einem Punkt Vorsprung den ersten Platz belegte.</p></div>
 
 Insgesamt war die Leistungsdichte im oberen viertel sehr hoch - die ersten fünf Hunde trennte lediglich ein Punkt! Der vermeidbare technische Fehler aus der ersten Aufgabe hat zwar ein _noch ein bischen besser_ verhindert, aber man lernt dazu und wir werden es beim nächsten mal besser machen! 
 

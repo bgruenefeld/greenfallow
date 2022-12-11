@@ -10,7 +10,7 @@ permalink: /litters/a-wurf
   </div>
   <div style="float:left; margin-left: 10px;">
     <!--img src="/assets/litters/ruede-platzhalter.jpeg" width="270" style="float:left;"-->
-    <img src="/assets/khaki-gallery/Khaki_11- Monate-20151220_01.JPG" width="270" style="float:left;">
+    <img src="/assets/khaki-gallery/studdog-a.jpg" width="270" style="float:left;">
     <p><strong>NN</strong></p>
   </div>
 </div>

@@ -4,7 +4,7 @@ title: Deckrüde des A-Wurfs gefunden!
 categories: reggae
 ---
 
-Die Wahl eines passenden Rüden für unseren <a href="litters">A-Wurf</a> war eine langwierige und aufwändige Sache 
+Die Wahl eines passenden Rüden für unseren <a href="/litters">A-Wurf</a> war eine langwierige und aufwändige Sache 
 und am Ende gehört natürlich auch eine gute Portion Bauchgefühl dazu.
 
 Schliesslich aber haben sich all die Recherchen, Besuche bei potentiellen Deckrüden und die zahlreichen Kilometer auf der Tachonadel gelohnt.

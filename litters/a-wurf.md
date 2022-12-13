@@ -5,7 +5,7 @@ permalink: /litters/a-wurf
 ---
 <div style="width: 100%; float: left;">
   <div style="float:left; margin-right: 10px;">
-    <img style="float:left;" src="/assets/litters/reggae-heu.jpeg" width="250">
+    <img style="float:left;" src="/assets/litters/reggae-sitzt2.jpeg" width="250">
     <p><strong><a href="/dogs/reggae.html"> Reggae vom Keien Fenn</a></strong></p>
   </div>
   <div style="float:left; margin-left: 10px;">

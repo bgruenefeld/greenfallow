@@ -10,9 +10,9 @@ permalink: /litters/a-ruede
 <img src="https://www.balbirnie.dk/images/images_hunde/Khaki_20151220_01.JPG" width="500" style="float:left; margin-right:3%">
 Bei diesem Wurf haben wir uns für einen Rüden entschieden der aus Linien stammt, die in ähnlichen Verpaarungen gesunde und leistungsstarke Arbeitshunde gebracht haben.
 
-Balbirnie Khaki stammt aus sehr erfolgreichen britischen Field Trial Linien und wurde in Dänemark im <a href="https://www.balbirnie.dk/index.html" target="_blank">Kennel Balbirnie</a> von Per Maasbøl und Mette Voigt gezogen. Er stammt aus einer Verpaarung von DK FTCh Studebaker Accord und Balbirnie Happy und geht damit auf FTCh Eastdale Harry zurück, der widerum zahlreiche sehr gute und führige Jagdhunde gebracht hat. 
+Balbirnie Khaki stammt aus sehr erfolgreichen britischen Field Trial Linien und wurde in Dänemark im <a href="https://www.balbirnie.dk/index.html" target="_blank">Kennel Balbirnie</a> von Per Maasbøl und Mette Voigt gezogen. Er stammt aus einer Verpaarung von DK FTCh Studebaker Accord und Balbirnie Happy und geht auf FTCh Eastdale Harry zurück. FTCh Eastdale Harry hat 2010 und 2012 auf der IGL Retriever Championship ein Diplom of Merit gewonnen und hat seine guten Eigenschaften an zahlreiche Nachkommen weitergegeben. 
 
-Khaki lebt und arbeitet bei Per Maasbøl auf einer der großen kommerziellen Jagden in Dänemark und kann hier seiner großen Apportierleidenschaft nachgehen. In der Jagdsaison ist er an mehreren Tage die Woche auf Fasanen- und Entenjagden im Einsatz.
+Khaki lebt und arbeitet bei Per Maasbøl auf einer der großen kommerziellen Jagden in Dänemark und kann hier seiner großen Apportierleidenschaft nachgehen. In der Jagdsaison ist er an mehreren Tagen die Woche auf Fasanen- und Entenjagden im Einsatz.
  
 Wir konnten uns bei einem Besuch in Dänemark von Khakis exzellenten Arbeitsanlagen und seinem freundlichen, offenen Wesen überzeugen. Zudem ist er ein stattlicher Rüde mit einem sehr guten Exterieur.
 <div style="float: right; margin-top: 20px;width:75%">

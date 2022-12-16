@@ -1,6 +1,6 @@
 ---
 layout: post
-title: APD-A mit sehr gut bestanden"
+title: APD-A mit sehr gut bestanden
 categories: reggae
 ---
 

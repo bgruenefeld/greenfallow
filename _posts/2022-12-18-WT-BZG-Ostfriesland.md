@@ -5,6 +5,7 @@ categories: hannah
 ---
 
 Die **BZG Ostfriesland** hatte zum internen Team WT (A/F) eingeladen und wir sind gerne gekommen!
+
 <img src="/assets/hannah-gallery/hannah-wt-bzg-ostfriesland.jpeg" height="400" style="float:right;margin:20px">
 
 Eigentlich hatte ich geplant dort mit Reggae zu starten, aber wir dürfen unsere älteren Hunde nicht vergessen

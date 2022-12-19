@@ -22,3 +22,6 @@ Neben dem ausgezeichneten Exterieur hat der Rüde ein sehr freundliches und gela
 Die Kombination ähnlicher Linien hat in der Vergangenheit leistungsstarke Hunde mit Temperament und Arbeitswillen gebracht, so dass wir uns für die Welpen dieses Wurfs aktive Menschen wünschen die mit den Hunden jagdlich, im Dummysport oder in der Rettungshundearbeit arbeiten. 
 
 Als reine Familienhunde sollen die Hunde nicht abgegeben werden.
+
+Interessierte können sich gerne per email greenfallow@gmx.de oder telefonisch unter 01520-9254556 bei uns melden. Gerne beantworten wir dann ausführlich Ihre Fragen.
+

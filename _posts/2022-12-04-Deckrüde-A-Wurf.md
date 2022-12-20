@@ -8,7 +8,7 @@ carousels:
     - image: /assets/stud-gallery/a-stud-sit-fromside.jpeg
 ---
 
-{% include carousel.html height="300px" unit="px" duration="7" number="1" %}
+{% include carousel.html height="300" unit="px" duration="7" number="1" %}
 
 Die Wahl eines passenden Rüden für unseren <a href="/litters">A-Wurf</a> war eine langwierige und aufwändige Sache 
 und am Ende gehörte natürlich auch eine gute Portion Bauchgefühl dazu.

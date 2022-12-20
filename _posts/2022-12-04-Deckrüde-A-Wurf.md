@@ -6,6 +6,8 @@ carousels:
   - images: 
     - image: /assets/stud-gallery/a-stud-sniffing-dummy.jpeg
     - image: /assets/stud-gallery/a-stud-sit-fromside.jpeg
+    - image /assets/stud-gallery/studdog-a.jpg
+    - image /assets/stud-gallery/Balbirnie Khaki_Kopf-DSC_2334.jpg
 ---
 
 Die Wahl eines passenden Rüden für unseren <a href="/litters">A-Wurf</a> war eine langwierige und aufwändige Sache 

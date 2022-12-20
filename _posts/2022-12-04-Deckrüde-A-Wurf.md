@@ -12,8 +12,11 @@ Schliesslich aber haben sich all die Recherchen, Besuche bei potentiellen Deckr�
 Im tiefsten Dänemark sind wir fündig geworden und haben eine äußerst liebenswerten Rüden getroffen, der nicht nur hervorragend arbeitet, 
 sondern auch noch klasse aussieht. Wir haben das Gefühl das er sehr gut zu Reggae passt!
 
-<!-- img src="/assets/stud-gallery/a-stud-sniffing-dummy.jpeg" height="400" style="float:right;margin:20px" -- >
+
 
 Demnächst werden wir ihn auf einer separaten Seite vorstellen.
 
 Jetzt freuen wir uns auf Reggae´s nächste Läüfigkeit im Frühjahr, um dann erneut den Auserwählten zu besuchen ... 🤗
+
+
+<!-- img src="/assets/stud-gallery/a-stud-sniffing-dummy.jpeg" height="400" style="float:right;margin:20px" -- >

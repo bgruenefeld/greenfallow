@@ -21,5 +21,5 @@ Demnächst werden wir ihn auf einer separaten Seite vorstellen.
 
 Jetzt freuen wir uns auf Reggae´s nächste Läüfigkeit im Frühjahr, um dann erneut den Auserwählten zu besuchen ... 🤗
 
-{% include carousel.html height="100" unit="%" duration="7" number="1" %}
+{% include carousel.html height="100" unit="px" duration="27" number="1" %}
 

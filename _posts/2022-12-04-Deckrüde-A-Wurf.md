@@ -8,8 +8,6 @@ carousels:
     - image: /assets/stud-gallery/a-stud-sit-fromside.jpeg
 ---
 
-{% include carousel.html height="300" unit="px" duration="7" number="1" %}
-
 Die Wahl eines passenden Rüden für unseren <a href="/litters">A-Wurf</a> war eine langwierige und aufwändige Sache 
 und am Ende gehörte natürlich auch eine gute Portion Bauchgefühl dazu.
 
@@ -21,4 +19,5 @@ Demnächst werden wir ihn auf einer separaten Seite vorstellen.
 
 Jetzt freuen wir uns auf Reggae´s nächste Läüfigkeit im Frühjahr, um dann erneut den Auserwählten zu besuchen ... 🤗
 
+{% include carousel.html height="100" unit="%" duration="7" number="1" %}
 

@@ -19,7 +19,7 @@ sondern auch noch klasse aussieht. Wir haben das Gefühl das er sehr gut zu Regg
 
 Demnächst werden wir ihn auf einer separaten Seite vorstellen.
 
-Jetzt freuen wir uns auf Reggae´s nächste Läüfigkeit im Frühjahr, um dann erneut den Auserwählten zu besuchen ... 🤗
+Jetzt freuen wir uns auf Reggae´s nächste Läufigkeit im Frühjahr, um dann erneut den Auserwählten zu besuchen ... 🤗
 
-{% include carousel.html height="100" unit="px" duration="27" number="1" %}
+{% include carousel.html height="100" unit="%" duration="27" number="1" %}
 

@@ -4,10 +4,10 @@ title: 4ter Advent mal anders - interner Team WT BZG Ostfriesland
 categories: hannah
 ---
 
-<img src="/assets/hannah-gallery/hannah-schnee-klein.jpg" height="400" style="float:left;margin:20px">
+
 Die **BZG Ostfriesland** hatte zum internen Team WT (A/F) eingeladen und wir sind gerne gekommen!
 
-
+<img src="/assets/hannah-gallery/hannah-schnee-klein.jpg" height="400" style="float:right;margin:20px">
 
 Eigentlich hatte ich geplant dort mit Reggae zu starten, aber wir dürfen unsere älteren Hunde nicht vergessen
 und so bin ich kurzerhand mit **Work and More Hannah** angetreten.

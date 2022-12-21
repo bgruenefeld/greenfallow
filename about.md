@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Über uns
+description: Informationen über die Züchter
 permalink: /about/
 ---
 

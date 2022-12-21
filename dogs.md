@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Hunde
+description: Informationen zu unseren Hunden
 permalink: /dogs/
 ---
 

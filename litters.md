@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Würfe
+description: Informationen zu geplanten Würfen
 permalink: /litters/
 ---
 

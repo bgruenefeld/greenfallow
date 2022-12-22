@@ -21,9 +21,6 @@ Jetzt freuen wir uns auf Reggae´s nächste Läufigkeit im Frühjahr, um dann er
 
 Demnächst werden wir ihn noch detailiert auf einer separaten Seite vorstellen. Hier schon mal vorab ein paar Fotos von ihm:
 
-<!-- div style="width:20rem;float:right" -->
-  <p style="float: right;
-    position: relative;
-    margin: 10px;">
-{% include carousel.html height="100" unit="%" duration="27" number="1" %}
+<p style="float:right;width:20rem;position:relative; margin: 10px;">
+  {% include carousel.html height="100" unit="%" duration="27" number="1" %}
 </p>

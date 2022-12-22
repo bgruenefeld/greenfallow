@@ -18,7 +18,7 @@ und am Ende gehörte natürlich auch eine gute Portion Bauchgefühl dazu.
   <p style="float: right;
     position: relative;
     margin: 10px;">
-{% include carousel.html height="400" unit="px" duration="27" number="1" %}
+{% include carousel.html width="400" unit="px" duration="27" number="1" %}
 </p>
 Schliesslich aber haben sich all die Recherchen, Besuche bei potentiellen Deckrüden und die zahlreichen zusätzlichen Kilometer auf dem Tachometer gelohnt.
 Im tiefsten Dänemark sind wir fündig geworden und haben eine äußerst liebenswerten Rüden getroffen, der nicht nur hervorragend arbeitet, 

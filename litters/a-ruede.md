@@ -10,13 +10,16 @@ permalink: /litters/a-ruede
 <img src="https://www.balbirnie.dk/images/images_hunde/Khaki_20151220_01.JPG" width="500" style="float:left; margin-right:3%">
 Bei diesem Wurf haben wir uns für **Balbirnie Khaki** entschieden. Er stammt aus Linien, die in ähnlichen Verpaarungen wie unser A-Wurf gesunde und leistungsstarke Arbeitshunde gebracht haben.
  
-Wir konnten uns bei einem Besuch bei seinem Besitzer Per Masboel in Dänemark von Khakis freundlichen und offenen Wesen überzeugen. Ich habe selten einen so fröhlichen, offenen und zugleich unaufdringlichen Rüden gesehen. Als er uns sah kam er sofort auf uns zu, lies sich streicheln und suchte freudig wedelnd körperkontakt. Auch eine Demonstration seiner Arbeitsleistung war beeindruckend. 
+**Balbirnie Khaki** haben wir bei seinem Besitzer Per Masboel in Dänemark als sehr freundlichen und offenen Labrador kennengelernt überzeugen. Ich habe selten einen so fröhlichen, offenen und zugleich unaufdringlichen Rüden gesehen. Als er uns sah kam er sofort auf uns zu, lies sich sofort streicheln und suchte freudig wedelnd körperkontakt. 
 
-Khaki arbeitet auf einer der großen kommerziellen Jagden in Dänemark und kann hier seiner großen Apportierleidenschaft nachgehen. In der Jagdsaison ist er an mehreren Tagen die Woche auf Fasanen- und Entenjagden im Einsatz.
+Khaki arbeitet auf einer großen kommerziellen Jagd in Dänemark als picking up dog und kann hier seiner großen Apportierleidenschaft ausgiebig nachgehen. In der Jagdsaison ist er an mehreren Tagen pro Woche auf Fasanen- und Entenjagden im Einsatz. Eine Demonstration seiner Arbeitsleistung war sehr beeindruckend. 
 
-Als Sahnehäubchen quasi ist er zudem ein sehr stattlicher Rüde mit einem guten Exterieur.
+Das Sahnehäubchen ist Khaki ein stattlicher und athletischer Rüde mit einem sehr guten Exterieur ist.
 
-Balbirnie Khaki stammt aus sehr erfolgreichen britischen Field Trial Linien und wurde in Dänemark im <a href="https://www.balbirnie.dk/index.html" target="_blank">Kennel Balbirnie</a> von Per Maasbøl und Mette Voigt gezogen. Er stammt aus einer Verpaarung von DK FTCh Studebaker Accord und Balbirnie Happy und geht damit auf FTCh Eastdale Harry zurück. FTCh Eastdale Harry gewann 2010 und 2012 auf der IGL Retriever Championship ein Diplom of Merit und hat seine guten Eigenschaften an zahlreiche Nachkommen weitergegeben. Jüngst qualifizierte sich Khakis Halbschwester FTCh Skovanger’s Six Mile Woodcock für die IGL 2022 und war bis zum dritten Tag dabei. Damit schaffte sie es unter die besten zehn Hunde bei dieser Eliteprüfung zu kommen. In der Mutterlinie geht Khaki auf den IGL Championchips Gewinner von 2002, FTCh Bringwood Bobby of Brindelbay zurück.
+Balbirnie Khaki stammt aus sehr erfolgreichen britischen Field Trial Linien und wurde in Dänemark im <a href="https://www.balbirnie.dk/index.html" target="_blank">Kennel Balbirnie</a> gezüchtet. 
+Er stammt aus einer Verpaarung von DK FTCh Studebaker Accord und Balbirnie Happy und geht auf FTCh Eastdale Harry zurück. FTCh Eastdale Harry gewann 2010 und 2012 auf der IGL Retriever Championship ein Diplom of Merit und hat seine guten Eigenschaften an zahlreiche Nachkommen weitergegeben. 
+Jüngst qualifizierte sich Khakis Halbschwester FTCh Skovanger’s Six Mile Woodcock mit ihrer jungen Hundeführerin für die IGL Championchips 2022 und war bis zum dritten Tag dabei. Damit schaffte sie es unter die besten zehn Hunde bei dieser Eliteprüfung zu kommen. 
+Khaki geht in der Mutterlinie auf FTCh Bringwood Bobby of Brindelbay (IGL Championchips Gewinner 2002) zurück und wurde von Per über Generationen  aufgebaut.
  
 <div style="float: right; margin-top: 20px;width:75%">
     <div>{% include image-gallery.html folder="/assets/stud-gallery" %}</div>   

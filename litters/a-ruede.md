@@ -9,11 +9,11 @@ permalink: /litters/a-ruede
 
 <img src="https://www.balbirnie.dk/images/images_hunde/Khaki_20151220_01.JPG" width="500" style="float:left; margin-right:3%">
  
-**Balbirnie Khaki** haben wir bei seinem Besitzer Per Masboel in Dänemark als sehr freundlichen Labrador kennengelernt. Ich habe selten einen so fröhlichen, offenen und zugleich unaufdringlichen Rüden gesehen. Als er uns sah kam er sofort auf uns zu, lies sich sofort streicheln und suchte freudig wedelnd Körperkontakt. 
+**Balbirnie Khaki** haben wir bei seinem Besitzer Per Masboel in Dänemark als sehr freundlichen Labrador kennengelernt. Ich habe selten einen so fröhlichen, offenen und zugleich unaufdringlichen Rüden gesehen. Als er uns sah kam er ohne zu zögern auf uns zu, lies sich sofort streicheln und suchte freudig wedelnd Körperkontakt. 
 
 Khaki arbeitet auf einer großen kommerziellen Jagd in Dänemark als picking up dog und kann hier seiner großen Apportierleidenschaft ausgiebig nachgehen. In der Jagdsaison ist er an mehreren Tagen pro Woche auf Fasanen- und Entenjagden im Einsatz. Eine Demonstration seiner Arbeitsleistung war sehr beeindruckend. 
 
-Das Sahnehäubchen ist Khaki ein stattlicher und athletischer Rüde mit einem sehr guten Exterieur ist.
+Das Sahnehäubchen ist das Khaki zudem ein stattlicher und athletischer Rüde mit einem sehr guten Exterieur ist.
 
 Balbirnie Khaki stammt aus sehr erfolgreichen britischen Field Trial Linien und wurde in Dänemark im <a href="https://www.balbirnie.dk/index.html" target="_blank">Kennel Balbirnie</a> gezüchtet. 
 Er stammt aus einer Verpaarung von DK FTCh Studebaker Accord und Balbirnie Happy und geht auf FTCh Eastdale Harry zurück. FTCh Eastdale Harry gewann 2010 und 2012 auf der IGL Retriever Championship ein Diplom of Merit und hat seine guten Eigenschaften an zahlreiche Nachkommen weitergegeben. 

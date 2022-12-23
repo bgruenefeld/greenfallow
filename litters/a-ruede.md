@@ -9,7 +9,7 @@ permalink: /litters/a-ruede
 
 <img src="https://www.balbirnie.dk/images/images_hunde/Khaki_20151220_01.JPG" width="500" style="float:left; margin-right:3%">
  
-**Balbirnie Khaki** haben wir bei seinem Besitzer Per Masboel in Dänemark als sehr freundlichen und offenen Labrador kennengelernt überzeugen. Ich habe selten einen so fröhlichen, offenen und zugleich unaufdringlichen Rüden gesehen. Als er uns sah kam er sofort auf uns zu, lies sich sofort streicheln und suchte freudig wedelnd körperkontakt. 
+**Balbirnie Khaki** haben wir bei seinem Besitzer Per Masboel in Dänemark als sehr freundlichen Labrador kennengelernt. Ich habe selten einen so fröhlichen, offenen und zugleich unaufdringlichen Rüden gesehen. Als er uns sah kam er sofort auf uns zu, lies sich sofort streicheln und suchte freudig wedelnd Körperkontakt. 
 
 Khaki arbeitet auf einer großen kommerziellen Jagd in Dänemark als picking up dog und kann hier seiner großen Apportierleidenschaft ausgiebig nachgehen. In der Jagdsaison ist er an mehreren Tagen pro Woche auf Fasanen- und Entenjagden im Einsatz. Eine Demonstration seiner Arbeitsleistung war sehr beeindruckend. 
 

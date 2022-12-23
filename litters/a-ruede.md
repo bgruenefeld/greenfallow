@@ -8,7 +8,6 @@ permalink: /litters/a-ruede
 #### (DK FTCh Studebaker Accord x Balbirnie Happy)
 
 <img src="https://www.balbirnie.dk/images/images_hunde/Khaki_20151220_01.JPG" width="500" style="float:left; margin-right:3%">
-Bei diesem Wurf haben wir uns für **Balbirnie Khaki** entschieden. Er stammt aus Linien, die in ähnlichen Verpaarungen wie unser A-Wurf gesunde und leistungsstarke Arbeitshunde gebracht haben.
  
 **Balbirnie Khaki** haben wir bei seinem Besitzer Per Masboel in Dänemark als sehr freundlichen und offenen Labrador kennengelernt überzeugen. Ich habe selten einen so fröhlichen, offenen und zugleich unaufdringlichen Rüden gesehen. Als er uns sah kam er sofort auf uns zu, lies sich sofort streicheln und suchte freudig wedelnd körperkontakt. 
 

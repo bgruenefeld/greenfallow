@@ -15,8 +15,8 @@ Khaki arbeitet auf einer großen kommerziellen Jagd in Dänemark als picking up 
 
 Zudem ist das Khaki ein stattlicher und athletischer Rüde mit einem sehr guten Exterieur.
 
-Balbirnie Khaki stammt aus sehr erfolgreichen britischen Field Trial Linien und wurde in Dänemark im <a href="https://www.balbirnie.dk/index.html" target="_blank">Kennel Balbirnie</a> gezüchtet. 
-Er stammt aus einer Verpaarung von DK FTCh Studebaker Accord und Balbirnie Happy und geht auf FTCh Eastdale Harry zurück. FTCh Eastdale Harry gewann 2010 und 2012 auf der IGL Retriever Championship ein Diplom of Merit und hat seine guten Eigenschaften an zahlreiche Nachkommen weitergegeben. 
+Balbirnie Khaki stammt aus sehr erfolgreichen britischen Field Trial Linien und wurde in Dänemark gezüchtet. 
+Er stammt aus einer Verpaarung von DK FTCh Studebaker Accord und Balbirnie Happy und geht auf **FTCh Eastdale Harry** zurück. FTCh Eastdale Harry gewann 2010 und 2012 auf der IGL Retriever Championship ein Diplom of Merit und hat seine guten Eigenschaften an zahlreiche Nachkommen weitergegeben. 
 Jüngst qualifizierte sich mit Khakis Halbschwester FTCh Skovanger’s Six Mile Woodcock ein weiterer Eastdale Harry Nachkomme mit ihrer jungen Hundeführerin für die IGL Championchips 2022 und war bis zum dritten Finaltag dabei. Damit schaffte sie es unter die besten zehn Hunde bei dieser Eliteprüfung. 
 Khakis Mutterlinie geht auf FTCh Bringwood Bobby of Brindelbay (IGL Championchips Gewinner 2002) zurück und wurde von Per über Generationen aufgebaut.
  

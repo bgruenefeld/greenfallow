@@ -15,7 +15,11 @@ carousels:
 Als wir dann den jetzt ausgesuchten Rüden sahen, war ganz schnell klar dass es dieser Rüde sein soll!
 </p>
 
-<div style="float:right;width:20rem;position:relative;">
+<div style="float: right;
+    width: 350px;
+    position: relative;
+    left: 10px;
+    margin: 10px;">
   {% include carousel.html height="100" unit="%" duration="90" number="1" %}
 </div>
 

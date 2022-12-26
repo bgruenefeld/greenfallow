@@ -10,8 +10,8 @@ permalink: /litters/a-wurf
   </div>
   <div style="float:left; margin-left: 10px;">
     <!--img src="/assets/litters/ruede-platzhalter.jpeg" width="270" style="float:left;"-->
-    <img src="/assets/stud-gallery/studdog-a-blured.jpg" width="250" style="float:left;">
-    <p><strong>NN</strong></p>
+    <img src="/assets/stud-gallery/a-stud-looking-up.jpeg" width="250" style="float:left;">
+    <p><strong><a href="/reggae/2022/12/04/Deckrüde-A-Wurf.html">Deckrüde</a></strong></strong></p>
   </div>
 </div>
 

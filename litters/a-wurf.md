@@ -5,13 +5,13 @@ permalink: /litters/a-wurf
 ---
 <div style="width: 100%; float: left;">
   <div style="float:left; margin-right: 10px;">
-    <img style="float:left;" src="/assets/litters/reggae-sitzt2.jpeg" width="250">
+    <a href="/dogs/reggae.html"><img style="float:left;" src="/assets/litters/reggae-sitzt2.jpeg" width="250"></a>
     <p><strong><a href="/dogs/reggae.html"> Reggae vom Keien Fenn</a></strong></p>
   </div>
   <div style="float:left; margin-left: 10px;">
     <!--img src="/assets/litters/ruede-platzhalter.jpeg" width="270" style="float:left;"-->
-    <img src="/assets/stud-gallery/a-stud-looking-up.jpeg" width="250" style="float:left;">
-    <p><strong><a href="/reggae/2022/12/04/Deckrüde-A-Wurf.html">Deckrüde</a></strong></strong></p>
+    <a href="/reggae/2022/12/04/Deckrüde-A-Wurf.html"><img src="/assets/stud-gallery/a-stud-looking-up.jpeg" width="250" style="float:left;"></a>
+    <p><strong><a href="/reggae/2022/12/04/Deckrüde-A-Wurf.html">Deckrüde</a></strong></p>
   </div>
 </div>
 

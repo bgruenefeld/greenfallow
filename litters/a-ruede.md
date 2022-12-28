@@ -30,8 +30,8 @@ Jüngst qualifizierte sich mit Khakis Halbschwester FTCh Skovanger’s Six Mile 
 </p>
 </details>
 <form action="https://getform.io/f/7fd5d510-bc6f-41d8-9b50-06c05c43ddae" method="POST">
-    <input type="text" name="name">
-    <input type="email" name="email">
+ <lable for="name">Name</label><input type="text" name="name">
+    <lable for="email">eMail</label><input type="email" name="email">
  <textarea name="message"></textarea>
     <input type="hidden" name="_gotcha" style="display:none !important">
    

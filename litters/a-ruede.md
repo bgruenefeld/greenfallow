@@ -9,17 +9,17 @@ permalink: /litters/a-ruede
 
 <img src="https://www.balbirnie.dk/images/images_hunde/Khaki_20151220_01.JPG" width="500" style="float:left; margin-right:3%">
  
-**Balbirnie Khaki** haben wir bei seinem Besitzer Per Masboel in Dänemark als sehr freundlichen Labrador kennengelernt. Ich habe selten einen so fröhlichen, offenen und zugleich unaufdringlichen Rüden gesehen. Als er uns sah kam er ohne zu zögern auf uns zu, lies sich sofort streicheln und suchte freudig wedelnd Körperkontakt. 
+**Balbirnie Khaki** haben wir bei seinem Besitzer Per Maasbøl in Dänemark als sehr freundlichen Labrador kennengelernt. Ich habe selten einen so fröhlichen und offenen Rüden gesehen. Als er uns sah kam er ohne zu zögern auf uns zu, suchte freudig wedelnd Körperkontakt und lies sich ausgiebig streicheln. 
 
 Khaki arbeitet auf einer großen kommerziellen Jagd in Dänemark als picking up dog und kann hier seiner großen Apportierleidenschaft ausgiebig nachgehen. In der Jagdsaison ist er an mehreren Tagen pro Woche auf Fasanen- und Entenjagden im Einsatz. Eine Demonstration seiner Arbeitsleistung war sehr beeindruckend. 
 
 Zudem ist das Khaki ein stattlicher und athletischer Rüde mit einem sehr guten Exterieur.
 
 Balbirnie Khaki stammt aus sehr erfolgreichen britischen Field Trial Linien und wurde in Dänemark gezüchtet. 
+Khakis Mutterlinie geht auf FTCh Bringwood Bobby of Brindelbay (IGL Championchips Gewinner 2002) zurück und wurde von Per Maasbøl über mehrere Generationen aufgebaut.
 Er stammt aus einer Verpaarung von DK FTCh Studebaker Accord und Balbirnie Happy und geht auf **FTCh Eastdale Harry** zurück. FTCh Eastdale Harry gewann 2010 und 2012 auf der IGL Retriever Championship ein Diplom of Merit und hat seine guten Eigenschaften an zahlreiche Nachkommen weitergegeben. 
-Jüngst qualifizierte sich mit Khakis Halbschwester FTCh Skovanger’s Six Mile Woodcock ein weiterer Eastdale Harry Nachkomme mit ihrer jungen Hundeführerin für die IGL Championchips 2022 und war bis zum dritten Finaltag dabei. Damit schaffte sie es unter die besten zehn Hunde bei dieser Eliteprüfung. 
-Khakis Mutterlinie geht auf FTCh Bringwood Bobby of Brindelbay (IGL Championchips Gewinner 2002) zurück und wurde von Per über Generationen aufgebaut.
- 
+Jüngst qualifizierte sich mit Khakis Halbschwester FTCh Skovanger’s Six Mile Woodcock ein weiterer Eastdale Harry Nachkomme mit ihrer jungen Hundeführerin für die IGL Championchips 2022 und war bis zum dritten Finaltag dabei. Damit schaffte sie es unter die Top 10 bei dieser Eliteprüfung. 
+
 <div style="float: right; margin-top: 20px;width:75%">
     <div>{% include image-gallery.html folder="/assets/stud-gallery" %}</div>   
 </div>

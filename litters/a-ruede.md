@@ -11,13 +11,13 @@ permalink: /litters/a-ruede
  
 **Balbirnie Khaki** haben wir bei seinem Besitzer Per Maasbøl in Dänemark als sehr freundlichen Labrador kennengelernt. Ich habe selten einen so fröhlichen und offenen Rüden gesehen. Als er uns sah kam er ohne zu zögern auf uns zu, suchte freudig wedelnd Körperkontakt und lies sich ausgiebig streicheln. 
 
-Khaki arbeitet auf einer großen kommerziellen Jagd in Dänemark als picking up dog und kann hier seiner großen Apportierleidenschaft ausgiebig nachgehen. In der Jagdsaison ist er an mehreren Tagen pro Woche auf Fasanen- und Entenjagden im Einsatz. Eine Demonstration seiner Arbeitsleistung war sehr beeindruckend. 
+Khaki arbeitet nach bestandener Apporteringsprøve auf einer großen kommerziellen Jagd in Dänemark und kann hier seiner großen Apportierleidenschaft ausgiebig nachgehen. In der Jagdsaison ist er an bis zu vier Tagen pro Woche auf Fasanen- und Entenjagden im Einsatz. Eine Demonstration seiner Arbeitsfähigkeiten war sehr beeindruckend. 
 
 Zudem ist das Khaki ein stattlicher und athletischer Rüde mit einem sehr guten Exterieur.
 
 Balbirnie Khaki stammt aus sehr erfolgreichen britischen Field Trial Linien und wurde in Dänemark gezüchtet. 
 Khakis Mutterlinie geht auf FTCh Bringwood Bobby of Brindelbay (IGL Championchips Gewinner 2002) zurück und wurde von Per Maasbøl über mehrere Generationen aufgebaut.
-Er stammt aus einer Verpaarung von DK FTCh Studebaker Accord und Balbirnie Happy und geht auf **FTCh Eastdale Harry** zurück. FTCh Eastdale Harry gewann 2010 und 2012 auf der IGL Retriever Championship ein Diplom of Merit und hat seine guten Eigenschaften an zahlreiche Nachkommen weitergegeben. 
+Er stammt aus einer Verpaarung von DK FTCh Studebaker Accord und Balbirnie Happy und geht damit auf **FTCh Eastdale Harry** zurück. FTCh Eastdale Harry gewann 2010 und 2012 auf der IGL Retriever Championship ein Diplom of Merit und hat seine guten Eigenschaften an zahlreiche Nachkommen weitergegeben. 
 Jüngst qualifizierte sich mit Khakis Halbschwester FTCh Skovanger’s Six Mile Woodcock ein weiterer Eastdale Harry Nachkomme mit ihrer jungen Hundeführerin für die IGL Championchips 2022 und war bis zum dritten Finaltag dabei. Damit schaffte sie es unter die Top 10 bei dieser Eliteprüfung. 
 
 <div style="float: right; margin-top: 20px;width:75%">
@@ -29,12 +29,11 @@ Jüngst qualifizierte sich mit Khakis Halbschwester FTCh Skovanger’s Six Mile 
  <table ><tbody><tr><td width="22%"><font size="2">Balbirnie Khaki</font></td><td width="78%"><table width="100%"><tbody><tr><td width="29%"><font size="2"> DK FTCh Studebaker Accord</font><img src="https://rosefield.dk/____impro/1/onewebmedia/1-_AX_9952.jpg?etag=%2229eb4-5932ccb4%22&sourceContentType=image%2Fjpeg&ignoreAspectRatio&resize=337%2B457&extract=0%2B0%2B337%2B456&quality=85" title="Studebaker Accord"></td><td width="71%"><table width="100%"><tbody><tr><td width="50%"><font size="2"> FTCh Eastdale Harry (COM IGL 2010, 2012)</font><img src="https://i.imgur.com/ybBQy7u.jpg?1"></td><td width="50%"><table width="100%"><tbody><tr><td width="100%"><font size="2"> FTCh Greenbriar Viper of Drakeshead (3rd IGL 2006)</font></td></tr><tr><td width="100%"><font size="2"> FTW Daughting Dulcie of Eastdale</font></td></tr></tbody></table></td></tr><tr><td width="50%"><font size="2"> FTCh Decies Dodge by Studebaker </font></td><td width="50%"><table width="100%"><tbody><tr><td width="100%"><font size="2"> FTCh Endacott Shelf </font></td></tr><tr><td width="100%"><font size="2"> Wendearose Lira of Decies </font></td></tr></tbody></table></td></tr></tbody></table></td></tr><tr><td width="29%"><font size="2"> Balbirnie Happy </font><img src="https://www.balbirnie.dk/images/images_hunde/happy_stor.jpg"></td><td width="71%"><table width="100%"><tbody><tr><td width="50%"><font size="2"> Greenbriar Macallan </font><img src="https://www.balbirnie.dk/images/images_hunde/Macallan_20120303.JPG"></td><td width="50%"><table width="100%"><tbody><tr><td width="100%"><font size="2"> FTCh Blackfoot Scout of Minstead </font></td></tr><tr><td width="100%"><font size="2"> Greenbriar Hebe </font></td></tr></tbody></table></td></tr><tr><td width="50%"><font size="2"> Brindlebay Pigeon of Balbirnie </font><img src="https://www.balbirnie.dk/images/images_hunde/pigeon2.jpg"></td><td width="50%"><table width="100%"><tbody><tr><td width="100%"><font size="2"> FTCH Bringwood Bobby of Brindlebay (IGL Winner 2002)</font></td></tr><tr><td width="100%"><font size="2"> Sulleyshill Penny of Brindlebay </font></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table></td></tr></tbody></table>
 </p>
 </details>
-<form action="https://getform.io/f/7fd5d510-bc6f-41d8-9b50-06c05c43ddae" method="POST">
+<!-- form action="https://getform.io/f/7fd5d510-bc6f-41d8-9b50-06c05c43ddae" method="POST">
     <input type="text" name="name">
     <input type="email" name="email">
     <input type="textarea" name="message">
-    <!-- add hidden Honeypot input to prevent spams -->
     <input type="hidden" name="_gotcha" style="display:none !important">
    
     <button type="submit">Send</button>
-</form>
+</form -->

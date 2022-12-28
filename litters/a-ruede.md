@@ -13,7 +13,7 @@ permalink: /litters/a-ruede
 
 Khaki arbeitet nach bestandener Apporteringsprøve auf einer großen kommerziellen Jagd in Dänemark und kann hier seiner großen Apportierleidenschaft ausgiebig nachgehen. In der Jagdsaison ist er an bis zu vier Tagen pro Woche auf Fasanen- und Entenjagden im Einsatz. Eine Demonstration seiner Arbeitsfähigkeiten war sehr beeindruckend. 
 
-Zudem ist das Khaki ein stattlicher und athletischer Rüde mit einem sehr guten Exterieur.
+Zudem ist er ein stattlicher Rüde mit einem sehr guten Exterieur.
 
 Balbirnie Khaki stammt aus sehr erfolgreichen britischen Field Trial Linien und wurde in Dänemark gezüchtet. 
 Khakis Mutterlinie geht auf FTCh Bringwood Bobby of Brindelbay (IGL Championchips Gewinner 2002) zurück und wurde von Per Maasbøl über mehrere Generationen aufgebaut.

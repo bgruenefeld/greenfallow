@@ -14,11 +14,15 @@ permalink: /litters/
 
 Aktuell planen wir mit <a href="/dogs/reggae.html">**Reggae**</a> unseren <a href="a-wurf"><strong>A-Wurf</strong></a>. Der Wurf wird vorbehaltlich einer ausreichenden Anzahl von Interessenten im **Frühjahr 2023** stattfinden.
 
-Interessierte können sich gerne per email <a href="mailto:greenfallow@gmx.de">greenfallow@gmx.de</a> oder telefonisch unter 01520-9254556 bei uns melden.
-Gerne beantworten wir dann ausführlich Ihre Fragen.
 
 Auch Ersthundeführer sind herzlich willkommen und werden mit Rat und Tat unterstützt!
+
+Interessierte können sich gerne per email <a href="mailto:greenfallow@gmx.de">greenfallow@gmx.de</a>, telefonisch unter 01520-9254556 oder mit dem Anfrageformular unten auf dieser Seite bei uns melden.
+Gerne beantworten wir dann ausführlich Ihre Fragen.
+
 
 <div style=" margin: 10px;">
  <p><strong><a href="a-wurf">A-Wurf (Reggae vom Keien Fenn X NN)</a></strong></p>
 </div>
+
+{% include contact-form.html %}

@@ -62,9 +62,8 @@ function sendData() {
   // Add 'submit' event handler
   form.addEventListener("submit", (event) => {
     event.preventDefault();
-    document.getElementById("message").value !== ""?sendData():false
-  });
-    
+
+    sendData();
   });
 })
 </script>

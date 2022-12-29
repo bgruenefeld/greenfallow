@@ -32,7 +32,7 @@ function sendData() {
   form.addEventListener("submit", (event) => {
     event.preventDefault();
 
-    sendData();
+    document.getElementById("message").value !== ""? sendData():false;
   });
 })
 </script>

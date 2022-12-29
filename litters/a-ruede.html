@@ -62,7 +62,12 @@ function sendData() {
   // Add 'submit' event handler
   form.addEventListener("submit", (event) => {
     event.preventDefault();
+   grecaptcha.ready(function() {
+          grecaptcha.execute('reCAPTCHA_site_key', {action: 'submit'}).then(function(token) {
     document.getElementById("message").value !== ""?sendData():false
+          });
+        });
+    
   });
 })
 </script>

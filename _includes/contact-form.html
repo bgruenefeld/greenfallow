@@ -1,0 +1,45 @@
+<script>
+ window.addEventListener("load", () => {
+ 
+function sendData() {
+    const XHR = new XMLHttpRequest();
+
+    // Bind the FormData object and the form element
+    const FD = new FormData(form);
+
+    // Define what happens on successful data submission
+    XHR.addEventListener("load", (event) => {
+      alert("Vielen Dank für Ihre Nachricht. Wir werden uns so bald wie möglich bei Ihnen melden.");
+      document.getElementById("message").value = "";
+    });
+
+    // Define what happens in case of error
+    XHR.addEventListener("error", (event) => {
+      alert('Oops! Something went wrong.');
+    });
+
+    // Set up our request
+    XHR.open("POST", "https://getform.io/f/7fd5d510-bc6f-41d8-9b50-06c05c43ddae");
+
+    // The data sent is what the user provided in the form
+    XHR.send(FD);
+  }
+
+  // Get the form element
+  const form = document.getElementById("myForm");
+
+  // Add 'submit' event handler
+  form.addEventListener("submit", (event) => {
+    event.preventDefault();
+
+    sendData();
+  });
+})
+</script>
+<form method="POST" id="myForm">
+ <p><label for="message"><b>Ihre Nachricht an uns:</b></label></p>
+ <textarea name="message" id="message" rows="12" cols="75"></textarea>
+ <input type="hidden" name="_gotcha" style="display:none !important"> 
+ <br>
+ <button type="submit">Abschicken</button>
+</form>

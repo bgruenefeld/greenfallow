@@ -62,11 +62,8 @@ function sendData() {
   // Add 'submit' event handler
   form.addEventListener("submit", (event) => {
     event.preventDefault();
-   grecaptcha.ready(function() {
-          grecaptcha.execute('6LfNybcjAAAAAHMyNVpdU6qG_BSvsoJBz87pkeXQ', {action: 'submit'}).then(function(token) {
     document.getElementById("message").value !== ""?sendData():false
-          });
-        });
+  });
     
   });
 })

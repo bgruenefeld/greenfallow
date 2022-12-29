@@ -72,5 +72,7 @@ function sendData() {
  <label for="message">Ihre Nachricht an uns:</label>
  <textarea name="message" id="message" rows="12" cols="75"></textarea>
  <input type="hidden" name="_gotcha" style="display:none !important">  
- <button type="submit">Send</button>
+ <button class="g-recaptcha" 
+         data-sitekey="reCAPTCHA_site_key"
+         type="submit">Send</button>
 </form>

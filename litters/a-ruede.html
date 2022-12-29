@@ -40,7 +40,8 @@ function sendData() {
 
     // Define what happens on successful data submission
     XHR.addEventListener("load", (event) => {
-      alert(event.target.responseText);
+      alert("Vielen Dank für Ihre Nachricht. Wir werden uns so bald wie möglich bei Ihnen melden.");
+      document.getElementById("message").value = "";
     });
 
     // Define what happens in case of error
@@ -70,7 +71,7 @@ function sendData() {
  <!--label for="name">Name</label><input type="text" name="name">
  <label for="email">eMail</label><input type="email" name="email"-->
  <label for="message">Ihre Nachricht an uns:</label>
- <textarea name="message" rows="12" cols="75"></textarea>
+ <textarea name="message" id="message" rows="12" cols="75"></textarea>
  <input type="hidden" name="_gotcha" style="display:none !important">  
  <button type="submit">Send</button>
 </form>

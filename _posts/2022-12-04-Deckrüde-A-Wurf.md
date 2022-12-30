@@ -11,7 +11,7 @@ carousels:
 ---
 
 <p>
-  Die Wahl eines Deckrrüden für unseren <a href="/litters">A-Wurf</a> war eine spannende aber auch aufwändige Sache. 
+  Die Wahl eines Deckrüden für unseren <a href="/litters">A-Wurf</a> war eine spannende aber auch aufwändige Sache. 
 Als wir dann den jetzt ausgesuchten Rüden sahen, war ganz schnell klar dass es dieser Rüde sein soll!
 </p>
 

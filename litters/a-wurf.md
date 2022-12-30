@@ -10,8 +10,9 @@ permalink: /litters/a-wurf
   </div>
   <div style="float:left; margin-left: 10px;">
     <!--img src="/assets/litters/ruede-platzhalter.jpeg" width="270" style="float:left;"-->
-    <a href="/reggae/2022/12/04/Deckrüde-A-Wurf.html"><img src="/assets/stud-gallery/a-stud-looking-up.jpeg" width="250" style="float:left;"></a>
-    <p><strong><a href="/reggae/2022/12/04/Deckrüde-A-Wurf.html">Deckrüde</a></strong></p>
+    <a href="/litters/a-ruede"><img src="/assets/stud-gallery/a-stud-looking-up.jpeg" width="250" style="float:left;"></a>
+    <p><strong><a href="/litters/a-ruede">Balbirnie Khaki</a></strong></p>
+    
   </div>
 </div>
 

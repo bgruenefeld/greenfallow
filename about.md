@@ -13,5 +13,6 @@ Im Laufe der Jahre kamen zwei weitere Hündinen aus reinen Arbeitslinien hinzu, 
 
 Auch bzw. gerade weil unsere Hund aus Arbeitslinienzuchten stammen und über viele Generationen auf labradortypischen Arbeitseigentschaften selektiert wurden, können sie ihren (Neben-) Job als ganz normaler Familienhund hervorragend meistern. Sie sind eigentlich überall mit dabei und aufgrund ihres angenehmen Wesens und ihrer Anpassungsfähigkeit angenehme Begleiter.  
 
-Der Gedanke an die Zucht kam als wir merkten das wir mit Work and More Hannah eine hoch talentierte Hündin haben. Leider musste Hannah aufgrund einer aktuten Gebärmutterentzündung kastriert werden, so dass sich die Zuchtpläne erstmal zerschlugen. 
-Um so dankbarer sind wir jetzt das wir mit Reggae eine sehr talentierte Hündin haben, die aus der leistungsstarken, gesunden und etablierten Zuchtlinie vom Keien Fenn stammt. Mit ihr wollen wir unseren ersten Wurf machen.
+Der Gedanke an die Zucht kam als wir merkten das wir mit Work and More Hannah eine sehr talentierte Hündin haben. Leider musste Hannah aufgrund einer aktuten Gebärmutterentzündung kastriert werden, so dass sich die Zuchtpläne erstmal zerschlugen. 
+Nach einiger Suche, zog mit Reggae eine hoch talentierte Hündin ein, die aus der leistungsstarken und gesunden Zuchtlinie vom Keien Fenn stammt. Mir war dabei unter anderem wichitg, dass sie aus einer etablierten Zuchtlinie stammt. Das kann man beim Zwinger vom Keien Fenn wohl sagen: der erste Wurf fiel dort 1972, man verfügt somit über 50 Jahre Erfahrung in der Zucht von Labrador Retrievern.
+Mit Reggae wollen wir unseren ersten Wurf machen.

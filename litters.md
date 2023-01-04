@@ -12,17 +12,16 @@ permalink: /litters/
 </div>
 
 
-Aktuell planen wir mit <a href="/dogs/reggae.html">**Reggae**</a> unseren <a href="a-wurf"><strong>A-Wurf</strong></a>. Der Wurf wird vorbehaltlich einer ausreichenden Anzahl von Interessenten im **Frühjahr 2023** stattfinden.
-
+Aktuell planen wir mit <a href="/dogs/reggae.html">**Reggae**</a> unseren <a href="a-wurf"><strong>A-Wurf</strong></a>. Der Wurf wird vorbehaltlich einer ausreichenden Anzahl von Interessenten im **Frühjahr 2023** stattfinden. Aufgrund der Elterntiere erwarten wir temperamentvolle Welpen die sich hervoragend für Jagd, Dummysport oder Rettungshundearbeit eignen. Es wird gelbe und schwarze Welpen geben.  
 
 Auch Ersthundeführer sind herzlich willkommen und werden mit Rat und Tat unterstützt!
 
-Interessierte können sich gerne per email <a href="mailto:greenfallow@gmx.de">greenfallow@gmx.de</a>, telefonisch unter 01520-9254556 oder mit dem Anfrageformular unten auf dieser Seite bei uns melden.
+Wenn Sie Interesse an einem Welpen aus dem Wurf haben sollten Sie sich frühzeitig per email <a href="mailto:greenfallow@gmx.de">greenfallow@gmx.de</a>, telefonisch unter 01520-9254556 oder mit dem Anfrageformular unten auf dieser Seite bei uns melden.
 Gerne beantworten wir dann ausführlich Ihre Fragen.
 
 
 <div style=" margin: 10px;">
- <p><strong><a href="a-wurf">A-Wurf (Reggae vom Keien Fenn X NN)</a></strong></p>
+ <p><strong><a href="a-wurf">A-Wurf (Reggae vom Keien Fenn X Balbirnie Khaki)</a></strong></p>
 </div>
 
 {% include contact-form.html %}

@@ -18,7 +18,7 @@ permalink: /litters/a-wurf
 
 Für unseren A Wurf haben wir uns für einen sehr substanzvollen, gelben Rüden aus Field Trial Linien entschieden der im ständigen jagdlichen Einsatz steht.
 
-Neben dem ausgezeichneten Exterieur hat der Rüde ein sehr freundliches und gelassenes Wesen. 
+Neben dem ausgezeichneten Exterieur hat der Rüde ein sehr freundliches und gelassenes Wesen. Ausführliche Infos zum Deckrüden finden Sie <a href="/litters/a-ruede.html">hier</a>
 
 Die Kombination ähnlicher Linien hat in der Vergangenheit leistungsstarke Hunde mit Temperament und Arbeitswillen gebracht, so dass wir uns für die Welpen dieses Wurfs aktive Menschen wünschen die mit den Hunden jagdlich, im Dummysport oder in der Rettungshundearbeit arbeiten. 
 

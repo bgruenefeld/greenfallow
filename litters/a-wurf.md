@@ -16,7 +16,9 @@ permalink: /litters/a-wurf
   </div>
 </div>
 
-Für unseren A Wurf haben wir uns für einen sehr substanzvollen, gelben Rüden aus Field Trial Linien entschieden der im ständigen jagdlichen Einsatz steht.
+Reggae hat uns während ihrer Ausbildung bereits früh ihre sehr guten Arbeitsqualitäten gezeigt. Da sie auch auf Prüfungen klasse Resultate gebracht hat, haben wir uns entschieden mit ihr einen Wurf zu machen. Insbesondere ihre Markierfähigkeiten machen das Leben doch um einiges leichter. Wir hoffen das sie ihre excellenten Markier- und Memoryfähigkeiten, ihr gutes Temperatment sowie ihre konzentrierte Ruhe bei der Arbeit an ihre Welpen weitergibt. 
+
+Für den A Wurf haben wir uns für einen sehr substanzvollen, gelben Rüden aus Field Trial Linien entschieden der im ständigen jagdlichen Einsatz steht.
 
 Neben dem ausgezeichneten Exterieur hat der Rüde ein sehr freundliches und gelassenes Wesen. Ausführliche Infos zum Deckrüden finden Sie <a href="/litters/a-ruede.html">hier</a>
 

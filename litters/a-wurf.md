@@ -16,7 +16,7 @@ permalink: /litters/a-wurf
   </div>
 </div>
 
-Reggae hat uns während ihrer Ausbildung bereits früh ihre sehr guten Arbeitsqualitäten gezeigt. Da sie auch auf Prüfungen klasse Resultate gebracht hat, haben wir uns entschieden mit ihr einen Wurf zu machen. Wir hoffen das sie ihre excellenten Markier- und Memoryfähigkeiten, ihr gutes Temperatment sowie ihre konzentrierte Ruhe bei der Arbeit an ihre Welpen weitergibt. 
+Reggae hat uns während ihrer Ausbildung bereits früh ihre sehr guten Arbeitsqualitäten gezeigt. Da sie auch auf Prüfungen klasse Resultate gebracht hat und sie auch sonst eine tolle Hündin ist, haben wir uns entschieden mit ihr einen Wurf zu machen. Wir hoffen das sie ihre excellenten Markier- und Memoryfähigkeiten, ihr gutes Temperatment sowie ihre konzentrierte Ruhe bei der Arbeit an ihre Welpen weitergibt. 
 
 Für den A Wurf haben wir uns für einen sehr substanzvollen, gelben Rüden aus Field Trial Linien entschieden der im ständigen jagdlichen Einsatz steht.
 

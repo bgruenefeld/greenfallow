@@ -26,6 +26,6 @@ Die Kombination ähnlicher Linien hat in der Vergangenheit leistungsstarke Hunde
 
 Als reine Familienhunde sollen die Hunde nicht abgegeben werden.
 
-Interessierte können sich gerne per email <a href="mailto:greenfallow@gmx.de">greenfallow@gmx.de</a>, telefonisch unter 01520-9254556 oder das Anfrageformular unten auf dieser Seite bei uns melden. Gerne beantworten wir dann ausführlich Ihre Fragen.
+Wenn Sie Interesse an einem Welpen aus diesem Wurf haben sollten Sie sich frühzeitig per email greenfallow@gmx.de, telefonisch unter 01520-9254556 oder mit dem Anfrageformular unten auf dieser Seite bei uns melden. Gerne beantworten wir dann ausführlich Ihre Fragen.
 
 {% include contact-form.html %}

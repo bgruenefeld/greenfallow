@@ -21,7 +21,7 @@ Gerne beantworten wir dann ausführlich Ihre Fragen.
 
 
 <div style=" margin: 10px;">
- <p>Details zum A-Wurf finden Sie <strong><a href="a-wurf"> hier: A-Wurf (Reggae vom Keien Fenn X Balbirnie Khaki)</a></strong></p>
+ <p>Details zum A-Wurf finden Sie hier <strong><a href="a-wurf"> A-Wurf (Reggae vom Keien Fenn X Balbirnie Khaki)</a></strong></p>
 </div>
 
 {% include contact-form.html %}

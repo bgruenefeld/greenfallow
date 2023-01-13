@@ -18,9 +18,7 @@ permalink: /litters/a-wurf
 
 Reggae hat uns bereits früh in ihrer Ausbildung gezeigt das sie über sehr guten Arbeitsqualitäten verfügt. Da sie auch auf Prüfungen klasse Resultate gebracht hat und sie auch sonst eine angenehme Hündin ist, haben wir uns entschieden mit ihr einen Wurf zu machen. Wir denken das ihre excellenten Markier- und Memoryfähigkeiten, ihr gutes Temperatment sowie ihre konzentrierten Ruhe bei der Arbeit wichtige Anlagen für einen Labrador sind, die es zu erhalten gilt. 
 
-Für den A Wurf haben wir uns für einen athletischen, sehr freundlichen gelben Rüden aus Field Trial Linien entschieden der im ständigen jagdlichen Einsatz steht, ähnlich veranlagt ist wie Reggae und eine sehr gute körperliche Substanz mitbringt.
-
-Neben dem ausgezeichneten Exterieur hat der Rüde ein sehr freundliches und gelassenes Wesen. Ausführliche Infos zum Deckrüden finden Sie <a href="/litters/a-ruede.html">hier</a>
+Für den A Wurf haben wir uns für einen athletischen, sehr freundlichen gelben Rüden aus Field Trial Linien entschieden der im ständigen jagdlichen Einsatz steht, ähnlich veranlagt ist wie Reggae und eine sehr gute körperliche Substanz mitbringt. Ausführliche Infos zum Deckrüden finden Sie <a href="/litters/a-ruede.html">hier</a>
 
 Die Kombination ähnlicher Linien hat in der Vergangenheit leistungsstarke Hunde mit Temperament und Arbeitswillen gebracht, so dass wir uns für die Welpen dieses Wurfs aktive Menschen wünschen die mit den Hunden jagdlich, im Dummysport oder in der Rettungshundearbeit arbeiten. 
 

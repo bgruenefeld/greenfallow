@@ -4,7 +4,9 @@ title: Hunde
 description: Informationen zu unseren Hunden
 permalink: /dogs/
 ---
-Im Moment leben zwei Labrador Hündinen bei uns. Beide stammen aus reinen Arbeitslinine und werden erfolgreich im Dummysport gearbeitet. Im "Nebenberuf" sind sie wunderbare, entspannte Familienhunde, die uns im Alltag fast überall hin begleiten.
+Im Moment leben zwei Labrador Hündinen bei uns. Beide sind aus reinen Arbeitslinien gezüchtet und stammen aus jagdl. bzw. spez. jagdl. Leistungszuchten und werden erfolgreich im Dummysport gearbeitet. 
+
+Im "Nebenberuf" sind sie wunderbare, entspannte Familienhunde, die uns im Alltag fast überall hin begleiten. 
 Informationen zu unseren Hunden finden sie auf folgenden Detailseiten:
 
 <div style="float:left; margin-right: 10px;">

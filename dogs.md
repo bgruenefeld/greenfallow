@@ -11,7 +11,7 @@ Informationen zu unseren Hunden finden sie auf folgenden Detailseiten:
 
 <div style="float:left; margin-right: 10px;">
 <img src="/assets/reggae-gallery/reggae-garten.jpeg" width="343"  />
-   <p><strong><a href="reggae.html"> Reggae vom Keien Fenn (*15.06.2019)</a></strong></p>
+   <p><strong><a href="reggae"> Reggae vom Keien Fenn (*15.06.2019)</a></strong></p>
 </div>
 
 <div style="float:left; margin-right: 10px;">

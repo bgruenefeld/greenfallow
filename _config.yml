@@ -6,7 +6,6 @@ header_pages:
   - litters.md
   - breed.md
   - about.md
-  - posts.md
 show_excerpts: true
 title: greenfallow labradors
 minima:

@@ -10,6 +10,6 @@ show_excerpts: true
 title: greenfallow labradors
 minima:
   paginate: 3
-  paginate_path: "/page:num/"    
+  paginate_path: "/_posts/page:num/"    
 plugins:
  - jekyll-paginate

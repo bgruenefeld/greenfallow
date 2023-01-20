@@ -1,7 +1,7 @@
 remote_theme: jekyll/minima
 #remote-theme: pages-themes/tactile@v0.2.0
 header_pages:
-  - /_posts/index.html
+  - blog.html
   - dogs.md
   - litters.md
   - breed.md

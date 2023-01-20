@@ -2,10 +2,14 @@
 layout: post
 title: Neuigkeiten
 ---
-<ul>
+
   {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
+    <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
+    <p class="author">
+      <span class="date">{{ post.date }}</span>
+    </p>
+    <div class="content">
+      {{ post.content }} <a href="{{ post.url }}">... weiter lesen ...</a>
+    </div>
   {% endfor %}
-</ul>
+

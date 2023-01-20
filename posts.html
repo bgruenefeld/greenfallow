@@ -5,10 +5,8 @@ title: Neuigkeiten
   
  
   {% for post in site.posts %}
-   
-      <p class="author">
-        <span class="date">{{ post.date }}</span>
-      </p>
+      
+      <span class="date">{{ post.date }}</span>
       <h2>{{ post.title }}</h2><a href="{{ post.url }}"> ... weiter lesen</a>
     
   {% endfor %}

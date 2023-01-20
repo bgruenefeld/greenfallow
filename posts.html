@@ -7,7 +7,8 @@ title: Neuigkeiten
   {% for post in site.posts %}
       
       <span class="post-meta">{{ post.date }}</span>
-      <span style="font-weight:300">{{ post.title }}</span><a href="{{ post.url }}"> ... weiter lesen</a>
+      <div style="font-weight:300">{{ post.title }}</div>
+      <a href="{{ post.url }}"> ... weiter lesen</a>
     
   {% endfor %}
 

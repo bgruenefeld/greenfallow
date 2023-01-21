@@ -2,6 +2,7 @@
 layout: post
 title: Deckrüde des A-Wurfs gefunden!
 categories: reggae
+description: Die Wahl eines Deckrüden für unseren <a href="/litters">A-Wurf</a> war eine spannende aber auch aufwändige Sache.
 carousels:
   - images: 
     - image: /assets/stud-gallery/a-stud-sniffing-dummy.jpeg

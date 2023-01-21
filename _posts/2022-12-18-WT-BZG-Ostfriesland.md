@@ -2,6 +2,7 @@
 layout: post
 title: 4ter Advent mal anders - interner Team WT BZG Ostfriesland
 categories: hannah
+description: Die BZG Ostfriesland hatte zum internen Team WT (A/F) eingeladen und wir sind gerne gekommen
 ---
 
 

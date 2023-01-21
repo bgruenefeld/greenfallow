@@ -9,7 +9,8 @@ title: Neuigkeiten
       <div style="margin:40px">
         <span class="post-meta">{{ post.date }}</span>
         <div style="font-weight: 700;font-size: x-large;color: grey;">{{ post.title }}</div>
-        <a href="{{ post.url }}"> ... weiter lesen ...</a>
+        <div>{{post.description}}</div>
+        <a href="{{ post.url }}"> ... weiter lesen</a>
         
       </div>
   {% endfor %}

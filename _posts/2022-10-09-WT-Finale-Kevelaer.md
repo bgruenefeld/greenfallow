@@ -2,6 +2,7 @@
 layout: post
 title: DRC Finale in Kevelaer!
 categories: reggae
+description: Voller Vorfreude sind wir zum Finale gefahren, um uns mit den besten WT Teams der Saison 2022 zu messen
 ---
 
 Da das Finale bereits um 7:30 Uhr begann, haben wir uns schon am Freitag auf den Weg an den Niederrhein gemacht, um am Samstag früh ausgeschlafen an den Start gehen zu können.
@@ -11,7 +12,7 @@ An den beiden Prüfungstagen wurden insgesamt über 130 Hund gerichtetet und jew
 1. ohne Null durchkommen und bestehen!
 2. wenn alles gut läuft wäre eine Top Ten Platzierung grandios!
 
-Gleich die erste Aufgabe sollte dann leider aufgrund eines _technischen Fehler_ meinerseits unsere schlechteste sein und uns ein paar wertvolle Punkte kosten. Die anderen Aufgaben verliefen dann (fast) allesamt sehr gut. Lediglich am zweiten Tag, in der Aufgabe von Thorsten Helmrath, musste ich zur Pfeife greifen und Reggae einmal korrigieren.
+Gleich die erste Aufgabe sollte dann wegen eines _technischen Fehler_ meinerseits unsere schlechteste sein und uns ein paar wertvolle Punkte kosten. Die anderen Aufgaben verliefen dann (fast) allesamt sehr gut. Lediglich am zweiten Tag, in der Aufgabe von Thorsten Helmrath, musste ich zur Pfeife greifen und Reggae einmal korrigieren.
 
 Am Ende des ersten langen Tags hatten wir alle Dummies drin und konnten uns bei gutem Wetter auf den zweiten Tag freuen. Auch am zweiten Tag lief es gut, so dass wir am Ende des Tages unser erstes Ziel als erfolgreich erledigt abhacken konnten. Insgesamt war ich mit Reggaes Leistung über die beiden Tage sehr zufrieden, sie war steady, aufmerksam und hat wie gewohnt sehr gut markiert. Nach unserer letzten Aufgabe schalteten wir schnell und zufrieden in den Freizeitmodus, schlenderten herum, plauderten mit Mitstartern und schauten bei den anderen Leistungsklassen zu. 
 

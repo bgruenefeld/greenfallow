@@ -2,6 +2,7 @@
 layout: post
 title: Reggae - vorzüglich und zweiter Platz in Wunstorf!
 categories: reggae
+description: Reggaes zweiter Working Test und wir waren gespannt wie es laufen wird. 
 ---
 
 Qualifikation für´s DRC Workingtest Finale! &#128522;

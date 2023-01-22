@@ -18,7 +18,7 @@ Wir sind Mitglied im <a href="https://drc.de/" target="_blank">Deutscher Retriev
 <h3>Für unsere Welpenkäufer</h3>
 Ziel ist es gesunde, leistungsfähige und -wesensfeste Hunde zu züchten, die möglichst über ein Höchstmaß an Arbeitsanlagen verfügen und ihren Besitzern Freude bereiten. 
 
-<p>Damit wir diesem Anspruch nahe kommen können, stellen wir unsere Hunde regelmässig auf Arbeits- und anderen zuchtrelevanten Prüfungen vor, um ihre Leistungsfähigkeit unabhängig testen zu lassen. Darüber hinaus verwenden wir nach sorgfältigen Recherchen Deckrüden aus Arbeitslinien die unseren Zuchtzielen entsprechen und uns für die Hündin geeignet erscheinen.</p>
+<p>Damit wir diesem Anspruch möglichst nahe kommen und um die Leistungsfähigkeit unserer Hunde unabhängig testen zu lassen, stellen wir sie regelmässig auf Arbeits- und anderen zuchtrelevanten Prüfungen vor. Darüber hinaus verwenden wir nach sorgfältigen Recherchen nur Deckrüden aus Arbeitslinien die unseren Zuchtzielen entsprechen und uns für die Hündin geeignet erscheinen.</p>
 
 Um die Welpen bestmöglich für ihr weiteres Leben vorzubereiten werden sie umfassend sozialisiert. Die Sozialisierung der Welpen ist gerade in den ersten Lebenswochen am nachhaltigsten, deshalb werden die Welpen im Haus großgezogen und haben für ihre weitere Entwicklung ab der 4. Woche einen Garten zur Verfügung. Sie werden in dieser Zeit mit vielen Menschen in Kontakt kommen, mit Geräuschen aus Haus und Umwelt und verschiedenen Untergründe konfrontiert, erste gemeinsame Ausflüge erleben und Wasserkontakt bekommen. Wenn eine jagdliche Verwendung angedacht ist werden die Welpen Kontakt zu Wild haben.
 

@@ -16,7 +16,7 @@ permalink: /litters/a-wurf
   </div>
 </div>
 
-<a href="https://www.k9data.com/pedigree.asp?ID=1287885">Ahnentafel des A Wurfs</a>
+<a href="https://www.k9data.com/pedigree.asp?ID=1287885" target="_blank">Ahnentafel des A Wurfs</a>
 
 Reggae hat uns bereits früh in ihrer Ausbildung gezeigt das sie über sehr guten Arbeitsqualitäten verfügt. Da sie auch auf Prüfungen klasse Resultate gebracht hat und sie auch sonst eine angenehme Hündin ist, haben wir uns entschieden mit ihr einen Wurf zu machen. Wir denken das ihre excellenten Markier- und Memoryfähigkeiten, ihr gutes Temperatment sowie ihre konzentrierten Ruhe bei der Arbeit wichtige Anlagen für einen Labrador sind, die es zu erhalten gilt. 
 

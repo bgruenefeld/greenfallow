@@ -5,14 +5,25 @@ permalink: /litters/a-wurf
 ---
 <div style="width: 100%; float: left;">
   <div style="float:left; margin-right: 10px;">
-    <a href="/dogs/reggae.html"><img style="float:left;" src="/assets/litters/reggae-sitzt2.jpeg" width="250"></a>
     <p><strong><a href="/dogs/reggae.html"> Reggae vom Keien Fenn</a></strong></p>
+    <a href="/dogs/reggae.html"><img style="float:left;" src="/assets/litters/reggae-sitzt2.jpeg" width="250"></a>
+    <p>
+      HD: A2/A2<br>
+      ED: 0/0<br>
+      OCD Schultern / Sprunggelenke: frei<br>
+      SD2: Träger, HNPK: frei, prcd-PRA / CNM / EIC: über Erbgang frei<br>
+      Augen: frei (Nov. 2022)
+    </p>
   </div>
   <div style="float:left; margin-left: 10px;">
-    <!--img src="/assets/litters/ruede-platzhalter.jpeg" width="270" style="float:left;"-->
-    <a href="/litters/a-ruede"><img src="/assets/stud-gallery/a-stud-looking-up.jpeg" width="250" style="float:left;"></a>
     <p><strong><a href="/litters/a-ruede">Balbirnie Khaki</a></strong></p>
-    
+    <a href="/litters/a-ruede"><img src="/assets/stud-gallery/a-stud-looking-up.jpeg" width="250" style="float:left;"></a>
+     <p>
+      HD: A/A<br>
+      ED: 0/0<br>
+      SD2, prcd-PRA, CNM, EIC: über Erbgang frei<br>
+      Augen: frei (Mai 2020)<br>
+    </p>
   </div>
 </div>
 

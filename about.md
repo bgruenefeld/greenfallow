@@ -11,8 +11,8 @@ Zuerst zog ein Labradorrüde (Runi) als reiner Familienhund ein. Runi war ein ä
 
 Im Laufe der Jahre kamen zwei weitere Hündinen aus reinen Arbeitslinien hinzu, die erfolgreich auf Arbeitsprüfugen geführt werden. 
 
-Auch bzw. gerade weil unsere Hund aus Arbeitslinienzuchten stammen und über viele Generationen auf labradortypischen Arbeitseigentschaften selektiert wurden, können sie ihren (Neben-) Job als ganz normaler Familienhund hervorragend meistern. Sie sind eigentlich überall mit dabei und aufgrund ihres angenehmen Wesens und ihrer Anpassungsfähigkeit angenehme Begleiter.  
+Auch bzw. gerade weil unsere Hunde aus Arbeitslinienzuchten stammen und über viele Generationen auf labradortypischen Arbeitseigentschaften selektiert wurden, können sie ihren (Neben-) Job als ganz normaler Familienhund hervorragend meistern. Sie sind eigentlich überall mit dabei und aufgrund ihres angenehmen Wesens und ihrer Anpassungsfähigkeit gute Begleiter.  
 
 Der Gedanke an die Zucht kam als wir merkten das wir mit Work and More Hannah eine sehr talentierte Hündin haben. Leider musste Hannah aufgrund einer aktuten Gebärmutterentzündung kastriert werden, so dass sich die Zuchtpläne erstmal zerschlugen. 
-Nach einiger Suche, zog mit Reggae eine hoch talentierte Hündin ein, die aus der leistungsstarken und gesunden Zuchtlinie vom Keien Fenn stammt. Mir war dabei unter anderem wichitg, dass sie aus einer etablierten Zuchtlinie stammt. Das kann man beim Zwinger vom Keien Fenn wohl sagen: der erste Wurf fiel dort 1972, man verfügt somit über 50 Jahre Erfahrung in der Zucht von Labrador Retrievern.
+Nach einiger Suche, zog mit Reggae eine hoch talentierte Hündin ein, die aus der leistungsstarken und gesunden Zuchtlinie vom Keien Fenn stammt. Mir war dabei unter anderem wichtig, dass sie aus einer etablierten Zuchtlinie stammt. Das kann man beim Zwinger vom Keien Fenn wohl sagen: der erste Wurf fiel dort 1972, man verfügt somit über 50 Jahre Erfahrung in der Zucht von Labrador Retrievern.
 Mit Reggae wollen wir unseren ersten Wurf machen.

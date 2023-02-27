@@ -21,7 +21,6 @@ Als wir dann den jetzt ausgesuchten Rüden sahen, war ganz schnell klar dass es 
     position: relative;
     left: 10px;
     margin: 10px;">
-  {% include carousel.html height="100" unit="%" duration="90" number="1" %}
 </div>
 
 <p>

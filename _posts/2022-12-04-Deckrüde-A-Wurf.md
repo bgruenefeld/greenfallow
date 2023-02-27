@@ -33,6 +33,6 @@ Im tiefsten Dänemark sind wir schliesslich fündig geworden und haben eine äu�
   Jetzt freuen wir uns auf Reggae´s nächste Läufigkeit im Frühjahr, um dann erneut den Auserwählten zu besuchen ... 🤗
 </p>
 <p>
-  Demnächst werden wir ihn noch detailiert auf einer separaten Seite vorstellen. Hier schon mal vorab ein paar Fotos von ihm.
+  Demnächst werden wir ihn noch detailiert auf einer separaten Seite vorstellen.
 </p>
 

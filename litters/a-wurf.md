@@ -9,13 +9,13 @@ permalink: /litters/a-wurf
     <a href="/dogs/reggae.html"><img style="float:left;" src="/assets/litters/reggae-sitzt2.jpeg" width="250"></a>
    
   </div>
-<!--  
+   
   <div style="float:left; margin-left: 10px;">
     <p><strong><a href="/litters/a-wurf-ruede">DK FTCh, MPM 2021 Grovery Gunner</a></strong></p>
     <a href="/litters/a-wurf-ruede"><img src="/assets/stud-gallery/gunner/gunner-bei-frost.jpeg" width="250" style="float:left;"></a>
     
   </div>
--->
+ 
 </div>
 
 <!-- a href="https://www.k9data.com/pedigree.asp?ID=1287885" target="_blank">Ahnentafel des A Wurfs</a -->

@@ -11,8 +11,8 @@ permalink: /litters/a-wurf
   </div>
 <!--  
   <div style="float:left; margin-left: 10px;">
-    <p><strong><a href="/litters/a-ruede">Balbirnie Khaki</a></strong></p>
-    <a href="/litters/a-ruede"><img src="/assets/stud-gallery/a-stud-looking-up.jpeg" width="250" style="float:left;"></a>
+    <p><strong><a href="/litters/a-wurf-ruede">DK FTCh, MPM 2021 Grovery Gunner</a></strong></p>
+    <a href="/litters/a-wurf-ruede"><img src="/assets/stud-gallery/gunner/gunner-bei-frost.jpg" width="250" style="float:left;"></a>
     
   </div>
 -->

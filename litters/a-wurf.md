@@ -12,7 +12,7 @@ permalink: /litters/a-wurf
 <!--  
   <div style="float:left; margin-left: 10px;">
     <p><strong><a href="/litters/a-wurf-ruede">DK FTCh, MPM 2021 Grovery Gunner</a></strong></p>
-    <a href="/litters/a-wurf-ruede"><img src="/assets/stud-gallery/gunner/gunner-bei-frost.jpg" width="250" style="float:left;"></a>
+    <a href="/litters/a-wurf-ruede"><img src="/assets/stud-gallery/gunner/gunner-bei-frost.jpeg" width="250" style="float:left;"></a>
     
   </div>
 -->

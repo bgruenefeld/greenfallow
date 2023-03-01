@@ -18,15 +18,15 @@ permalink: /litters/a-wurf
  
 </div>
 
-<!-- a href="https://www.k9data.com/pedigree.asp?ID=1287885" target="_blank">Ahnentafel des A Wurfs</a -->
+<a href="https://www.k9data.com/pedigree.asp?ID=1287885" target="_blank">Ahnentafel des A Wurfs</a>
 
 Reggae hat uns bereits früh in ihrer Ausbildung gezeigt das sie über sehr guten Arbeitsqualitäten verfügt. Da sie auch auf Prüfungen klasse Resultate gebracht hat und auch sonst eine angenehme Hündin ist, haben wir uns entschieden mit ihr unseren A-Wurf zu machen. Wir denken das ihre exzellenten Markier- und Memoryfähigkeiten, ihr gutes Temperament und ihre konzentrierten Ruhe bei der Arbeit wichtige Anlagen für einen Labrador sind, die wir erhalten möchten. 
 
-<!-- 
-Für den A Wurf haben wir uns für einen athletischen, sehr freundlichen gelben Rüden aus Field Trial Linien entschieden der im ständigen jagdlichen Einsatz steht, ähnlich veranlagt ist wie Reggae und eine sehr gute körperliche Substanz mitbringt. Ausführliche Infos zum Deckrüden finden Sie <a href="/litters/a-ruede.html">hier</a>
 
-Die Kombination ähnlicher Linien hat in der Vergangenheit leistungsstarke Hunde mit Temperament und Arbeitswillen gebracht, so dass wir uns für die Welpen dieses Wurfs aktive Menschen wünschen die mit den Hunden jagdlich, im Dummysport oder in der Rettungshundearbeit arbeiten. 
--->
+Für den A Wurf haben wir uns für Dk FTCh, MPM2021 Grovery Gunner entschieden. Er ist ein sehr freundlicher, schwarzer Rüden aus Field Trial Linien der im ständigen jagdlichen Einsatz steht und sehr erfolgreich auf Field Trials geführt wird. Ausführliche Infos zum Deckrüden finden Sie <a href="/litters/a-wurf-ruede.html">hier</a>
+
+Wir glauben das die Kombination freundliche und leistungsstarke Hunde mit Temperament und Arbeitswillen bringen wird die in verschieden Bereichen geführt werden können. Für die Welpen dieses Wurfs wünschen wir uns deshalb aktive Menschen die mit den Hunden z.B. jagdlich, im Dummysport oder in der Rettungshundearbeit arbeiten wollen. 
+
 Als reine Familienhunde sollen die Hunde nicht abgegeben werden.
 
 Wenn Sie Interesse an einem Welpen aus diesem Wurf haben sollten Sie sich frühzeitig per email <a href="mailto:greenfallow@gmx.de">greenfallow@gmx.de</a>, telefonisch unter 01520-9254556 oder mit dem Anfrageformular unten auf dieser Seite bei uns melden. Gerne beantworten wir dann ausführlich Ihre Fragen.

@@ -7,7 +7,7 @@ description: Voller Vorfreude sind wir zum Finale gefahren, um uns mit den beste
 
 Da das Finale bereits um 7:30 Uhr begann, haben wir uns schon am Freitag auf den Weg an den Niederrhein gemacht, um am Samstag früh ausgeschlafen an den Start gehen zu können.
 
-An den beiden Prüfungstagen wurden insgesamt über 130 Hund gerichtetet und jeweils neun Aufgaben gearbeitet. Da es unser erstes Finale war und jede Menge gute Hunde und Hundeführer da waren, hatten wir uns zwei Zielen gesteckt:
+An den beiden Prüfungstagen wurden insgesamt über 130 Hund gerichtet und neun Aufgaben gearbeitet. Da es unser erstes Finale war und jede Menge gute Hunde und Hundeführer da waren, hatten wir uns zwei Zielen gesteckt:
 
 1. ohne Null durchkommen und bestehen!
 2. wenn alles gut läuft wäre eine Top Ten Platzierung grandios!
@@ -23,6 +23,6 @@ Um so überraschter war ich als wir zu einem Stechen um eine Platzierung aufgeru
 <div style="float:left"> <img src="/assets/wt-a-finale2022.jpeg" width="75%" height="75%">
   <p style="font-style: italic;">Reggae und ich nebst Trainingskameradin Ilka Bielefeld (<a href="https://www.hundeschule-bringfreude.de/" target="_blank">Hundeschule Bringfreude</a>), die mit ihrer Hündin mit einem Punkt Vorsprung den ersten Platz belegte.</p></div>
 
-Insgesamt war die Leistungsdichte im oberen viertel sehr hoch - die ersten fünf Hunde trennte lediglich ein Punkt! Der vermeidbare technische Fehler aus der ersten Aufgabe hat zwar ein _noch ein bischen besser_ verhindert, aber man lernt dazu und wir werden es beim nächsten mal besser machen! 
+Insgesamt war die Leistungsdichte im oberen viertel sehr hoch - die ersten fünf Hunde trennte lediglich ein Punkt! Der vermeidbare technische Fehler aus der ersten Aufgabe hat zwar ein _noch ein bisschen besser_ verhindert, aber man lernt dazu und wir werden es beim nächsten mal besser machen! 
 
 Wir werden uns jetzt über den Winter auf die F-Klasse vorbereiten und freuen uns schon auf die nächste Prüfungssaison.

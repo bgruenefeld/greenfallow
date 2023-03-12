@@ -16,7 +16,7 @@ Aktuell planen wir mit <a href="/dogs/reggae.html">**Reggae**</a> unseren <a hre
 
 Auch Ersthundeführer sind herzlich willkommen und werden mit Rat und Tat unterstützt!
 
-Wenn Sie Interesse an einem Welpen aus dem Wurf haben sollten Sie sich frühzeitig per email <a href="mailto:greenfallow@gmx.de">greenfallow@gmx.de</a>, telefonisch unter 01520-9254556 oder mit dem Anfrageformular unten auf dieser Seite bei uns melden.
+Wenn Sie Interesse an einem Welpen aus dem Wurf haben sollten Sie sich frühzeitig per email <a href="mailto:greenfallow@gmx.de">greenfallow@gmx.de</a> oder telefonisch unter 01520-9254556 bei uns melden.
 Gerne beantworten wir dann ausführlich Ihre Fragen.
 
 
@@ -24,4 +24,3 @@ Gerne beantworten wir dann ausführlich Ihre Fragen.
  <!-- p>Details zum A-Wurf finden Sie hier <strong><a href="a-wurf"> A-Wurf (Reggae vom Keien Fenn X Balbirnie Khaki)</a></strong></p -->
 </div>
 
-{% include contact-form.html %}

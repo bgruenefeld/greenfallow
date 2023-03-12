@@ -29,6 +29,5 @@ Wir glauben das die Kombination freundliche und leistungsstarke Hunde mit Temper
 
 Als reine Familienhunde sollen die Hunde nicht abgegeben werden.
 
-Wenn Sie Interesse an einem Welpen aus diesem Wurf haben sollten Sie sich frühzeitig per email <a href="mailto:greenfallow@gmx.de">greenfallow@gmx.de</a>, telefonisch unter 01520-9254556 oder mit dem Anfrageformular unten auf dieser Seite bei uns melden. Gerne beantworten wir dann ausführlich Ihre Fragen.
+Wenn Sie Interesse an einem Welpen aus diesem Wurf haben sollten Sie sich frühzeitig per email <a href="mailto:greenfallow@gmx.de">greenfallow@gmx.de</a> odertelefonisch unter 01520-9254556 bei uns melden. Gerne beantworten wir dann ausführlich Ihre Fragen.
 
-{% include contact-form.html %}

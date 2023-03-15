@@ -12,7 +12,7 @@ permalink: /litters/
 </div>
 
 
-Aktuell planen wir mit <a href="/dogs/reggae.html">**Reggae**</a> unseren <a href="a-wurf"><strong>A-Wurf</strong></a>. Der Wurf wird vorbehaltlich einer ausreichenden Anzahl von Interessenten im **Frühjahr 2023** stattfinden. Aufgrund der Elterntiere erwarten wir temperamentvolle Welpen die sich hervoragend für Jagd, Dummysport oder Rettungshundearbeit eignen. Es wird gelbe und schwarze Welpen geben.  
+Aktuell planen wir mit <a href="/dogs/reggae.html">**Reggae**</a> unseren <a href="a-wurf"><strong>A-Wurf</strong></a>. Der Wurf wird vorbehaltlich einer ausreichenden Anzahl von Interessenten im **Frühjahr 2023** stattfinden. Aufgrund der Elterntiere erwarten wir temperamentvolle Welpen die sich hervorragend für Jagd, Dummysport oder Rettungshundearbeit eignen. Es ausschliesslich schwarze Welpen geben.  
 
 Auch Ersthundeführer sind herzlich willkommen und werden mit Rat und Tat unterstützt!
 

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 4ter Advent mal anders - interner Team WT BZG Ostfriesland
+title: Das lange warten hat ein Ende ...
 categories: reggae
 description: Reggae´s Ultraschalltermin ...
 ---

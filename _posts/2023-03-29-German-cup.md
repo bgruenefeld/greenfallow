@@ -2,7 +2,7 @@
 layout: post
 title: Die Verwandschaft beim DRC German Cup ...
 categories: reggae
-description: Während Reggea das Leben mit ...
+description: Während Reggea das Leben mit 
 ---
 
 Während Reggea das Leben mit leichtem Training geniest und sich daheim gerne das "gefüllte" Bäuchlein kraulen lässt, 

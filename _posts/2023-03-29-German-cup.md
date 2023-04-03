@@ -2,10 +2,10 @@
 layout: post
 title: Die Verwandschaft beim DRC German Cup ...
 categories: reggae
-description: Während Reggea das (Lotter)Leben geniesst 
+description: Während Reggae das (Lotter)Leben geniesst 
 ---
 
-Während Reggea das (Lotter-)Leben geniesst und sich daheim gerne das "gefüllte" Bäuchlein kraulen lässt, 
+Während Reggae das (Lotter-)Leben geniesst und sich daheim gerne das "gefüllte" Bäuchlein kraulen lässt, 
 startet die Verwandschaft beim diesjährigen  [DRC German Cup](http://germancup2023.de/). Der German Cup ist ein jährlich stattfindender Team-Workingtest, zu dem nur Hunde zugelassen sind die
 bereits erfolgreich in der höchsten Klasse gestartet sind.
 

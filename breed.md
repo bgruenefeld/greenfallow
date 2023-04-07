@@ -22,7 +22,7 @@ Ziel ist es gesunde, leistungsfähige und -wesensfeste Hunde zu züchten, die m�
 
 Um die Welpen bestmöglich für ihr weiteres Leben vorzubereiten werden sie umfassend sozialisiert. Die Sozialisierung der Welpen ist gerade in den ersten Lebenswochen am nachhaltigsten, deshalb werden die Welpen im Haus großgezogen und haben für ihre weitere Entwicklung ab der 4. Woche einen Garten zur Verfügung. Sie werden in dieser Zeit mit vielen Menschen in Kontakt kommen, mit Geräuschen aus Haus und Umwelt und verschiedenen Untergründe konfrontiert, erste gemeinsame Ausflüge erleben und Wasserkontakt bekommen. Wenn eine jagdliche Verwendung angedacht ist werden die Welpen Kontakt zu Wild haben.
 
-Nach Abgabe der Welpen stehen wir unseren Welpenkäufern selbstverständlich mit Rat und Tat zur Verfügung. Wir untersützen sie bei Fragen, der Ausbildung der Hunde oder anderen Dingen. Über einen anhaltenden Kontakt zu den Welpenkäufern freuen wir uns.
+Nach Abgabe der Welpen stehen wir unseren Welpenkäufern selbstverständlich mit Rat und Tat zur Verfügung. Wir untersützen sie bei Fragen, der Hundeausbildung sowie anderen Dingen um das Thema Hund sehr gerne. Über einen anhaltenden Kontakt zu den Welpenkäufern freuen wir uns.
 
 <h3>Unser Erwartungen an unsere Welpenkäufer</h3>
 Für unsere Welpen wünschen wir uns engagierte und liebevolle Besitzer, die den Hund entsprechend seiner Anlagen fördern, ohne ihn auf ein Arbeits- oder Sportgerät zu reduzieren! Zukünftige Aufgaben des Hundes können die Jagd, Dummyarbeit oder die Rettungshundearbeit sein. Die Hunde sollten zumindest auf ein paar Grundlagenprüfungen geführt werden. Zudem müssen im Alter von einem Jahr Hüften und Ellenbogen geröntgt werden.

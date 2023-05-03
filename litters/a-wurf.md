@@ -18,7 +18,8 @@ permalink: /litters/a-wurf
  
 </div>
 
-<a href="https://www.k9data.com/pedigree.asp?ID=1292050" target="_blank">Ahnentafel des A Wurfs</a>
+<a href="https://www.k9data.com/pedigree.asp?ID=1292050" target="_blank">Ahnentafel des A Wurfs</a><br>
+<a href="#gallery" >Galerie des A Wurfs</a>
 
 Reggae hat uns bereits früh gezeigt das sie über sehr guten Arbeitsqualitäten verfügt. Da sie auch auf Prüfungen hervorragende Resultate gebracht hat und auch sonst eine angenehme Hündin ist, haben wir uns entschieden mit ihr unseren A-Wurf zu machen. Wir denken das ihre exzellenten Markier- und Memoryfähigkeiten, ihr gutes Temperament und ihre konzentrierten Ruhe bei der Arbeit wichtige Anlagen für einen Labrador sind, die wir erhalten möchten.
 
@@ -30,7 +31,7 @@ Als reine Familienhunde sollen die Hunde nicht abgegeben werden.
 
 Wenn Sie Interesse an einem Welpen aus diesem Wurf haben sollten Sie sich frühzeitig per email <a href="mailto:greenfallow@gmx.de">greenfallow@gmx.de</a> odertelefonisch unter 01520-9254556 bei uns melden. Gerne beantworten wir dann ausführlich Ihre Fragen.
 
-<div style="float: left;">
+<div style="float: left;" id="gallery">
       <h4 id="week1">1. Woche:</h4>
     <div style="float: left; margin-right:10px;">{% include image-gallery.html folder="/litters/week1" %}</div>   
 </div>

@@ -47,4 +47,8 @@ Wenn Sie Interesse an einem Welpen aus diesem Wurf haben sollten Sie sich frühz
       <h4 id="week3">4. Woche:</h4>
     <div style="float: left; margin-right:10px;">{% include image-gallery.html folder="/litters/week4" %}</div>   
 </div>
+<div style="float: left;" id="gallery">
+      <h4 id="week3">7. Woche:</h4>
+    <div style="float: left; margin-right:10px;">{% include image-gallery.html folder="/litters/week7" %}</div>   
+</div>
 

@@ -17,4 +17,27 @@ permalink: /litters/a-progeny
     <p><strong>Greenfallow Andante</strong></p>
    <img style="" src="/litters/week7/ruede-gruen.jpeg" width="150">
   </div>
+  <hr>
+  <div style=" margin-right: 10px;">
+    <p><strong>Greenfallow Ashes</strong></p>
+   <img style="" src="/litters/week7/lila.jpeg" width="150">
+  </div>
+  <div style="margin-right: 10px;">
+    <p><strong>Greenfallow Asari</strong></p>
+   <img style="" src="/litters/week7/orange.jpeg" width="150">
+  </div>
+  
+  <div style="margin-right: 10px;">
+    <p><strong>Greenfallow Amina</strong></p>
+   <img style="" src="/litters/week7/rosa.jpeg" width="150">
+  </div>
+  <div style=" margin-right: 10px;">
+    <p><strong>Greenfallow Amani</strong></p>
+   <img style="" src="/litters/week7/rot.jpeg" width="150">
+  </div>
+  <div style="margin-right: 10px;">
+    <p><strong>Greenfallow Aimee</strong></p>
+   <img style="" src="/litters/week7/gelb.jpeg" width="150">
+  </div>
+  
 </div>

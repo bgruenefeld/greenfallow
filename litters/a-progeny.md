@@ -36,7 +36,7 @@ permalink: /litters/a-progeny
    <img style="" src="/litters/week7/rot.jpeg" width="150">
   </div>
   <div style="margin-right: 10px;">
-    <p><strong>Greenfallow Aimee</strong></p>
+    <p><strong>Greenfallow Aimée</strong></p>
    <img style="" src="/litters/week7/gelb.jpeg" width="150">
   </div>
   

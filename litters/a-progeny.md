@@ -9,7 +9,7 @@ permalink: /litters/a-progeny
    <img style="float:left;" src="/litters/week7/ruede-blau.jpeg" width="150">
   </div>
   <div style="float:left; margin-right: 10px;">
-    <p><strong>Greenfallow Allegra</strong></p>
+    <p><strong>Greenfallow Allegro</strong></p>
    <img style="float:left;" src="/litters/week7/ruede_weiss.jpeg" width="150">
   </div>
   

@@ -20,28 +20,28 @@ permalink: /litters/a-progeny
    <img style="" src="/litters/week7/ruede-gruen.jpeg" width="150">
   </div>
   
-  <hr>
+  <hr style="clear:left">
   <p>Hündinnen:</p>
-  <div style="margin-right: 10px;">
+  <div style="float:left; margin-right: 10px;">
     <p><strong>Greenfallow Aimée</strong></p>
    <img style="" src="/litters/week7/gelb.jpeg" width="150">
   </div>
 
-  <div style=" margin-right: 10px;">
+  <div style="float:left;  margin-right: 10px;">
     <p><strong>Greenfallow Amani</strong></p>
    <img style="" src="/litters/week7/rot.jpeg" width="150">
   </div>
   
-  <div style="margin-right: 10px;">
+  <div style="float:left; margin-right: 10px;">
     <p><strong>Greenfallow Asari</strong></p>
    <img style="" src="/litters/week7/orange.jpeg" width="150">
   </div>
-  <div style=" margin-right: 10px;">
+  <div style="float:left;  margin-right: 10px;">
     <p><strong>Greenfallow Ashes</strong></p>
    <img style="" src="/litters/week7/lila.jpeg" width="150">
   </div>
   
-  <div style="margin-right: 10px;">
+  <div style="float:left; margin-right: 10px;">
     <p><strong>Greenfallow Amina</strong></p>
    <img style="" src="/litters/week7/rosa.jpeg" width="150">
   </div>

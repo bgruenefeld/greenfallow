@@ -10,8 +10,10 @@ permalink: /litters/a-progeny
   <div style="float:left; margin-right: 10px;">
     <p><strong>Greenfallow Ayk</strong></p>
    <img style="clear:left" src="/litters/week7/ruede-blau.jpeg" width="150">
-    <div style="float:right;">Verwendung:</div>
-    <div style="float:right;">Gesundheit:</div>
+    <table style="float:right;">
+      <tr><td>Verwendung:</td><td>Jagd & Familie</td></tr>
+      <tr><td>Gesundheit:</td><td>Jagd & Familie</td></tr>
+    </table>
   </div>
   
   <div style="clear:right;float:left; margin-right: 10px;">

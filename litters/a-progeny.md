@@ -6,11 +6,15 @@ permalink: /litters/a-progeny
 <p>Die Akteure gruppiert nach Geschlecht, in der Reihenfolge ihrer auftretens ... 😉 </p>
 <p>Rüden:</p>
 <div style="width: 100%; ">
+  
   <div style="float:left; margin-right: 10px;">
     <p><strong>Greenfallow Ayk</strong></p>
-   <img style="" src="/litters/week7/ruede-blau.jpeg" width="150">
+   <img style="clear:left" src="/litters/week7/ruede-blau.jpeg" width="150">
+    <div style="float:right;">Verwendung:</div>
+    <div style="float:right;">Gesundheit:</div>
   </div>
-  <div style="float:left; margin-right: 10px;">
+  
+  <div style="clear:right;float:left; margin-right: 10px;">
     <p><strong>Greenfallow Allegro</strong></p>
    <img style="" src="/litters/week7/ruede_weiss.jpeg" width="150">
   </div>

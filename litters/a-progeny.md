@@ -3,6 +3,9 @@ layout: page
 title: A Wurf Nachkommen
 permalink: /litters/a-progeny
 ---
+
+{% include image-gallery.html folder="/litters/fotos-a-wurf" %}
+
 <p>Die Akteure gruppiert nach Geschlecht, in der Reihenfolge ihrer auftretens ... 😉 </p>
 <p>Rüden:</p>
 <div style="width: 100%; ">

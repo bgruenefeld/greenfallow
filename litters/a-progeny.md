@@ -3,12 +3,12 @@ layout: page
 title: A Wurf Nachkommen
 permalink: /litters/a-progeny
 ---
-
+<div style="width: 100%; ">
 <div style="float: left;" id="gallery">
       <h4 id="week3">Die Asse:</h4>
     <div style="float: left; margin-right:10px;">{% include image-gallery.html folder="/litters/fotos-a-wurf" %}</div>   
 </div>
-
+</div>
 <p>Die Akteure gruppiert nach Geschlecht, in der Reihenfolge ihrer auftretens ... 😉 </p>
 <p>Rüden:</p>
 <div style="width: 100%; ">

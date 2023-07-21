@@ -20,8 +20,9 @@ Auch Ersthundeführer sind herzlich willkommen und werden mit Rat und Tat unters
 
 
 
-<div style=" margin: 10px;">
-<a href="a-wurf"><strong>A-Wurf</strong></a> [ **Reggae vom Keien Fenn** -**DK FTCh, MPM 2021 Grovery Gunner** ] 
+<div style=" margin: 20px;float:left;">
+    
+    <a href="a-wurf"><strong>A-Wurf</strong></a> [ DK FTCh & MPM 2021 Grovery Gunner - Reggae vom Keien Fenn ] 
 
 </div>
 

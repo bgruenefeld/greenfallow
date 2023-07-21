@@ -4,15 +4,16 @@ title: A Wurf Nachkommen
 permalink: /litters/a-progeny
 ---
 
-<p>Die Akteure gruppiert nach Geschlecht, in der Reihenfolge ihrer auftretens ... 😉 </p>
+<p>Die Akteure gruppiert nach Geschlecht, in der Reihenfolge ihres auftretens ... 😉 </p>
 <p>Rüden:</p>
 <div style="width: 100%; ">
   
   <div style="float:left; margin-right: 10px;">
-    <p><strong>Greenfallow Ayk</strong>
-    </p>
-   <img style="clear:left" src="/litters/week7/ruede-blau.jpeg" width="150">
-    <p>Jagd & Familie</p>
+   <div> 
+     <p><strong>Greenfallow Ayk</strong></p>
+     <img style="clear:left" src="/litters/week7/ruede-blau.jpeg" width="150">
+     <p>Jagd & Familie</p>
+   </div>
   </div>
 </div>
 <div style="width: 100%; ">

@@ -8,17 +8,15 @@ permalink: /litters/a-progeny
 <p>Rüden:</p>
 <div style="clear:both">
   <div style="float:left;width: 49%; margin-right: 10px;">
-   <div>
      <img src="/litters/week7/ruede-blau.jpeg" width="150">
-   </div>
-   <div  style="float:right;width: 49%; margin-right: 10px;"> 
+  </div>
+  <div style="float:right;width: 49%; margin-right: 10px;"> 
      <p><strong>Greenfallow Ayk</strong></p>
      <p>Rufname: Chester</p>
      <p>Arbeit: Jagd</p>
      <p>Gesundheit: ...</p>
      <p>Prüfungen: ...:</p>
    </div>
-  </div>
 </div>
 
 

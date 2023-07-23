@@ -26,7 +26,7 @@ permalink: /litters/a-progeny
   </div>
   <div style="margin-right: 10px;flex: 1;"> 
      <p><strong>Greenfallow Allegro</strong></p>
-     <p>Rufname: Chester</p>
+     <p>Rufname: Allegro</p>
      <p>Arbeit: Dummysport</p>
      <p>Gesundheit: ...</p>
      <p>Prüfungen: ...</p>

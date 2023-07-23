@@ -6,19 +6,18 @@ permalink: /litters/a-progeny
 
 <p>Die Akteure gruppiert nach Geschlecht, in der Reihenfolge ihres auftretens ... 😉 </p>
 <p>Rüden:</p>
-<div style="clear:both">
-  <div>
-  <div style="float:left;width: 49%; margin-right: 10px;">
+<div style="display: flex;">
+ 
+  <div style="margin-right: 10px;flex: 1;">
      <img src="/litters/week7/ruede-blau.jpeg" width="150">
   </div>
-  <div style="float:right;width: 49%; margin-right: 10px;"> 
+  <div style="margin-right: 10px;flex: 1;"> 
      <p><strong>Greenfallow Ayk</strong></p>
      <p>Rufname: Chester</p>
      <p>Arbeit: Jagd</p>
      <p>Gesundheit: ...</p>
-     <p>Prüfungen: ...:</p>
+     <p>Prüfungen: ...</p>
    </div>
-    </div>
 </div>
 
 

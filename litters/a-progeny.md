@@ -8,10 +8,10 @@ permalink: /litters/a-progeny
 <p>Rüden:</p>
 <div style="display: flex;">
  
-  <div style="margin-right: 10px;flex: 1;">
+  <div style="margin-right: 10px;flex: 0.25;">
      <img src="/litters/week7/ruede-blau.jpeg" width="150">
   </div>
-  <div style="margin-right: 10px;flex: 1;"> 
+  <div style="margin-right: 10px;flex: 0.5;"> 
      <p><strong>Greenfallow Ayk</strong></p>
      <p>Rufname: Chester</p>
      <p>Arbeit: Jagd</p>
@@ -21,10 +21,10 @@ permalink: /litters/a-progeny
 </div>
 <div style="display: flex;">
  
-  <div style="margin-right: 10px;flex: 1;">
+  <div style="margin-right: 10px;flex: 0.25;">
      <img src="/litters/week7/ruede_weiss.jpeg" width="150">
   </div>
-  <div style="margin-right: 10px;flex: 1;"> 
+  <div style="margin-right: 10px;flex: 0.5;"> 
      <p><strong>Greenfallow Allegro</strong></p>
      <p>Rufname: Allegro</p>
      <p>Arbeit: Dummysport</p>
@@ -35,10 +35,10 @@ permalink: /litters/a-progeny
 
 <div style="display: flex;">
  
-  <div style="margin-right: 10px;flex: 1;">
+  <div style="margin-right: 10px;flex: 0.25;">
      <img src="/litters/week7/ruede-gruen.jpeg" width="150">
   </div>
-  <div style="margin-right: 10px;flex: 1;"> 
+  <div style="margin-right: 10px;flex: 0.5;"> 
      <p><strong>Greenfallow Andante</strong></p>
      <p>Rufname: Paddy</p>
      <p>Arbeit: Jagd und Dummysport</p>

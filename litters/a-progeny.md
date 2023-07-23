@@ -19,7 +19,33 @@ permalink: /litters/a-progeny
      <p>Prüfungen: ...</p>
    </div>
 </div>
+<div style="display: flex;">
+ 
+  <div style="margin-right: 10px;flex: 1;">
+     <img src="/litters/week7/ruede_weiss.jpeg" width="150">
+  </div>
+  <div style="margin-right: 10px;flex: 1;"> 
+     <p><strong>Greenfallow Allegro</strong></p>
+     <p>Rufname: Chester</p>
+     <p>Arbeit: Dummysport</p>
+     <p>Gesundheit: ...</p>
+     <p>Prüfungen: ...</p>
+   </div>
+</div>
 
+<div style="display: flex;">
+ 
+  <div style="margin-right: 10px;flex: 1;">
+     <img src="/litters/week7/ruede-gruen.jpeg" width="150">
+  </div>
+  <div style="margin-right: 10px;flex: 1;"> 
+     <p><strong>Greenfallow Andante</strong></p>
+     <p>Rufname: Paddy</p>
+     <p>Arbeit: Jagd und Dummysport</p>
+     <p>Gesundheit: ...</p>
+     <p>Prüfungen: ...</p>
+   </div>
+</div>
 
 
 

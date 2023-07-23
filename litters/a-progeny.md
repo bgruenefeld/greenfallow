@@ -48,7 +48,7 @@ permalink: /litters/a-progeny
    </div>
 </div>
 <hr>
-<h3>Hündinnen</h3>
+<h3>Hündinnen:</h3>
 <div style="display: flex;">
  
   <div style="margin-right: 10px;flex: 0.25;">

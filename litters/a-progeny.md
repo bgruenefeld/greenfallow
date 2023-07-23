@@ -5,7 +5,7 @@ permalink: /litters/a-progeny
 ---
 
 <p>Die Akteure gruppiert nach Geschlecht, in der Reihenfolge ihres auftretens ... 😉 </p>
-<p>Rüden:</p>
+<h3>Rüden:</h3>
 <div style="display: flex;">
  
   <div style="margin-right: 10px;flex: 0.25;">
@@ -33,7 +33,7 @@ permalink: /litters/a-progeny
      <p>Prüfungen: ...</p>
    </div>
 </div>
-
+<hr>
 <div style="display: flex;">
  
   <div style="margin-right: 10px;flex: 0.25;">
@@ -47,7 +47,8 @@ permalink: /litters/a-progeny
      <p>Prüfungen: ...</p>
    </div>
 </div>
-// mädels
+<hr>
+<h3>Hündinnen</h3>
 <div style="display: flex;">
  
   <div style="margin-right: 10px;flex: 0.25;">

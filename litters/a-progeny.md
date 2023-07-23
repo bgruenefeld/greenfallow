@@ -8,8 +8,7 @@ permalink: /litters/a-progeny
 <p>Rüden:</p>
 <div>
   <div style="float:left; margin-right: 10px;">
-   <div> 
-    
+   <div>
      <img src="/litters/week7/ruede-blau.jpeg" width="150">
    </div>
    <div  style="float:left; margin-right: 10px;"> 

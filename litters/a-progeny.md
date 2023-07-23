@@ -7,6 +7,7 @@ permalink: /litters/a-progeny
 <p>Die Akteure gruppiert nach Geschlecht, in der Reihenfolge ihres auftretens ... 😉 </p>
 <p>Rüden:</p>
 <div style="clear:both">
+  <div>
   <div style="float:left;width: 49%; margin-right: 10px;">
      <img src="/litters/week7/ruede-blau.jpeg" width="150">
   </div>
@@ -17,6 +18,7 @@ permalink: /litters/a-progeny
      <p>Gesundheit: ...</p>
      <p>Prüfungen: ...:</p>
    </div>
+    </div>
 </div>
 
 

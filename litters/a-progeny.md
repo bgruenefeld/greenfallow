@@ -26,7 +26,7 @@ permalink: /litters/a-progeny
 
 
 
-
+<!--
 <div style="width: 100%; ">
   <div style="clear:right;float:left; margin-right: 10px;">
     <p><strong>Greenfallow Allegro</strong></p>
@@ -81,4 +81,4 @@ permalink: /litters/a-progeny
     <p>Dummysport & Familie </p>
 
   </div>
- 
+ -->

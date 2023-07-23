@@ -1,6 +1,6 @@
 ---
 layout: page
-title: A Wurf
+title: A Wurf (Reggae vom Keien Fenn X DK FTCh, MPM-2021 Grovery Gunner)
 permalink: /litters/a-wurf
 ---
 
@@ -8,11 +8,11 @@ Reggae hat uns bereits früh gezeigt das sie über sehr gute Arbeitsqualitäten 
 
 Für den A Wurf haben wir uns für <strong>DK FTCh, MPM-2021 Grovery Gunner</strong> entschieden. Er ist ein sehr freundlicher, schwarzer Rüden aus Field Trial Linien der im ständigen jagdlichen Einsatz steht und sehr erfolgreich auf Field Trials geführt wird. Ausführliche Infos zum Deckrüden finden Sie <a href="/litters/a-wurf-ruede.html">hier</a>
 
-<a href="https://www.k9data.com/pedigree.asp?ID=1292050" target="_blank">Ahnentafel des A Wurfs</a> |
-<a href="#gallery" >Fotogalerie des A Wurfs</a> |
-<a href="/litters/a-progeny">Übersicht A-Wurf</a>
+<a href="https://www.k9data.com/pedigree.asp?ID=1292050" target="_blank">Ahnentafel</a>
+<a href="#gallery" >Fotogalerie</a>
+<a href="/litters/a-progeny">Wurfübersicht</a>
 
-<div style="width: 100%; float: left;">
+<!-- div style="width: 100%; float: left;">
   <div style="float:left; margin-right: 10px;">
     <p><strong><a href="/dogs/reggae.html"> Reggae vom Keien Fenn</a></strong></p>
     <a href="/dogs/reggae.html"><img style="float:left;" src="/assets/litters/reggae-sitzt2.jpeg" width="250"></a>   
@@ -21,7 +21,9 @@ Für den A Wurf haben wir uns für <strong>DK FTCh, MPM-2021 Grovery Gunner</str
     <p><strong><a href="/litters/a-wurf-ruede">DK FTCh, MPM 2021 Grovery Gunner</a></strong></p>
     <a href="/litters/a-wurf-ruede"><img src="/assets/stud-gallery/gunner/gunner-bei-frost.jpeg" width="250" style="float:left;"></a>    
   </div> 
-</div>
+</div -->
+
+<hr>
 
 <div style="float: left;" id="gallery">
       <h4 id="week1">1. Woche:</h4>

@@ -99,7 +99,7 @@ permalink: /litters/a-progeny
   <div style="margin-right: 10px;flex: 0.5;"> 
      <p><strong>Greenfallow Ashes</strong></p>
      <p>Rufname: Yune</p>
-     <p>Arbeit: Jagd</p>
+     <p>Arbeit: Dummysport & Jagd</p>
      <p>Gesundheit: ...</p>
      <p>Prüfungen: ...</p>
    </div>

@@ -11,6 +11,9 @@ permalink: /litters/a-progeny
   <div style="margin-right: 10px;flex: 0.25;">
      <img src="/litters/week7/ruede-blau.jpeg" width="150">
   </div>
+   <div style="margin-right: 10px;flex: 0.25;">
+     <img src="/litters/fotos-a-wurf/nine-months/ash-5.jpeg" width="150" title="8 Monate">
+  </div>
   <div style="margin-right: 10px;flex: 0.5;"> 
      <p><strong>Greenfallow Ayk</strong></p>
      <p>Rufname: Chester</p>

@@ -28,6 +28,10 @@ permalink: /litters/a-progeny
   <div style="margin-right: 10px;flex: 0.25;">
      <img src="/litters/week7/ruede_weiss.jpeg" width="150">
   </div>
+  
+  <div style="margin-right: 10px;flex: 0.25;">
+     <img src="/litters/fotos-a-wurf/nine-months/allegro-1.jpeg" width="150">
+  </div>
   <div style="margin-right: 10px;flex: 0.5;"> 
      <p><strong>Greenfallow Allegro</strong></p>
      <p>Rufname: Allegro</p>

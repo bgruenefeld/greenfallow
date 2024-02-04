@@ -30,7 +30,7 @@ permalink: /litters/a-progeny
   </div>
   
   <div style="margin-right: 10px;flex: 0.25;">
-     <img src="/litters/fotos-a-wurf/nine-months/allegro-1.jpeg" width="150">
+     <img src="/litters/fotos-a-wurf/nine-months/allegro-1.jpeg" width="150" title="8 Monate">
   </div>
   <div style="margin-right: 10px;flex: 0.5;"> 
      <p><strong>Greenfallow Allegro</strong></p>
@@ -47,7 +47,7 @@ permalink: /litters/a-progeny
      <img src="/litters/week7/ruede-gruen.jpeg" width="150">
   </div>
   <div style="margin-right: 10px;flex: 0.25;">
-     <img src="/litters/fotos-a-wurf/nine-months/andante-3.jpeg" width="150">
+     <img src="/litters/fotos-a-wurf/nine-months/andante-3.jpeg" width="150" title="8 Monate">
   </div>
   <div style="margin-right: 10px;flex: 0.5;"> 
      <p><strong>Greenfallow Andante</strong></p>
@@ -65,7 +65,7 @@ permalink: /litters/a-progeny
      <img src="/litters/week7/gelb.jpeg" width="150">
   </div>
   <div style="margin-right: 10px;flex: 0.25;">
-     <img src="/litters/fotos-a-wurf/nine-months/aimee.jpeg" width="150">
+     <img src="/litters/fotos-a-wurf/nine-months/aimee.jpeg" width="150" title="8 Monate">
   </div>
   
   <div style="margin-right: 10px;flex: 0.5;"> 
@@ -83,7 +83,7 @@ permalink: /litters/a-progeny
      <img src="/litters/week7/rot.jpeg" width="150">
   </div>
   <div style="margin-right: 10px;flex: 0.25;">
-     <img src="/litters/fotos-a-wurf/nine-months/amani.jpeg" width="150">
+     <img src="/litters/fotos-a-wurf/nine-months/amani.jpeg" width="150" title="8 Monate">
   </div>
     <div style="margin-right: 10px;flex: 0.5;"> 
      <p><strong>Greenfallow Amani</strong></p>
@@ -101,7 +101,7 @@ permalink: /litters/a-progeny
   </div>
   
   <div style="margin-right: 10px;flex: 0.25;">
-     <img src="/litters/fotos-a-wurf/nine-months/asari-1.jpeg" width="150">
+     <img src="/litters/fotos-a-wurf/nine-months/asari-1.jpeg" width="150" title="8 Monate">
   </div>
     <div style="margin-right: 10px;flex: 0.5;"> 
      <p><strong>Greenfallow Asari</strong></p>
@@ -118,7 +118,7 @@ permalink: /litters/a-progeny
      <img src="/litters/week7/lila.jpeg" width="150">
   </div>
   <div style="margin-right: 10px;flex: 0.25;">
-     <img src="/litters/fotos-a-wurf/nine-months/ashes-3.jpeg" width="150">
+     <img src="/litters/fotos-a-wurf/nine-months/ashes-3.jpeg" width="150" title="8 Monate">
   </div>
   
   <div style="margin-right: 10px;flex: 0.5;"> 
@@ -137,7 +137,7 @@ permalink: /litters/a-progeny
   </div>
   
   <div style="margin-right: 10px;flex: 0.25;">
-     <img src="/litters/fotos-a-wurf/nine-months/amina.jpeg" width="150">
+     <img src="/litters/fotos-a-wurf/nine-months/amina.jpeg" width="150" title="8 Monate">
   </div>
     <div style="margin-right: 10px;flex: 0.5;"> 
      <p><strong>Greenfallow Amina</strong></p>

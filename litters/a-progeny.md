@@ -42,6 +42,9 @@ permalink: /litters/a-progeny
   <div style="margin-right: 10px;flex: 0.25;">
      <img src="/litters/week7/ruede-gruen.jpeg" width="150">
   </div>
+  <div style="margin-right: 10px;flex: 0.25;">
+     <img src="/litters/fotos-a-wurf/nine-months/andante-3.jpeg" width="150">
+  </div>
   <div style="margin-right: 10px;flex: 0.5;"> 
      <p><strong>Greenfallow Andante</strong></p>
      <p>Rufname: Paddy</p>
@@ -71,7 +74,10 @@ permalink: /litters/a-progeny
   <div style="margin-right: 10px;flex: 0.25;">
      <img src="/litters/week7/rot.jpeg" width="150">
   </div>
-  <div style="margin-right: 10px;flex: 0.5;"> 
+  <div style="margin-right: 10px;flex: 0.25;">
+     <img src="/litters/fotos-a-wurf/nine-months/amani.jpeg" width="150">
+  </div>
+    <div style="margin-right: 10px;flex: 0.5;"> 
      <p><strong>Greenfallow Amani</strong></p>
      <p>Rufname: Zuma</p>
      <p>Arbeit: Dummysport</p>
@@ -85,7 +91,11 @@ permalink: /litters/a-progeny
   <div style="margin-right: 10px;flex: 0.25;">
      <img src="/litters/week7/orange.jpeg" width="150">
   </div>
-  <div style="margin-right: 10px;flex: 0.5;"> 
+  
+  <div style="margin-right: 10px;flex: 0.25;">
+     <img src="/litters/fotos-a-wurf/nine-months/asari-1.jpeg" width="150">
+  </div>
+    <div style="margin-right: 10px;flex: 0.5;"> 
      <p><strong>Greenfallow Asari</strong></p>
      <p>Rufname: Asari</p>
      <p>Arbeit: Dummysport</p>
@@ -99,6 +109,10 @@ permalink: /litters/a-progeny
   <div style="margin-right: 10px;flex: 0.25;">
      <img src="/litters/week7/lila.jpeg" width="150">
   </div>
+  <div style="margin-right: 10px;flex: 0.25;">
+     <img src="/litters/fotos-a-wurf/nine-months/ashes-3.jpeg" width="150">
+  </div>
+  
   <div style="margin-right: 10px;flex: 0.5;"> 
      <p><strong>Greenfallow Ashes</strong></p>
      <p>Rufname: Yune</p>
@@ -113,7 +127,11 @@ permalink: /litters/a-progeny
   <div style="margin-right: 10px;flex: 0.25;">
      <img src="/litters/week7/rosa.jpeg" width="150">
   </div>
-  <div style="margin-right: 10px;flex: 0.5;"> 
+  
+  <div style="margin-right: 10px;flex: 0.25;">
+     <img src="/litters/fotos-a-wurf/nine-months/amina.jpeg" width="150">
+  </div>
+    <div style="margin-right: 10px;flex: 0.5;"> 
      <p><strong>Greenfallow Amina</strong></p>
      <p>Rufname: Minna</p>
      <p>Arbeit: Dummysport</p>

@@ -3,6 +3,7 @@ remote_theme: jekyll/minima
 header_pages:
   - posts.html
   - dogs.md
+  - breedingplan.md
   - litters.md
   - breed.md
   - about.md

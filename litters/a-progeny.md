@@ -126,7 +126,7 @@ permalink: /litters/a-progeny
      <p>Rufname: Yune</p>
      <p>Arbeit: Dummysport & Jagd</p>
      <p>Gesundheit: ...</p>
-     <p>Prüfungen: ...</p>
+     <p>Prüfungen: C-Diplom (Niederlande), 42/50 Pkt.</p>
    </div>
 </div>
 <hr>

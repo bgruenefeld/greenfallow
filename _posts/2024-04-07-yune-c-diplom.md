@@ -5,7 +5,7 @@ categories: reggae
 description: Heute hat Yune ...
 ---
 
-Heute hat Greenfallow Ashes (aka Yune) mit 11 Monaten das niederländische C-Diplom erhalten und damit ihre erste offizielle Prüfung bestanden. Sie erielte dabei 42 von 50 Punkten. 
+Heute hat Greenfallow Ashes (aka Yune) mit 11 Monaten das niederländische C-Diplom erhalten und damit ihre erste offizielle Prüfung bestanden. Sie erreichte dabei 42 von 50 Punkten. 
 
 Die Diplom Prüfungen in den Niederlanden entsprechen in etwa den APD/R Prüfungen im DRC, die einzelnen Prüfungenaufgaben sind jedoch etwas anders. Details zu den Niederländischen Diplom Prüfungen finden sich 
 <a href="https://www.labradorkring.nl/jacht/uitleg-proeven-jachthonden/">hier</a>

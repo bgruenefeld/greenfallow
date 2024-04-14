@@ -5,8 +5,9 @@ description: Informationen zu geplanten Würfen
 permalink: /breedingplan/
 ---
 
-<p>Die Hunde aus unserem A-Wurf entwickeln sich prächtig. Alle Hunde die wir aus dem Wurf gesehen haben, haben sich zu freundlichen und temperamentvollen Junghunden entwickelt, die über sehr gute Arbeitsanlagen verfügen.
-Das Feedback der Besitzer ist durchweg positiv und die Hunde sind angenehme Begleiter im Alltag. </p>
+<p>
+Die Hunde aus unserem A-Wurf entwickeln sich prächtig. 
+Alle Hunde die wir aus dem Wurf gesehen haben, haben sich zu freundlichen und temperamentvollen Junghunden entwickelt, die über sehr gute Arbeitsanlagen verfügen. Das Feedback aller Besitzer ist durchweg positiv.</p>
 
 <p>
 Unser Plan für den Wurf scheint aufgegangen zu sein!

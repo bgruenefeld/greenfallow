@@ -125,7 +125,7 @@ permalink: /litters/a-progeny
      <p><strong>Greenfallow Ashes</strong></p>
      <p>Rufname: Yune</p>
      <p>Arbeit: Dummysport & Jagd</p>
-     <p>Gesundheit: Hüften A/A, Ellbogen 0/0</p>
+     <p>Gesundheit: Hüften A/A, Ellbogen 0/0, Augen frei (04.2024)</p>
      <p>Prüfungen: C-Diplom (Niederlande), 42/50 Pkt.</p>
    </div>
 </div>

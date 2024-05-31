@@ -36,7 +36,7 @@ permalink: /litters/a-progeny
      <p><strong>Greenfallow Allegro</strong></p>
      <p>Rufname: Allegro</p>
      <p>Arbeit: Dummysport</p>
-     <p>Gesundheit: ...</p>
+     <p>Gesundheit: Hüften A1/A1, Ellbogen frei/frei, OCD-Schulter frei</p>
      <p>Prüfungen: ...</p>
    </div>
 </div>
@@ -53,7 +53,7 @@ permalink: /litters/a-progeny
      <p><strong>Greenfallow Andante</strong></p>
      <p>Rufname: Paddy</p>
      <p>Arbeit: Jagd & Dummysport</p>
-     <p>Gesundheit: ...</p>
+     <p>Gesundheit: Hüften A1/A1, Ellbogen frei/frei, OCD-Schulter frei</p>
      <p>Prüfungen: ...</p>
    </div>
 </div>
@@ -107,7 +107,7 @@ permalink: /litters/a-progeny
      <p><strong>Greenfallow Asari</strong></p>
      <p>Rufname: Asari</p>
      <p>Arbeit: Dummysport</p>
-     <p>Gesundheit: ...</p>
+     <p>Gesundheit: Hüften A1/A1, Ellbogen frei/frei, OCD-Schulter frei</p>
      <p>Prüfungen: ...</p>
    </div>
 </div>

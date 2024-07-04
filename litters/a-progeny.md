@@ -89,7 +89,7 @@ permalink: /litters/a-progeny
      <p><strong>Greenfallow Amani</strong></p>
      <p>Rufname: Zuma</p>
      <p>Arbeit: Dummysport</p>
-     <p>Gesundheit: ...</p>
+     <p>Gesundheit: Hüften A2/A2, Ellbogen frei/frei, OCD-Schulter frei</p>
      <p>Prüfungen: ...</p>
    </div>
 </div>

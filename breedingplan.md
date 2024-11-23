@@ -13,7 +13,7 @@ Alle Hunde die wir aus dem Wurf gesehen haben, haben sich zu freundlichen und te
 Unser Plan für den Wurf scheint aufgegangen zu sein!
 </p> 
 
-<p>Sofern die Gesundheitsergebnisse des Wurfs in Ordnung sind, planen wir mit Reggae für <b>Anfang 2025</b> den B-Wurf.</p>
+<p>Da auch die Gesundheitsergebnisse des Wurfs sehr gut sind, planen wir Reggae <b>Anfang 2025</b> decken zu lassen und damit den B-Wurf auf den zu bringen. Die Welpen wären im Frühsommer abgabebereit.</p>
 
 <p>
 Wenn Sie Interesse an einem Hund aus unserer Zucht haben, können Sie sich gerne frühzeitig bei uns per eMail 

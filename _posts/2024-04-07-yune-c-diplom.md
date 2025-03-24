@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: Greenfallow Ashes - C Diplom  ...
 categories: reggae
 description: Heute hat Yune ...

@@ -11,6 +11,13 @@ show_excerpts: true
 title: greenfallow labradors
 minima:
   paginate: 3
-  paginate_path: "/_posts/page:num/"    
+  paginate_path: "/_posts/page:num/"
+  navigation:
+    - title: "Startseite"
+      url: "/"
+    - title: "Blog"
+      url: "/posts.html"
+    - title: "Über mich"
+      url: "/about.md"  
 plugins:
  - jekyll-paginate

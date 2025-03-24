@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: site.lang | default: "en" }}">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>{% if page.title %}{{ page.title | escape }} | {% endif %}{{ site.title | escape }}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="{{ "/assets/main.css" | relative_url }}">
+    <link rel="shortcut icon" href="{{ "/favicon.ico" | relative_url }}">
+  </head>
+  <body>
+    <header class="site-header" role="banner">
+      <div class="wrapper">
+        <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
+        
+        <!-- 👇 Deine feste Navigation -->
+        <nav class="site-nav">
+          <ul class="page-link">
+            <li><a class="page-link" href="{{ '/' | relative_url }}">Start</a></li>
+            <li><a class="page-link" href="{{ '/dogs/' | relative_url }}">Hunde</a></li>
+            <li><a class="page-link" href="{{ '/breedingplan/' | relative_url }}">Zuchtplan</a></li>
+            <li><a class="page-link" href="{{ '/litters/' | relative_url }}">Würfe</a></li>
+            <li><a class="page-link" href="{{ '/posts.html' | relative_url }}">Blog</a></li>
+            <li><a class="page-link" href="{{ '/about/' | relative_url }}">Über mich</a></li>
+          </ul>
+        </nav>
+      </div>
+    </header>
+
+    <main class="page-content" aria-label="Content">
+      <div class="wrapper">
+        {{ content }}
+      </div>
+    </main>
+
+    <footer class="site-footer">
+      <div class="wrapper">
+        <p>&copy; {{ site.time | date: "%Y" }} {{ site.title }}. Powered by <a href="https://jekyllrb.com">Jekyll</a>.</p>
+      </div>
+    </footer>
+  </body>
+</html>

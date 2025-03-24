@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Über uns
 description: Informationen über die Züchter
 permalink: /about/

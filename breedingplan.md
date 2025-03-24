@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Wurfplanung
 description: Informationen zu geplanten Würfen
 permalink: /breedingplan/

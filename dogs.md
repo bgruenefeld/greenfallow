@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Hunde
 description: Informationen zu unseren Hunden
 permalink: /dogs/

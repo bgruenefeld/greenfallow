@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Zucht
 description: Informationen zu unserer Zucht
 permalink: /breed/

@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Würfe
 description: Informationen zu geplanten Würfen
 permalink: /litters/

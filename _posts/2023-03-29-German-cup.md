@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: Die Verwandschaft beim DRC German Cup ...
 categories: reggae
 description: Während Reggae das (Lotter)Leben geniesst 

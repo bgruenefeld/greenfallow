@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: Der A Wurf ist da ...
 categories: reggae
 description: Am Abend des 25.04. ...

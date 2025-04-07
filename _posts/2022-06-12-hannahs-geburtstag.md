@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Work and More Hannah hat Geburtstag"
 categories: hannah
 ---

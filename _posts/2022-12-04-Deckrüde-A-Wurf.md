@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: Deckrüde des A-Wurfs gefunden!
 categories: reggae
 description: Die Wahl eines Deckrüden für unseren <a href="/litters">A-Wurf</a> war eine spannende aber auch aufwändige Sache.

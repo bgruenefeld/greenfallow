@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: Kleiner Workingtest, kleine Ungenauigkeit mit großer Wirkung!
 categories: reggae
 ---

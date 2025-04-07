@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: Technischer Defekt
 categories: reggae
 description: Ein technischer Defekt beim Kontaktformular

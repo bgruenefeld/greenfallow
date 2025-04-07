@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: Das lange warten hat ein Ende ...
 categories: reggae
 description: Reggae´s Ultraschalltermin ...

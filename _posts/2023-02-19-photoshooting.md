@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: Kleines Fotoshooting mit den beiden Grazien
 categories: reggae
 description: Kleines Fotoshooting mit den beiden Hübschen

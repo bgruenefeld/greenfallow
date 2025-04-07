@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: DRC Finale in Kevelaer!
 categories: reggae
 description: Voller Vorfreude sind wir zum Finale gefahren, um uns mit den besten WT Teams der Saison 2022 zu messen

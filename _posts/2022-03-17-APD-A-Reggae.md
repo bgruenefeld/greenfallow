@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: APD-A mit sehr gut bestanden
 categories: reggae
 ---

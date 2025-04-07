@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: Greenfallow Social Media News...
 categories: reggae
 description: News auf Social Media  ...

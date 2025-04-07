@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: "Placeboardseminar in Bremen"
 categories: reggae
 ---

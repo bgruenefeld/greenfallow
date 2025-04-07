@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: Reggae - vorzüglich und zweiter Platz in Wunstorf!
 categories: reggae
 description: Reggaes zweiter Working Test und wir waren gespannt wie es laufen wird. 

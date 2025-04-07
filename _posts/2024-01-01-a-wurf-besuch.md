@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: Junggemüse-Besuch  ...
 categories: reggae
 description: Vor einiger Zeit ...

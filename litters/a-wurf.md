@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: A Wurf
 permalink: /litters/a-wurf
 ---

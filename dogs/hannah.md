@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Work and More Hannah
 permalink: /dogs/hannah
 ---

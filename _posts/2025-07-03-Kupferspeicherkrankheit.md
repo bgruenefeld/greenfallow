@@ -10,7 +10,7 @@ Aus diesem Grund habe ich einen (KI generierten 🥰) Podcast erstellt, der den 
 
 <p>Wer noch mehr wissen möchte und dazu lesen möchte, den verweise ich gerne auf einen <a href="https://keienfenn.de/WP/kupferspeicherkrankheit/" target="_blank">Artikel</a> auf der Homepage von Leni Niehof-Oellers.
 </p>
-<p>Der Podcast umfasst nicht alle Details des Themenkomplexes (credits an Wiebke Gindler!), sondern liefert einen ersten Überblick. Weiter Details zur Vererbung etc. finden sich in der FAQ unten.</p>
+<p>Der Podcast umfasst nicht alle Details des Themenkomplexes (credits an Wiebke Gindler! 👍), sondern liefert einen ersten Überblick. Weiter Details zur Vererbung etc. finden sich in der FAQ unten.</p>
 <p>
     <audio controls preload="metadata" style="width:100%; max-width:700px;">
     <!-- Erst MP3, dann (optional) WAV als Fallback -->

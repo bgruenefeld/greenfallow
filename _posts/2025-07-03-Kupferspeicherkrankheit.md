@@ -8,6 +8,13 @@ description: Die Kupferspeicherkrankheit ist eine bei anderen Hunderassen schon 
 Die Kupferspeicherkrankheit ist eine bei anderen Hunderassen schon lange bekannte erbliche Erkrankung. Inzwischen ist auch bekannt, dass sie Labradore betreffen kann.
 Aus diesem Grund habe ich einen (KI generierten 🥰) Podcast erstellt, der den aktuellen Stand der Forschung zusammenfasst. 
 
+<div style="display:flex; align-items:flex-start; gap:0.6rem; margin-top:1.25rem; padding:0.9rem 1.1rem; border:1px solid #d1d5db; border-radius:0.5rem; background:#f9fafb;">
+  <span aria-hidden="true" style="font-size:1.4rem; line-height:1;">ℹ️</span>
+  <p style="margin:0;">
+    Der Podcast ist als Experiment zu sehen und ich würde mich über Feedback ( greenfallow@gmx.de ) freuen, um so
+    einschätzen zu können, ob diese Art der Wissensvermittlung für andere von Interesse ist.
+  </p>
+</div>
 <p>Wer noch mehr wissen möchte und dazu lesen möchte, den verweise ich gerne auf einen <a href="https://keienfenn.de/WP/kupferspeicherkrankheit/" target="_blank">Artikel</a> auf der Homepage von Leni Niehof-Oellers.
 </p>
 
@@ -17,6 +24,60 @@ Aus diesem Grund habe ich einen (KI generierten 🥰) Podcast erstellt, der den 
     <source src="{{ '/assets/audio/CanineCooperToxicosis.mp3' }}" type="audio/mpeg">
     Dein Browser unterstützt das <code>&lt;audio&gt;</code>-Element nicht.
     </audio>
+</p>
+<p>
+
+
+Genotyp-Risiko-Matrix für Kupferakkumulatoin bei Labrador Retrievern
+<!-- Podcast-Player (Beispiel) -->
+<audio controls preload="metadata">
+  <source src="{{ '/assets/audio/CanineCopperToxicosis.mp3' | relative_url }}" type="audio/mpeg">
+</audio>
+
+<!-- Kupferstoffwechsel-Genotyp-Tabelle -->
+<table style="width:100%; border-collapse:collapse; margin-top:1.5rem;">
+  <thead>
+    <tr style="background:#f3f4f6;">
+      <th style="padding:0.5rem; border:1px solid #d1d5db;">ATP7B</th>
+      <th style="padding:0.5rem; border:1px solid #d1d5db;">ATP7A</th>
+      <th style="padding:0.5rem; border:1px solid #d1d5db;">Risiko&nbsp;für&nbsp;Kupfer­­akkumulation</th>
+      <th style="padding:0.5rem; border:1px solid #d1d5db;">Bemerkung</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="padding:0.5rem; border:1px solid #d1d5db;">CT/CT</td>
+      <td style="padding:0.5rem; border:1px solid #d1d5db;">beliebig</td>
+      <td style="padding:0.5rem; border:1px solid #d1d5db;">Sehr&nbsp;hoch</td>
+      <td style="padding:0.5rem; border:1px solid #d1d5db;">Alle CT/CT&nbsp;Hunde in Studien erkrankten; ATP7A bietet nur minimalen Schutz.</td>
+    </tr>
+    <tr style="background:#f9fafb;">
+      <td style="padding:0.5rem; border:1px solid #d1d5db;">n/CT</td>
+      <td style="padding:0.5rem; border:1px solid #d1d5db;">Wildtyp</td>
+      <td style="padding:0.5rem; border:1px solid #d1d5db;">Erhöht</td>
+      <td style="padding:0.5rem; border:1px solid #d1d5db;">Kein ATP7A-Schutz vorhanden.</td>
+    </tr>
+    <tr>
+      <td style="padding:0.5rem; border:1px solid #d1d5db;">n/CT</td>
+      <td style="padding:0.5rem; border:1px solid #d1d5db;">Mutiert</td>
+      <td style="padding:0.5rem; border:1px solid #d1d5db;">Mäßig&nbsp;erhöht</td>
+      <td style="padding:0.5rem; border:1px solid #d1d5db;">ATP7A-Mutation reduziert Risiko leicht.</td>
+    </tr>
+    <tr style="background:#f9fafb;">
+      <td style="padding:0.5rem; border:1px solid #d1d5db;">n/n</td>
+      <td style="padding:0.5rem; border:1px solid #d1d5db;">Wildtyp</td>
+      <td style="padding:0.5rem; border:1px solid #d1d5db;">Gering</td>
+      <td style="padding:0.5rem; border:1px solid #d1d5db;">Niedrigstes Risiko, aber Erkrankung nicht ausgeschlossen.</td>
+    </tr>
+    <tr>
+      <td style="padding:0.5rem; border:1px solid #d1d5db;">n/n</td>
+      <td style="padding:0.5rem; border:1px solid #d1d5db;">Mutiert</td>
+      <td style="padding:0.5rem; border:1px solid #d1d5db;">Gering</td>
+      <td style="padding:0.5rem; border:1px solid #d1d5db;">Ohne ATP7B-Mutation kein schützender Effekt; bei sehr kupferarmer Ernährung theoretisch Kupfermangel-Risiko.</td>
+    </tr>
+  </tbody>
+</table>
+
 </p>
 
 

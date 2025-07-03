@@ -8,7 +8,8 @@ description: Die Kupferspeicherkrankheit ist eine bei anderen Hunderassen schon 
 Die Kupferspeicherkrankheit ist eine bei anderen Hunderassen schon lange bekannte erbliche Erkrankung. Inzwischen ist auch bekannt, dass sie Labradore betreffen kann.
 Aus diesem Grund habe einen Podcast erstellt, der den aktuellen Stand der Forschung zusammenfasst. 
 
-<p>Interessierte die weiteres dazu lesen möchten, verweise ich gerne auf einen Artikel auf der Homepage von Leni Niehof-Oellers <a href="https://keienfenn.de/WP/kupferspeicherkrankheit/" target="_blank">.</p>
+<p>Interessierte die weiteres dazu lesen möchten, verweise ich gerne auf einen <a href="https://keienfenn.de/WP/kupferspeicherkrankheit/" target="_blank">Artikel</a> auf der Homepage von Leni Niehof-Oellers.
+</p>
 
 <p>
     <audio controls preload="metadata" style="width:100%; max-width:700px;">

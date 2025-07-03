@@ -76,6 +76,100 @@ Aus diesem Grund habe ich einen (KI generierten 🥰) Podcast erstellt, der den 
 </table>
 <b>CT: Die Mutation ATP7B:p.Arg1453Gln</b>
 </p>
+<!-- =====  FAQ: Kupfer-assoziierte Hepatopathie (CAH) beim Labrador  ===== -->
+<!-- 1-zu-1 einfügen, Jekyll rendert es unverändert.                     -->
+<style>
+/* Minimaler Look-and-Feel – alles inline, keine externe CSS-Datei nötig */
+.faq-list      { margin-top:1.5rem; }
+.faq-list details{
+  border:1px solid #d1d5db; border-radius:0.55rem;
+  background:#f9fafb; padding:0.9rem 1.1rem; margin-bottom:0.9rem;
+}
+.faq-list details[open]{ background:#eef2f7; }
+.faq-list summary{ font-weight:600; cursor:pointer; outline:none; }
+.faq-list ul{ list-style:disc; margin:0.6rem 0 0 1.25rem; padding:0; }
+.faq-list li{ margin-bottom:0.4rem; }
+</style>
+
+<h2 style="margin-top:2rem;">FAQ zur Kupfer-assoziierten Hepatopathie (CAH) beim Labrador Retriever</h2>
+
+<div class="faq-list">
+
+  <details open>
+    <summary>1. Was ist Kupfer-assoziierte Hepatopathie (CAH) und warum ist sie für Labradore wichtig?</summary>
+    <p>Die CAH ist eine Lebererkrankung, bei der sich übermäßig Kupfer in der Leber
+       anreichert. Man kann sich die Leber als Filter vorstellen: sammelt sich zu viel
+       Kupfer an, „verstopft“ der Filter – es kommt zu chronischen Entzündungen,
+       Zelluntergang und letztlich zu schweren Leberschäden bis hin zum Tod.
+       Beim gesunden Hund liegen die Kupferwerte &lt; 400 mg/kg Trockengewicht; bei
+       erkrankten Labradoren wurden Werte bis 10 000 mg/kg gemessen – ein deutliches
+       Zeichen dafür, wie anfällig diese Rasse ist.</p>
+  </details>
+
+  <details>
+    <summary>2. Was bedeutet die Abkürzung „CT“ bei einem Gentest für meinen Labrador?</summary>
+    <p>„CT“ bezeichnet eine bestimmte Mutation (ATP7B:p.Arg1453Gln) im <em>ATP7B</em>-Gen,
+       das für den Kupferstoffwechsel essenziell ist.</p>
+    <ul>
+      <li><strong>n/n (Wildtyp):</strong> zwei normale Genkopien → geringes Risiko,
+          aber CAH ist nicht ausgeschlossen.</li>
+      <li><strong>n/CT (heterozygot):</strong> eine normale und eine mutierte Kopie →
+          erhöhtes Risiko.</li>
+      <li><strong>CT/CT (homozygot):</strong> zwei mutierte Kopien → sehr hohes
+          Risiko; Studien zeigen fast immer pathologische Kupferansammlungen.</li>
+    </ul>
+  </details>
+
+  <details>
+    <summary>3. Welche Gene sind an der CAH beteiligt und wie wirken sie sich aus?</summary>
+    <ul>
+      <li><strong>ATP7B – Haupt-Risikofaktor:</strong> Variante wirkt additiv; mehr
+          Kopien → höheres Risiko. Doch fast die Hälfte der erkrankten Hunde trägt
+          die Variante gar nicht.</li>
+      <li><strong>ATP7A – möglicher Abschwächer:</strong> X-chromosomal; Effekt gilt
+          als sehr gering.</li>
+      <li><strong>RETN – unklare Rolle:</strong> widersprüchliche Studienergebnisse.</li>
+      <li><strong>Gesamtbild:</strong> Bekannte Varianten erklären nur ≈ 12 % der
+          erblichen Veranlagung → es müssen weitere, noch unbekannte Gene beteiligt
+          sein.</li>
+    </ul>
+  </details>
+
+  <details>
+    <summary>4. Welche Rolle spielt die Ernährung?</summary>
+    <p>Ernährung hat großen Einfluss: Hohe Kupferaufnahme (Futter, Wasser) fördert
+       die Erkrankung. Kupferarmes, zinkreiches Futter kann die Darmaufnahme
+       hemmen – oft normalisieren sich damit die Leberkupferwerte.</p>
+  </details>
+
+  <details>
+    <summary>5. Wie wird CAH diagnostiziert? Reicht ein Gentest aus?</summary>
+    <p>Nein. Der Gentest zeigt nur das <em>Risiko</em>. Einzige sichere Diagnose ist
+       die histologische Untersuchung einer Leberbiopsie. Blut-Leberwerte können
+       unterstützen, sind aber nicht beweisend.</p>
+  </details>
+
+  <details>
+    <summary>6. Was sollte ich als Züchter beachten?</summary>
+    <ul>
+      <li><strong>Gentests nutzen:</strong> ATP7B &amp; ATP7A vor Zuchteinsatz
+          testen.</li>
+      <li><strong>Risikoverpaarungen meiden:</strong> keine Paarung zweier
+          n/CT- oder CT/CT-Tiere.</li>
+      <li><strong>Umgang mit Trägern:</strong>
+        <ul>
+          <li><em>CT/CT (reinerbig):</em> sehr hohes Risiko; besonders bei Hündinnen
+              Paarung gut abwägen.</li>
+          <li><em>n/CT (mischerbig):</em> nur mit ATP7B-freien Partnern (n/n)
+              verpaaren.</li>
+        </ul>
+      </li>     
+    </ul>
+  </details>
+
+
+</div>
+<!-- =====  Ende FAQ  ===== -->
 
 
 

@@ -8,13 +8,6 @@ description: Die Kupferspeicherkrankheit ist eine bei anderen Hunderassen schon 
 Die Kupferspeicherkrankheit ist eine bei anderen Hunderassen schon lange bekannte erbliche Erkrankung. Inzwischen ist auch bekannt, dass sie Labradore betreffen kann.
 Aus diesem Grund habe ich einen (KI generierten 🥰) Podcast erstellt, der den aktuellen Stand der Forschung zusammenfasst. 
 
-<div style="display:flex; align-items:flex-start; gap:0.6rem; margin-top:1.25rem; padding:0.9rem 1.1rem; border:1px solid #d1d5db; border-radius:0.5rem; background:#f9fafb;">
-  <span aria-hidden="true" style="font-size:1.4rem; line-height:1;">ℹ️</span>
-  <p style="margin:0;">
-    Der Podcast ist als Experiment zu sehen und ich würde mich über Feedback ( greenfallow@gmx.de ) freuen, um so
-    einschätzen zu können, ob diese Art der Wissensvermittlung für andere von Interesse ist.
-  </p>
-</div>
 <p>Wer noch mehr wissen möchte und dazu lesen möchte, den verweise ich gerne auf einen <a href="https://keienfenn.de/WP/kupferspeicherkrankheit/" target="_blank">Artikel</a> auf der Homepage von Leni Niehof-Oellers.
 </p>
 
@@ -25,14 +18,18 @@ Aus diesem Grund habe ich einen (KI generierten 🥰) Podcast erstellt, der den 
     Dein Browser unterstützt das <code>&lt;audio&gt;</code>-Element nicht.
     </audio>
 </p>
+
+<div style="display:flex; align-items:flex-start; gap:0.6rem; margin-top:1.25rem; padding:0.9rem 1.1rem; border:1px solid #d1d5db; border-radius:0.5rem; background:#f9fafb;">
+  <span aria-hidden="true" style="font-size:1.4rem; line-height:1;">ℹ️</span>
+  <p style="margin:0;">
+    Der Podcast ist als Experiment zu sehen und ich würde mich über Feedback ( greenfallow@gmx.de ) freuen, um so
+    einschätzen zu können, ob diese Art der Wissensvermittlung für andere von Interesse ist.
+  </p>
+</div>
+
 <p>
 
-
-Genotyp-Risiko-Matrix für Kupferakkumulatoin bei Labrador Retrievern
-<!-- Podcast-Player (Beispiel) -->
-<audio controls preload="metadata">
-  <source src="{{ '/assets/audio/CanineCopperToxicosis.mp3' | relative_url }}" type="audio/mpeg">
-</audio>
+<h3>Genotyp-Risiko-Matrix für Kupferakkumulatoin bei Labrador Retrievern</h3>
 
 <!-- Kupferstoffwechsel-Genotyp-Tabelle -->
 <table style="width:100%; border-collapse:collapse; margin-top:1.5rem;">
@@ -77,7 +74,7 @@ Genotyp-Risiko-Matrix für Kupferakkumulatoin bei Labrador Retrievern
     </tr>
   </tbody>
 </table>
-
+<b>CT: Die Mutation ATP7B:p.Arg1453Gln</b>
 </p>
 
 

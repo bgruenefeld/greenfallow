@@ -102,8 +102,7 @@ Aus diesem Grund habe ich einen (KI generierten 🥰) Podcast erstellt, der den 
        Kupfer an, „verstopft“ der Filter – es kommt zu chronischen Entzündungen,
        Zelluntergang und letztlich zu schweren Leberschäden bis hin zum Tod.
        Beim gesunden Hund liegen die Kupferwerte &lt; 400 mg/kg Trockengewicht; bei
-       erkrankten Labradoren wurden Werte bis 10 000 mg/kg gemessen – ein deutliches
-       Zeichen dafür, wie anfällig diese Rasse ist.</p>
+       erkrankten Labradoren wurden Werte bis 10 000 mg/kg gemessen.</p>
   </details>
 
   <details>
@@ -138,7 +137,7 @@ Aus diesem Grund habe ich einen (KI generierten 🥰) Podcast erstellt, der den 
   <details>
     <summary>4. Welche Rolle spielt die Ernährung?</summary>
     <p>Ernährung hat großen Einfluss: Hohe Kupferaufnahme (Futter, Wasser) fördert
-       die Erkrankung. Kupferarmes, zinkreiches Futter kann die Darmaufnahme
+       die Erkrankung. Kupferarmes, zinkreiches Futter kann die Darmaufnahme von Kupfer
        hemmen – oft normalisieren sich damit die Leberkupferwerte.</p>
   </details>
 

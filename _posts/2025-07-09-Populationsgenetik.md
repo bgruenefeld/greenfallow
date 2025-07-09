@@ -8,7 +8,9 @@ description: Populationsgenetik und Zuchtstrategien für Rassehunde ...
 Populationsgenetik und Zuchtstrategien für Rassehunde. 
 
 <p>In kürze wird ein weitere Podcast zu diesem spannenden und wichtigen Thema geben. Zielgruppe sind Personen ohne tiefere Kenntnisse in Genetik.</p>
-
+<p>
+Vorab aber schon mal eine FAQ zum Thema. 
+</p>
 
 <!-- 1-zu-1 einfügen, Jekyll rendert es unverändert.                     -->
 <style>
@@ -24,7 +26,7 @@ Populationsgenetik und Zuchtstrategien für Rassehunde.
 .faq-list li{ margin-bottom:0.4rem; }
 </style>
 
-<h2 style="margin-top:2rem;">FAQ zur Kupfer-assoziierten Hepatopathie (CAH) beim Labrador Retriever</h2>
+<h2 style="margin-top:2rem;">FAQ zu den Themen Populationsgenetik und Zuchtstrategien für Rassehunde. </h2>
 
 <div class="faq-list">
 

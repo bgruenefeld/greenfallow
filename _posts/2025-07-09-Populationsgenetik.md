@@ -5,12 +5,19 @@ categories: health
 description: Populationsgenetik und Zuchtstrategien für Rassehunde ...
 ---
 
-Populationsgenetik und Zuchtstrategien für Rassehunde. 
-
-<p>In kürze wird ein weitere Podcast zu diesem spannenden und wichtigen Thema geben. Zielgruppe sind Personen ohne tiefere Kenntnisse in Genetik.</p>
+Populationsgenetik und Zuchtstrategien für Rassehunde (Einsteigerlevel). 
 <p>
-Vorab aber schon mal eine FAQ zum Thema. 
+  Dieser Podcast richtet sich an Züchter die erste Infos zum Thema möchten. 
+  Fragen, Ideen oder allgemeines Feedback wie immer gerne an greenfallow@gmx.de.
 </p>
+<p>
+    <audio controls preload="metadata" style="width:100%; max-width:700px;">
+    <!-- Erst MP3, dann (optional) WAV als Fallback -->
+    <source src="{{ '/assets/audio/Populationsgenetik-einsteiger.mp3' }}" type="audio/mpeg">
+    Dein Browser unterstützt das <code>&lt;audio&gt;</code>-Element nicht.
+    </audio>
+</p>
+
 
 <!-- 1-zu-1 einfügen, Jekyll rendert es unverändert.                     -->
 <style>

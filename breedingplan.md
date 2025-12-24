@@ -11,7 +11,7 @@ Alle Hunde die wir aus dem Wurf gesehen haben, haben sich zu freundlichen und te
 Unser Plan für den Wurf scheint aufgegangen zu sein!
 </p> 
 
-<p>Da die Gesundheitsergebnisse des Wurfs sehr gut sind, planen wir Reggae <b>im Herbst 2025</b> decken zu lassen und damit den nächsten Wurf auf den Weg zu bringen.</p>
+<p>Da die Gesundheitsergebnisse des Wurfs sehr gut sind, planen wir Reggae <b>im Winter 2025</b> decken zu lassen und damit den nächsten Wurf auf den Weg zu bringen.</p>
 
 <p>
 Wenn Sie Interesse an einem Hund aus unserer Zucht haben, können Sie sich gerne frühzeitig bei uns per eMail 

@@ -54,7 +54,7 @@ permalink: /litters/a-progeny
      <p>Rufname: Paddy</p>
      <p>Arbeit: Jagd & Dummysport</p>
      <p>Gesundheit: Hüften A1/A1, Ellbogen frei/frei, OCD-Schulter frei</p>
-     <p>Prüfungen: ...</p>
+     <p>Prüfungen: APD-A: vorzüglich, 2. Platz</p>
    </div>
 </div>
 <hr>
@@ -73,7 +73,7 @@ permalink: /litters/a-progeny
      <p>Rufname: Amy</p>
      <p>Arbeit: Dummysport</p>
      <p>Gesundheit: Hüften A2/A2, Ellbogen frei/frei, OCD-Schulter frei</p>
-     <p>Prüfungen: ...</p>
+     <p>Prüfungen: Suchensieger, Dummy-E GRC</p>
    </div>
 </div>
 <hr>
@@ -108,7 +108,7 @@ permalink: /litters/a-progeny
      <p>Rufname: Asari</p>
      <p>Arbeit: Dummysport</p>
      <p>Gesundheit: Hüften A1/A1, Ellbogen frei/frei, OCD-Schulter frei</p>
-     <p>Prüfungen: ...</p>
+     <p>Prüfungen: BHP (DRC) tagesbester Hund, APD-A, div. WT-A, Newcomer Trophy, 1. Platz WT-A Krämerwald und zweifacher Judges Choice </p>
    </div>
 </div>
 <hr>

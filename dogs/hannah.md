@@ -12,7 +12,8 @@ DOD|22.07.2025
 Züchter|  <a href="http://www.workandmore.de" target="_blank">Dietmar Romeike (Work and More) </a>
 Arbeitsergebnisse (Auszug)| Arbeitsergebnisse (Auszug): APD-A 2. Platz (sehr gut), diverse F Workingtests
 Gesundheit|HD A1/A1, ED 0/0, prcd-PRA/EIC/SD2: über Erbgang frei
-Details| <a href="https://drc.de/adr/listen/show_druede.php?what=Hunde&rvid=100234&race=Labrador-Retriever" target="_blank">DRC</a> / <a href="https://db.drc.de/adr/ahnen/ahnen1.php?zbnr=1217258&race=Labrador-Retriever" target="_blank">DRC AT</a> 
+
+Details| <a href="https://drc.de/hidden/hunde-details?what=Hunde&rvid=100234&race=Labrador-Retriever" target="_blank">DRC</a> / <a href="https://db.drc.de/adr/ahnen/ahnen1.php?zbnr=1217258&race=Labrador-Retriever" target="_blank">DRC AT</a> 
 
 {% include image-gallery.html folder="/assets/hannah-gallery" %}
 

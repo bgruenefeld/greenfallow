@@ -1,39 +1,14 @@
 <footer class="site-footer h-card">
   <div class="wrapper">
-
-    <div class="footer-col-wrapper">
-      <!--div class="footer-col">
-      {%- if site.author %}
-        <ul class="contact-list">
-          {% if site.author.name -%}
-            <li class="p-name">{{ site.author.name | escape }}</li>
-          {% endif -%}
-          {% if site.author.email -%}
-            <li><a class="u-email" href="mailto:{{ site.author.email }}">{{ site.author.email }}</a></li>
-          {%- endif %}
-        </ul>
-      {%- endif %}
-      </div-->
-      <div class="footer-col" style="font-size: 1.5rem;">
-      {%- include social.html -%}
-      </div>
-      <div class="footer-col">
-        <!-- p>{{ site.description | escape }}</p -->
-        
-        <p xmlns:cc="http://creativecommons.org/ns#" xmlns:dct="http://purl.org/dc/terms/">
-          <a class="page-link" href="/impressum.html">Impressum</a>
-          <a class="page-link" href="/dsgvo.html" title="Datenschutzerklärung">Datenschutz</a>
-          
-        </p>
-        
-      </div>
-      <div class="footer-col">
-      <a class="page-link" href="#top"> <span style='font-size:20px;    position: absolute;
-    right: 1%;'> &#8679;Top</span> </a>
+    <div class="site-footer__inner">
+      <p>&copy; {{ site.time | date: "%Y" }} {{ site.title }}</p>
+      <div class="site-footer__links">
+        {%- include social.html -%}
+        <a class="page-link" href="{{ "/impressum.html" | relative_url }}">Impressum</a>
+        <a class="page-link" href="{{ "/dsgvo.html" | relative_url }}" title="Datenschutzerklärung">Datenschutz</a>
       </div>
     </div>
-
   </div>
-<script type="text/javascript" src="/js/lightbox.js"></script>
-<link rel="stylesheet" href="/css/lightbox.css">
+  <script type="text/javascript" src="{{ "/js/lightbox.js" | relative_url }}"></script>
+  <link rel="stylesheet" href="{{ "/css/lightbox.css" | relative_url }}">
 </footer>

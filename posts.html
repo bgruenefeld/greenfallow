@@ -2,17 +2,24 @@
 layout: default
 title: Neuigkeiten
 ---
-  
- 
-  {% for post in site.posts %}
-      
-      <div style="margin:40px">
-        <span class="post-meta">{{ post.date | date: "%d. %b. %Y" }}</span>
-        <div style="font-weight: 700;font-size: x-large;color: grey;">{{ post.title }}</div>
-        <div>{{post.description}}  ... </div>
-        <div><a href="{{ post.url }}"> ... weiter lesen</a></div>
-        
-        
-      </div>
-  {% endfor %}
 
+<section class="posts-page">
+  <header class="posts-page__header">
+    <p class="eyebrow">Neuigkeiten</p>
+    <h1>Aus Zucht, Arbeit und Gesundheit</h1>
+    <p>Aktuelle Beiträge, Prüfungsergebnisse und Wissenswertes rund um unsere Hunde.</p>
+  </header>
+
+  <div class="post-list">
+    {% for post in site.posts %}
+      <article class="post-card">
+        <p class="post-card__date">{{ post.date | date: "%d.%m.%Y" }}</p>
+        <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+        {% if post.description %}
+          <p>{{ post.description }}</p>
+        {% endif %}
+        <a class="text-link" href="{{ post.url | relative_url }}">Weiter lesen</a>
+      </article>
+    {% endfor %}
+  </div>
+</section>

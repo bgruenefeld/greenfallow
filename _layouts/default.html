@@ -34,7 +34,23 @@
 
     <main class="page-content" aria-label="Content">
       <div class="wrapper">
-        {{ content }}
+        {% if page.collection == "posts" %}
+          <article class="post-page">
+            <a class="post-back-link" href="{{ "/posts.html" | relative_url }}">Zurück zu den Neuigkeiten</a>
+            <header class="post-header">
+              <p class="post-meta">{{ page.date | date: "%d.%m.%Y" }}</p>
+              <h1>{{ page.title | escape }}</h1>
+              {% if page.description %}
+                <p class="post-description">{{ page.description }}</p>
+              {% endif %}
+            </header>
+            <div class="post-content">
+              {{ content }}
+            </div>
+          </article>
+        {% else %}
+          {{ content }}
+        {% endif %}
       </div>
     </main>
 

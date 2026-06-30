@@ -1,152 +1,33 @@
 ---
 layout: default
-title: A Wurf Nachkommen
+title: A-Wurf Nachkommen
 permalink: /litters/a-progeny
 ---
 
-<p>Die Akteure gruppiert nach Geschlecht, in der Reihenfolge ihres auftretens ... 😉 </p>
-<h3>Rüden:</h3>
-<div style="display: flex;">
- 
-  <div style="margin-right: 10px;flex: 0.25;">
-     <img src="/litters/week7/ruede-blau.jpeg" width="150">
-  </div>
-   <div style="margin-right: 10px;flex: 0.25;">
-     <img src="/litters/fotos-a-wurf/nine-months/ash-5.jpeg" width="150" title="8 Monate">
-  </div>
-  <div style="margin-right: 10px;flex: 0.5;"> 
-     <p><strong>Greenfallow Ayk</strong></p>
-     <p>Rufname: Chester</p>
-     <p>Arbeit: Jagd</p>
-     <p>Gesundheit: Hüften A2/A2, Ellbogen frei/frei, OCD-Schulter frei</p>
-     <p>Prüfungen: ...</p>
-   </div>
-</div>
-<hr>
-<div style="display: flex;">
- 
-  <div style="margin-right: 10px;flex: 0.25;">
-     <img src="/litters/week7/ruede_weiss.jpeg" width="150">
-  </div>
-  
-  <div style="margin-right: 10px;flex: 0.25;">
-     <img src="/litters/fotos-a-wurf/nine-months/allegro-1.jpeg" width="150" title="8 Monate">
-  </div>
-  <div style="margin-right: 10px;flex: 0.5;"> 
-     <p><strong>Greenfallow Allegro</strong></p>
-     <p>Rufname: Allegro</p>
-     <p>Arbeit: Dummysport</p>
-     <p>Gesundheit: Hüften A1/A1, Ellbogen frei/frei, OCD-Schulter frei</p>
-     <p>Prüfungen: ...</p>
-   </div>
-</div>
-<hr>
-<div style="display: flex;">
- 
-  <div style="margin-right: 10px;flex: 0.25;">
-     <img src="/litters/week7/ruede-gruen.jpeg" width="150">
-  </div>
-  <div style="margin-right: 10px;flex: 0.25;">
-     <img src="/litters/fotos-a-wurf/nine-months/andante-3.jpeg" width="150" title="8 Monate">
-  </div>
-  <div style="margin-right: 10px;flex: 0.5;"> 
-     <p><strong>Greenfallow Andante</strong></p>
-     <p>Rufname: Paddy</p>
-     <p>Arbeit: Jagd & Dummysport</p>
-     <p>Gesundheit: Hüften A1/A1, Ellbogen frei/frei, OCD-Schulter frei</p>
-     <p>Prüfungen: APD-A: vorzüglich, 2. Platz</p>
-   </div>
-</div>
-<hr>
-<h3>Hündinnen:</h3>
-<div style="display: flex;">
- 
-  <div style="margin-right: 10px;flex: 0.25;">
-     <img src="/litters/week7/gelb.jpeg" width="150">
-  </div>
-  <div style="margin-right: 10px;flex: 0.25;">
-     <img src="/litters/fotos-a-wurf/nine-months/aimee.jpeg" width="150" title="8 Monate">
-  </div>
-  
-  <div style="margin-right: 10px;flex: 0.5;"> 
-     <p><strong>Greenfallow Aimée</strong></p>
-     <p>Rufname: Amy</p>
-     <p>Arbeit: Dummysport</p>
-     <p>Gesundheit: Hüften A2/A2, Ellbogen frei/frei, OCD-Schulter frei</p>
-     <p>Prüfungen: Suchensieger, Dummy-E GRC</p>
-   </div>
-</div>
-<hr>
-<div style="display: flex;">
- 
-  <div style="margin-right: 10px;flex: 0.25;">
-     <img src="/litters/week7/rot.jpeg" width="150">
-  </div>
-  <div style="margin-right: 10px;flex: 0.25;">
-     <img src="/litters/fotos-a-wurf/nine-months/amani.jpeg" width="150" title="8 Monate">
-  </div>
-    <div style="margin-right: 10px;flex: 0.5;"> 
-     <p><strong>Greenfallow Amani</strong></p>
-     <p>Rufname: Zuma</p>
-     <p>Arbeit: Dummysport</p>
-     <p>Gesundheit: Hüften A2/A2, Ellbogen frei/frei, OCD-Schulter frei</p>
-     <p>Prüfungen: BHP (DRC)</p>
-   </div>
-</div>
-<hr>
-<div style="display: flex;">
- 
-  <div style="margin-right: 10px;flex: 0.25;">
-     <img src="/litters/week7/orange.jpeg" width="150">
-  </div>
-  
-  <div style="margin-right: 10px;flex: 0.25;">
-     <img src="/litters/fotos-a-wurf/nine-months/asari-1.jpeg" width="150" title="8 Monate">
-  </div>
-    <div style="margin-right: 10px;flex: 0.5;"> 
-     <p><strong>Greenfallow Asari</strong></p>
-     <p>Rufname: Asari</p>
-     <p>Arbeit: Dummysport</p>
-     <p>Gesundheit: Hüften A1/A1, Ellbogen frei/frei, OCD-Schulter frei</p>
-     <p>Prüfungen: BHP (DRC) tagesbester Hund, APD-A, div. WT-A, Newcomer Trophy, 1. Platz WT-A Krämerwald und zweifacher Judges Choice </p>
-   </div>
-</div>
-<hr>
-<div style="display: flex;">
- 
-  <div style="margin-right: 10px;flex: 0.25;">
-     <img src="/litters/week7/lila.jpeg" width="150">
-  </div>
-  <div style="margin-right: 10px;flex: 0.25;">
-     <img src="/litters/fotos-a-wurf/nine-months/ashes-3.jpeg" width="150" title="8 Monate">
-  </div>
-  
-  <div style="margin-right: 10px;flex: 0.5;"> 
-     <p><strong>Greenfallow Ashes</strong></p>
-     <p>Rufname: Yune</p>
-     <p>Arbeit: Dummysport & Jagd</p>
-     <p>Gesundheit: Hüften A/A, Ellbogen 0/0, Augen frei (04.2024)</p>
-     <p>Prüfungen: C-Diplom (Niederlande), 42/50 Pkt.</p>
-   </div>
-</div>
-<hr>
-<div style="display: flex;">
- 
-  <div style="margin-right: 10px;flex: 0.25;">
-     <img src="/litters/week7/rosa.jpeg" width="150">
-  </div>
-  
-  <div style="margin-right: 10px;flex: 0.25;">
-     <img src="/litters/fotos-a-wurf/nine-months/amina.jpeg" width="150" title="8 Monate">
-  </div>
-    <div style="margin-right: 10px;flex: 0.5;"> 
-     <p><strong>Greenfallow Amina</strong></p>
-     <p>Rufname: Minna</p>
-     <p>Arbeit: Dummysport</p>
-     <p>Gesundheit: ...</p>
-     <p>Prüfungen: ...</p>
-   </div>
-</div>
+<section class="content-page">
+  <header class="content-hero">
+    <div>
+      <p class="eyebrow">Nachzucht</p>
+      <h1>Der A-Wurf</h1>
+      <p>Die Hunde aus unserem A-Wurf, gruppiert nach Geschlecht und mit ersten Informationen zu Arbeit, Gesundheit und Prüfungen.</p>
+    </div>
+    <img src="{{ "/litters/fotos-a-wurf/nine-months/asari-1.jpeg" | relative_url }}" alt="Greenfallow A-Wurf">
+  </header>
 
+  <h2>Rüden</h2>
+  <div class="progeny-grid">
+    <article class="progeny-card"><img src="{{ "/litters/fotos-a-wurf/nine-months/ash-5.jpeg" | relative_url }}" alt="Greenfallow Ayk"><div><h3>Greenfallow Ayk</h3><p>Rufname: Chester</p><p>Arbeit: Jagd</p><p>Gesundheit: Hüften A2/A2, Ellbogen frei/frei, OCD-Schulter frei</p></div></article>
+    <article class="progeny-card"><img src="{{ "/litters/fotos-a-wurf/nine-months/allegro-1.jpeg" | relative_url }}" alt="Greenfallow Allegro"><div><h3>Greenfallow Allegro</h3><p>Rufname: Allegro</p><p>Arbeit: Dummysport</p><p>Gesundheit: Hüften A1/A1, Ellbogen frei/frei, OCD-Schulter frei</p>
+    <p>Prüfungen: APD-A sehr gut</p></div></article>
+    <article class="progeny-card"><img src="{{ "/litters/fotos-a-wurf/nine-months/andante-3.jpeg" | relative_url }}" alt="Greenfallow Andante"><div><h3>Greenfallow Andante</h3><p>Rufname: Paddy</p><p>Arbeit: Jagd & Dummysport</p><p>Prüfungen: APD-A vorzüglich, 2. Platz</p></div></article>
+  </div>
 
-
+  <h2>Hündinnen</h2>
+  <div class="progeny-grid">
+    <article class="progeny-card"><img src="{{ "/litters/fotos-a-wurf/nine-months/aimee.jpeg" | relative_url }}" alt="Greenfallow Aimée"><div><h3>Greenfallow Aimée</h3><p>Rufname: Amy</p><p>Arbeit: Dummysport</p><p>Prüfungen: Suchensieger, Dummy-E GRC</p></div></article>
+    <article class="progeny-card"><img src="{{ "/litters/fotos-a-wurf/nine-months/amani.jpeg" | relative_url }}" alt="Greenfallow Amani"><div><h3>Greenfallow Amani</h3><p>Rufname: Zuma</p><p>Arbeit: Dummysport</p><p>Prüfungen: BHP (DRC)</p></div></article>
+    <article class="progeny-card"><img src="{{ "/litters/fotos-a-wurf/nine-months/asari-1.jpeg" | relative_url }}" alt="Greenfallow Asari"><div><h3>Greenfallow Asari</h3><p>Rufname: Asari</p><p>Arbeit: Dummysport</p><p>Prüfungen: BHP, APD-A, Workingtests, Newcomer Trophy, WT-A Krämerwald 1. Platz und zweifacher Judges Choice</p></div></article>
+    <article class="progeny-card"><img src="{{ "/litters/fotos-a-wurf/nine-months/ashes-3.jpeg" | relative_url }}" alt="Greenfallow Ashes"><div><h3>Greenfallow Ashes</h3><p>Rufname: Yune</p><p>Arbeit: Dummysport & Jagd</p><p>Prüfungen: C-Diplom (NL), 42/50 Punkte</p></div></article>
+    <article class="progeny-card"><img src="{{ "/litters/fotos-a-wurf/nine-months/amina.jpeg" | relative_url }}" alt="Greenfallow Amina"><div><h3>Greenfallow Amina</h3><p>Rufname: Minna</p><p>Arbeit: Dummysport</p></div></article>
+  </div>
+</section>

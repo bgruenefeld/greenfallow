@@ -5,12 +5,56 @@ description: Informationen über die Züchter
 permalink: /about/
 ---
 
-Hunde gab es bereits seit Kindesbeinen in unseren Familien und seit inzwischen 15 Jahren bereichern Labradors unser Leben.
+<section class="content-page">
+  <header class="content-hero">
+    <div>
+      <p class="eyebrow">Über uns</p>
+      <h1>Hunde, Arbeit und Familienalltag</h1>
+      <p>
+        Hunde begleiten unsere Familien seit Kindesbeinen. Seit vielen Jahren bereichern Labrador Retriever unser Leben
+        und haben aus einem Hobby einen festen Teil unseres Alltags gemacht.
+      </p>
+    </div>
+    <img src="{{ "/assets/photoshooting/both-backs.jpeg" | relative_url }}" alt="Greenfallow Labradors">
+  </header>
 
-Zuerst zog ein Labrador-rüde (Runi) als reiner Familienhund ein. Runi war ein äußerst liebenswerter Labrador. Er hatte eine phantastische Nase und gute jagdliche Anlagen allerdings nur ein mäßiges Nervenkostüm. Dies erforderte sich intensiver mit dem Thema Hund zu beschäftigen und so entstand schnell ein schönes Hobby, dass den Kopf wunderbar frei-bläst und einen tollen Ausgleich zum ansonsten kopflastigem Berufsleben bietet.
+  <div class="content-stack">
+    <section class="info-card">
+      <h2>Wie alles begann</h2>
+      <p>
+        Zuerst zog ein Labrador-Rüde als reiner Familienhund ein. Runi war ein äußerst liebenswerter Labrador mit
+        phantastischer Nase und guten jagdlichen Anlagen. Er brachte uns dazu, uns intensiver mit Ausbildung,
+        Arbeitsanlagen und Retrieverarbeit zu beschäftigen.
+      </p>
+      <p>
+        Daraus entstand ein schönes Hobby, das den Kopf frei macht und einen wunderbaren Ausgleich zum Berufsleben
+        bietet.
+      </p>
+    </section>
 
-Im Laufe der Jahre kamen zwei weitere Hündinnen aus reinen Arbeitslinien hinzu, die erfolgreich auf Arbeitsprüfgen geführt werden.
+    <section class="info-card">
+      <h2>Unsere Hunde</h2>
+      <p>
+        Im Laufe der Jahre kamen Hündinnen aus reinen Arbeitslinien hinzu, die erfolgreich auf Arbeitsprüfungen geführt
+        wurden und werden. Gerade weil sie über Generationen auf labradortypische Arbeitseigenschaften selektiert
+        wurden, meistern sie ihren Nebenjob als Familienhund hervorragend.
+      </p>
+      <p>
+        Sie sind im Alltag gerne überall dabei und aufgrund ihres Wesens und ihrer Anpassungsfähigkeit angenehme
+        Begleiter.
+      </p>
+    </section>
 
-Auch bzw. gerade weil unsere Hunde aus Arbeitslinienzuchten stammen und über viele Generationen auf labradortypischen Arbeitseigenschaften selektiert wurden, können sie ihren (Neben-) Job als ganz normaler Familienhund hervorragend meistern. Sie sind eigentlich überall mit dabei und aufgrund ihres angenehmen Wesens und ihrer Anpassungsfähigkeit gute Begleiter.
-
-Der Gedanke an die Zucht kam als wir merkten das wir mit Work and More Hannah eine sehr talentierte Hündin haben. Leider musste Hannah aufgrund einer akuten Gebärmutterentzündung kastriert werden, so dass sich die Zuchtpläne erst mal zerschlugen. Nach einiger Suche, zog mit Reggae eine hoch talentierte Hündin ein, die aus der leistungsstarken und gesunden Zuchtlinie vom Keien Fenn stammt. Mir war dabei unter anderem wichtig, dass sie aus einer etablierten Zuchtlinie stammt. Das kann man beim Zwinger vom Keien Fenn wohl sagen: der erste Wurf fiel dort 1972, man verfügt somit über 50 Jahre Erfahrung in der Zucht von Labrador Retrievern. Mit Reggae wollen wir unseren ersten Wurf machen.
+    <section class="info-card">
+      <h2>Zuchtgedanke</h2>
+      <p>
+        Der Gedanke an die Zucht kam mit Work and More Hannah, einer sehr talentierten Hündin. Leider musste Hannah
+        aufgrund einer akuten Gebärmutterentzündung kastriert werden.
+      </p>
+      <p>
+        Nach einiger Suche zog Reggae ein, eine hoch talentierte Hündin aus der leistungsstarken und gesunden Linie vom
+        Keien Fenn. Mit ihr begann unsere Zucht.
+      </p>
+    </section>
+  </div>
+</section>

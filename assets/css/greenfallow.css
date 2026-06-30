@@ -754,6 +754,22 @@ a {
   box-shadow: var(--gf-shadow);
 }
 
+.content-hero__image {
+  margin: 0;
+}
+
+.content-hero__image img {
+  display: block;
+}
+
+.content-hero__image figcaption {
+  margin-top: 10px;
+  color: var(--gf-muted);
+  font-size: 0.95rem;
+  font-weight: 700;
+  text-align: center;
+}
+
 .content-stack {
   display: grid;
   gap: 18px;

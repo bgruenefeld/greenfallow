@@ -2,6 +2,7 @@
 layout: default
 title: Kupferspeicherkrankheit  ...
 categories: health
+topic: Gesundheit
 description: Die Kupferspeicherkrankheit ist eine bei anderen Hunderassen schon lange bekannte erbliche Erkrankung ...
 ---
 
@@ -169,7 +170,6 @@ Aus diesem Grund habe ich einen (KI generierten 🥰) Podcast erstellt, der den 
 
 </div>
 <!-- =====  Ende FAQ  ===== -->
-
 
 
 

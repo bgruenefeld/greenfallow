@@ -2,6 +2,7 @@
 layout: default
 title: Junggemüse-Besuch  ...
 categories: reggae
+topic: Würfe und Nachzucht
 description: Vor einiger Zeit ...
 ---
 
@@ -21,5 +22,4 @@ Ein großes Dankeschön an die Besitzer fürs vorbeikommen und das Engagement f�
 
 <img src="/assets/reggae-gallery/reggae-asari.png" title="Reggae mit Asari" width="500">
 <p style="font-style: italic;">Reggae vom Keien Fenn mit Tochter Greenfallow Asari</p>
-
 

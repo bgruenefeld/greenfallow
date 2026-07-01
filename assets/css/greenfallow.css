@@ -126,6 +126,18 @@ a {
   color: var(--gf-leaf-dark);
 }
 
+.site-nav .page-link--contact,
+.site-nav .page-link--contact:visited {
+  background: var(--gf-leaf-dark);
+  color: #fff;
+}
+
+.site-nav .page-link--contact:hover,
+.site-nav .page-link--contact:focus-visible {
+  background: var(--gf-leaf);
+  color: #fff;
+}
+
 .nav-trigger {
   display: none;
 }
@@ -229,6 +241,14 @@ a {
   color: #fff;
 }
 
+.hero-actions,
+.button-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  margin-top: 24px;
+}
+
 .home-hero .eyebrow {
   color: #e9f2d6;
 }
@@ -263,10 +283,14 @@ a {
 }
 
 .home-intro p {
-  margin: 0;
+  margin: 0 0 12px;
   color: #3f4c43;
   font-size: 1rem;
   line-height: 1.75;
+}
+
+.home-intro p:last-child {
+  margin-bottom: 0;
 }
 
 .home-paths {
@@ -274,6 +298,19 @@ a {
   grid-template-columns: repeat(3, minmax(0, 1fr));
   gap: 18px;
   margin: 0 0 56px;
+}
+
+.home-feature-grid {
+  display: grid;
+  grid-template-columns: minmax(0, 1.2fr) minmax(280px, 0.8fr);
+  gap: 18px;
+  margin: 0 0 56px;
+}
+
+.status-note {
+  color: var(--gf-muted);
+  font-size: 0.92rem;
+  font-weight: 700;
 }
 
 .path-card,
@@ -467,8 +504,21 @@ a {
   text-decoration: none;
 }
 
+.post-card__image {
+  display: block;
+  width: 100%;
+  max-height: 260px;
+  margin: 12px 0 14px;
+  border-radius: 8px;
+  object-fit: cover;
+}
+
 .post-card p {
   color: #3f4c43;
+}
+
+.archive-actions {
+  margin-top: 28px;
 }
 
 .post-back-link {
@@ -542,6 +592,7 @@ a {
   display: grid;
   grid-template-columns: repeat(2, minmax(0, 1fr));
   gap: 22px;
+  margin-bottom: 42px;
 }
 
 .dog-card,
@@ -570,6 +621,10 @@ a {
   object-fit: cover;
 }
 
+.dog-card__image--reggae {
+  object-position: 50% 14%;
+}
+
 .dog-card__body {
   padding: 24px;
 }
@@ -577,6 +632,12 @@ a {
 .dog-card h2 {
   margin: 0 0 8px;
   font-size: 1.5rem;
+  line-height: 1.15;
+}
+
+.dog-card h3 {
+  margin: 0 0 8px;
+  font-size: 1.45rem;
   line-height: 1.15;
 }
 
@@ -948,6 +1009,26 @@ a {
   text-decoration: none;
 }
 
+.button-secondary,
+.button-secondary:visited {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 44px;
+  padding: 0 18px;
+  border: 1px solid rgba(57, 91, 47, 0.35);
+  border-radius: 6px;
+  background: var(--gf-surface);
+  color: var(--gf-leaf-dark);
+  font-weight: 700;
+  text-decoration: none;
+}
+
+.button-secondary:hover,
+.button-secondary:focus-visible {
+  background: #eef5e4;
+}
+
 .button-primary:visited {
   color: #fff;
 }
@@ -1186,6 +1267,7 @@ a {
 
   .home-intro,
   .home-paths,
+  .home-feature-grid,
   .home-story,
   .dog-card-grid,
   .dog-profile__hero,
@@ -1203,6 +1285,10 @@ a {
 
   .dog-profile__hero img {
     min-height: 340px;
+  }
+
+  .dog-card__image--reggae {
+    object-position: center;
   }
 }
 

@@ -2,6 +2,7 @@
 layout: default
 title: Populationsgenetik  ...
 categories: health
+topic: Zucht und Genetik
 description: Populationsgenetik und Zuchtstrategien für Rassehunde ...
 ---
 
@@ -97,7 +98,6 @@ Populationsgenetik und Zuchtstrategien für Rassehunde (Einsteigerlevel).
 
 </div>
 <!-- =====  Ende FAQ  ===== -->
-
 
 
 

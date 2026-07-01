@@ -2,6 +2,7 @@
 layout: default
 title: Das lange warten hat ein Ende ...
 categories: reggae
+topic: Würfe und Nachzucht
 description: Reggae´s Ultraschalltermin ...
 ---
 

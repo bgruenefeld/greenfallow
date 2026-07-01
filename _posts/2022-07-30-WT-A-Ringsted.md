@@ -2,6 +2,7 @@
 layout: default
 title: Kleiner Workingtest, kleine Ungenauigkeit mit großer Wirkung!
 categories: reggae
+topic: Prüfungen
 ---
 
 Nach Ende der Brut- und Setzzeit stand unser erster Workingtest an. 

@@ -1,6 +1,8 @@
 ---
 layout: default
 title: Neuigkeiten
+seo_title: Neuigkeiten | Greenfallow Labradors
+description: Aktuelle Beiträge, Prüfungsergebnisse und Wissenswertes rund um Greenfallow Labradors.
 ---
 
 <section class="posts-page">
@@ -11,15 +13,26 @@ title: Neuigkeiten
   </header>
 
   <div class="post-list">
-    {% for post in site.posts %}
+    {% for post in site.posts limit: 9 %}
+      {% assign topic = post.topic | default: post.categories.first | default: "Neuigkeiten" %}
       <article class="post-card">
-        <p class="post-card__date">{{ post.date | date: "%d.%m.%Y" }}</p>
+        <p class="post-card__date">{{ post.date | date: "%d.%m.%Y" }} · {{ topic }}</p>
         <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+        {% if post.image %}
+          <img class="post-card__image" src="{{ post.image | relative_url }}" alt="{{ post.title | escape }}" loading="lazy">
+        {% endif %}
         {% if post.description %}
           <p>{{ post.description }}</p>
+        {% else %}
+          <p>{{ post.excerpt | strip_html | truncate: 180 }}</p>
         {% endif %}
         <a class="text-link" href="{{ post.url | relative_url }}">Weiter lesen</a>
       </article>
     {% endfor %}
+  </div>
+
+  <div class="archive-actions">
+    <a class="button-primary" href="{{ "/posts-archive/" | relative_url }}">Alle Beiträge anzeigen</a>
+    <a class="button-secondary" href="{{ "/zuchtwissen/" | relative_url }}">Zuchtwissen ansehen</a>
   </div>
 </section>

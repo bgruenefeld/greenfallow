@@ -2,10 +2,11 @@
 layout: default
 title: Greenfallow A´s - Prüfungswochenende  ...
 categories: reggae
-description: Am Wochenende waren drei Greenfallows fleissig ...
+topic: Prüfungen
+description: Am Wochenende waren drei Greenfallows fleißig ...
 ---
 
-Am Wochenende waren drei Greenfallows fleissig und haben sich auf verschiedenen Prüfungen vorgestellt.
+Am Wochenende waren drei Greenfallows fleißig und haben sich auf verschiedenen Prüfungen vorgestellt.
 <p> 
 Greenfallow Asari zeigt auf der APD-A dass iher das apportieren im Blut liegt und bestand die Prüfung mit dem Prädikat "sehr gut"! 🥳
 
@@ -28,7 +29,6 @@ Greenfallow Allegro stellt sich im DRC dem Wesenstest/Verhaltensbeurteilung und 
 </p>
 
 <p>Ein großes Dankeschön an die Besitzer, dass sie die Hunde so gut auf die Prüfung vorbereitet haben und einen ganz herzlichen Glückwunsch zur bestandenen Prüfung!</p>
-
 
 
 

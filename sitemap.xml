@@ -10,7 +10,7 @@ layout:
     <priority>1.0</priority>
   </url>
   {% for page in site.pages %}
-  {% if page.url contains '.xml' or page.url contains 'assets' %}{% else %}
+  {% if page.url contains '.xml' or page.url contains 'assets' or page.noindex or page.sitemap == false %}{% else %}
       <url>
         <loc>{{ site.url }}{{ page.url }}</loc>
         <changefreq>daily</changefreq>

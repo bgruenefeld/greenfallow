@@ -2,6 +2,7 @@
 layout: default
 title: Greenfallow Ashes - C Diplom  ...
 categories: reggae
+topic: Prüfungen
 description: Heute hat Yune ...
 ---
 
@@ -14,7 +15,6 @@ Die Diplom Prüfungen in den Niederlanden entsprechen in etwa den APD/R Prüfung
 
 <img src="/litters/fotos-a-wurf/pruefungen/yune-c-diplom.jpeg" title="Yune" width="500">
 <p style="font-style: italic;">Greenfallow Ashes - C Diplom</p>
-
 
 
 

@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Wurfplanung
-description: Informationen zu geplanten Würfen
+seo_title: Wurfplanung | Greenfallow Labradors
+description: Aktueller Stand der Wurfplanung bei Greenfallow Labradors in Rastede.
 permalink: /breedingplan/
 ---
 
@@ -9,34 +10,42 @@ permalink: /breedingplan/
   <header class="content-hero">
     <div>
       <p class="eyebrow">Wurfplanung</p>
-      <h1>Planung für den nächsten Wurf</h1>
+      <h1>Aktueller Stand unserer Wurfplanung</h1>
       <p>
-        Reggaes ersten beiden Würfe haben sich sehr schön entwickelt. Die Hunde zeigen ein freundliches Wesen, Temperament und sehr
-        gute Arbeitsanlagen.
+        Aktuell ist noch kein verbindlicher Zeitpunkt für unseren nächsten Wurf veröffentlicht. Sobald eine konkrete
+        Planung feststeht, informieren wir an dieser Stelle darüber.
       </p>
+      <p class="status-note">Stand: Juli 2026</p>
     </div>
-    <img src="{{ "/assets/litters/reggae-heuballen.jpeg" | relative_url }}" alt="Reggae">
+    <img src="{{ "/assets/litters/reggae-heuballen.jpeg" | relative_url }}" alt="Schwarzer Labrador Retriever im Heu">
   </header>
 
   <div class="content-grid">
     <section class="info-card">
       <h2>Aktueller Stand</h2>
       <p>
-        Alle Hunde aus Reggaes ersten beiden Würfen, haben sich zu freundlichen und temperamentvollen (Jung) hunden
-        entwickelt. Das Feedback der Besitzer ist durchweg positiv.
+        Die Angaben zur nächsten verbindlichen Wurfplanung werden derzeit redaktionell überarbeitet. Vergangene Würfe
+        und die Nachzucht sind weiterhin unter <a href="{{ "/litters/" | relative_url }}">Würfe</a> dokumentiert.
+      </p>
+    </section>
+
+    <section class="info-card">
+      <h2>Informationen für Interessenten</h2>
+      <p>
+        Ein Labrador Retriever aus Arbeitslinien bringt Arbeitsfreude, Temperament und Kooperationsbereitschaft mit.
+        Uns ist wichtig, dass die Erwartungen, der Alltag und die Möglichkeiten der zukünftigen Menschen gut zum Hund
+        passen.
       </p>
       <p>
-        Da die Gesundheitsergebnisse des A-Wurfs zudem sehr gut sind, planen wir mit Reggae <strong>im Winter 2026/Frühjahr 2027</strong> einen finalen letzten Wurf mit ihr.
-      </p>
-      <p>
-        Aktuell sind wir auf Deckrüdensuche. Sobald feststeht welcher Rüde es werden wird, veröffentlichen wir den Rüden hier.
+        Interessenten können sich gerne frühzeitig melden, auch wenn aktuell keine verbindliche Planung veröffentlicht
+        ist.
       </p>
     </section>
 
     <section class="info-card highlight-card">
       <h2>Kontakt</h2>
       <p>
-        Wenn Sie Interesse an einem Hund aus unserer Zucht haben, melden Sie sich gerne frühzeitig.
+        Für Fragen zu unserer Zucht und zu zukünftigen Planungen erreichen Sie uns per E-Mail oder telefonisch.
       </p>
       <p>
         <a href="mailto:greenfallow@gmx.de">greenfallow@gmx.de</a><br>

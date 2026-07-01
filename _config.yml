@@ -9,7 +9,10 @@ header_pages:
   - breed.md
   - about.md
 show_excerpts: true
-title: greenfallow labradors
+title: Greenfallow Labradors
+url: "https://greenfallow.de"
+lang: de
+timezone: Europe/Berlin
 minima:
   paginate: 3
   paginate_path: "/_posts/page:num/"

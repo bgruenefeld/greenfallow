@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Über uns
+seo_title: Über uns | Greenfallow Labradors
 description: Informationen über die Züchter
 permalink: /about/
 ---
@@ -19,6 +20,14 @@ permalink: /about/
   </header>
 
   <div class="content-stack">
+    <section class="info-card">
+      <h2>Wer wir sind</h2>
+      <p>
+        Wir leben mit unseren Hunden in Rastede im Ammerland. Sie begleiten uns im Alltag, beim Training, auf Prüfungen
+        und, soweit entsprechend ausgebildet, bei jagdlichen Aufgaben.
+      </p>
+    </section>
+
     <section class="info-card">
       <h2>Wie alles begann</h2>
       <p>
@@ -46,7 +55,7 @@ permalink: /about/
     </section>
 
     <section class="info-card">
-      <h2>Zuchtgedanke</h2>
+      <h2>Weg zur Zucht</h2>
       <p>
         Der Gedanke an die Zucht kam mit Work and More Hannah, einer sehr talentierten Hündin. Leider musste Hannah
         aufgrund einer akuten Gebärmutterentzündung kastriert werden.
@@ -54,6 +63,14 @@ permalink: /about/
       <p>
         Nach einiger Suche zog Reggae ein, eine hoch talentierte Hündin aus der leistungsstarken und gesunden Linie vom
         Keien Fenn. Mit ihr begann unsere Zucht.
+      </p>
+    </section>
+
+    <section class="info-card">
+      <h2>Unser Verständnis</h2>
+      <p>
+        Unsere Zucht soll zu Hunden führen, die Arbeitsfreude, Gesundheit, Wesen und Alltagstauglichkeit miteinander
+        verbinden. Dabei bleiben wir bewusst persönlich und überschaubar.
       </p>
     </section>
   </div>

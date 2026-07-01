@@ -2,6 +2,7 @@
 layout: default
 title: DRC Finale in Kevelaer!
 categories: reggae
+topic: Prüfungen
 description: Voller Vorfreude sind wir zum Finale gefahren, um uns mit den besten WT Teams der Saison 2022 zu messen
 ---
 
@@ -18,7 +19,7 @@ Am Ende des ersten langen Tags hatten wir alle Dummies drin und konnten uns bei 
 
 <div style="float:left;width:70%"><img src="/assets/20221009-wta-finale.jpg" width="80%" height="80%"> <p style="font-style: italic;">Auf dem Weg zu Heike Reichelt - stechen um Platz drei.</p></div> 
 
-Um so überraschter war ich als wir zu einem Stechen um eine Platzierung aufgerufen wurden. Es stellte sich heraus, dass wir mit noch zwei anderen Teams im Stechen um den die dritten Platz waren! Es musste dabei eine weite Markierung über einen kleinen Graben gearbeitet werden. Hier hatte jedoch ein Golden Retriever besser markiert und das Stechen verdient gewonnen. Wir landeten mit 167/180 Punkten, einen Punkt hinter dem erstplatzierten Team, mit dem Prädikat **vorzüglich** überglücklich auf dem vierten Platz. [<a href="https://drc-finale-2022.wixsite.com/start" target="_blank">Ergebnisse</a>]
+Um so überraschter war ich als wir zu einem Stechen um eine Platzierung aufgerufen wurden. Es stellte sich heraus, dass wir mit noch zwei anderen Teams im Stechen um den die dritten Platz waren! Es musste dabei eine weite Markierung über einen kleinen Graben gearbeitet werden. Hier hatte jedoch ein Golden Retriever besser markiert und das Stechen verdient gewonnen. Wir landeten mit 167/180 Punkten, einen Punkt hinter dem erstplatzierten Team, mit dem Prädikat **vorzüglich** überglücklich auf dem vierten Platz. [<a href="https://4fc9d7b7-105e-435e-a315-883edd34df9a.filesusr.com/ugd/ec8f79_025b410f983c45e18779f4588d6e2556.pdf" target="_blank">Ergebnisse</a>]
 
 <div style="float:left"> <img src="/assets/wt-a-finale2022.jpeg" width="75%" height="75%">
   <p style="font-style: italic;">Reggae und ich nebst Trainingskameradin Ilka Bielefeld (<a href="https://www.hundeschule-bringfreude.de/" target="_blank">Hundeschule Bringfreude</a>), die mit ihrer Hündin mit einem Punkt Vorsprung den ersten Platz belegte.</p></div>

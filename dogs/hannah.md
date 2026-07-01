@@ -62,8 +62,7 @@ permalink: /dogs/hannah
         Fortgeschrittenen Klasse starten und uns dort schnell für die Offene Klasse qualifizieren.
       </p>
       <p>
-        Hannah verfügte über gutes Marking und Memory sowie ein sehr gutes Lining und eine enorme Führigkeit. Auch im Alter von zehn Jahren fiel
-        es ihr nicht schwer, sich einweisen zu lassen.
+        Hannah verfügte über gutes Marking und Memory sowie ein sehr gutes Lining und eine enorme Führigkeit.
       </p>
       <p class="video-links">
         <strong>Video:</strong>
@@ -81,7 +80,7 @@ permalink: /dogs/hannah
     <p>
       Hannahs Mutter war eine sehr schöne, ausgeglichene Hündin, die überwiegend jagdlich geführt wurde. Hannahs Vater
       ist FTW Saxaphone John Smiths (Archie). Er wurde von seiner Besitzerin Elly Bos erfolgreich auf Field Trials und
-      Working Tests geführt und ist ein Bruder zu Saxaphone Brown Ale of Lincswold, der 2014 die IGL gewann.
+      Workingtests geführt und ist ein Bruder zu Saxaphone Brown Ale of Lincswold, der 2014 die IGL gewann.
     </p>
     <p>
       Archie stammt aus FTCh Garronspoint Rye of Lincswold, der dreimal für die IGL qualifiziert war, und FTW Clovers

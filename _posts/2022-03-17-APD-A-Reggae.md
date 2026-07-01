@@ -2,6 +2,7 @@
 layout: default
 title: APD-A mit sehr gut bestanden
 categories: reggae
+topic: Prüfungen
 ---
 
 Idsingen/Walsrode

@@ -2,6 +2,7 @@
 layout: default
 title: "Formwert Reggae"
 categories: reggae
+topic: Zucht und Genetik
 ---
 
 Eine Vorraussetzung für die Zuchtzulassung ist ein mindestens mit gut bestandener Formwert. 

@@ -7,6 +7,20 @@
 
   gtag('config', 'G-G9LK855Y6R');
 </script>
+{% assign canonical_url = page.url | absolute_url %}
+{% assign meta_title = page.seo_title | default: page.title | default: site.title %}
+{% assign meta_description = page.description | default: "Greenfallow Labradors: Labrador Retriever aus Arbeitslinien in Rastede bei Oldenburg, Norddeutschland." %}
+{% assign og_image = page.image | default: "/assets/photoshooting/reggae-gross.jpeg" | absolute_url %}
+<meta name="description" content="{{ meta_description | strip_html | strip_newlines | escape }}">
+<link rel="canonical" href="{{ canonical_url }}">
+<meta property="og:type" content="website">
+<meta property="og:title" content="{{ meta_title | escape }}">
+<meta property="og:description" content="{{ meta_description | strip_html | strip_newlines | escape }}">
+<meta property="og:url" content="{{ canonical_url }}">
+<meta property="og:image" content="{{ og_image }}">
+{% if page.noindex %}
+<meta name="robots" content="noindex,follow">
+{% endif %}
 <link rel="sitemap" type="application/xml" title="Sitemap" href="/sitemap.xml" />
 <link rel="icon" type="image/x-icon" href="/assets/favicon.ico">
 <link rel="stylesheet" href="/assets/fontawesome/css/all.min.css">

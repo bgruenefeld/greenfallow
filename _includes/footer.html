@@ -3,7 +3,10 @@
     <div class="site-footer__inner">
       <div class="site-footer__brand">
         <img src="{{ "/assets/greenfallow-logo-v2-compact.png" | relative_url }}" width="150" height="76" alt="" aria-hidden="true">
-        <p>&copy; {{ site.time | date: "%Y" }} {{ site.title }}</p>
+        <div>
+          <p>&copy; {{ site.time | date: "%Y" }} Greenfallow Labradors</p>
+          <p>Labrador Retriever aus Arbeitslinien · Rastede</p>
+        </div>
       </div>
       <div class="site-footer__links">
         {%- include social.html -%}

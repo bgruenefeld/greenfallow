@@ -2,6 +2,7 @@
 layout: default
 title: Deckr체de des A-Wurfs gefunden!
 categories: reggae
+topic: W체rfe und Nachzucht
 description: Die Wahl eines Deckr체den f체r unseren <a href="/litters">A-Wurf</a> war eine spannende aber auch aufw채ndige Sache.
 carousels:
   - images: 
@@ -35,4 +36,3 @@ Im tiefsten D채nemark sind wir schliesslich f체ndig geworden und haben eine 채u�
 <p>
   Demn채chst werden wir ihn noch detailiert auf einer separaten Seite vorstellen.
 </p>
-

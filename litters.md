@@ -35,6 +35,12 @@ permalink: /litters/
       <h2>A-Wurf Übersicht</h2>
       <p>Informationen und Bilder der Hunde aus unserem A-Wurf.</p>
     </a>
+
+    <a class="link-card" href="{{ "/litters/b-progeny" | relative_url }}">
+      <span>Nachzucht</span>
+      <h2>B-Wurf Übersicht</h2>
+      <p>Drei Rüden und fünf Hündinnen aus unserem B-Wurf.</p>
+    </a>
   </div>
 
   <section class="info-card">

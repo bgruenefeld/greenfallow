@@ -1,7 +1,10 @@
 <footer class="site-footer h-card">
   <div class="wrapper">
     <div class="site-footer__inner">
-      <p>&copy; {{ site.time | date: "%Y" }} {{ site.title }}</p>
+      <div class="site-footer__brand">
+        <img src="{{ "/assets/greenfallow-logo-v2-compact.png" | relative_url }}" width="150" height="76" alt="" aria-hidden="true">
+        <p>&copy; {{ site.time | date: "%Y" }} {{ site.title }}</p>
+      </div>
       <div class="site-footer__links">
         {%- include social.html -%}
         <a class="page-link" href="{{ "/impressum.html" | relative_url }}">Impressum</a>

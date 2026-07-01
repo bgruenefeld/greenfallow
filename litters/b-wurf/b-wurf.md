@@ -33,6 +33,7 @@ permalink: /litters/b-wurf
     <section class="info-card highlight-card">
       <h2>Weitere Informationen</h2>
       <p><a href="{{ "/litters/b-wurf/b-wurf-ruede" | relative_url }}">Zum Deckrüden</a></p>
+      <p><a href="{{ "/litters/b-progeny" | relative_url }}">Zur B-Wurf Nachzucht</a></p>
       <p><a href="https://k9-data.org/test-breeding/16528" target="_blank" rel="noopener">Ahnentafel ansehen</a></p>
     </section>
   </div>

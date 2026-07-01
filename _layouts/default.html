@@ -11,7 +11,10 @@
   <body>
     <header class="site-header" role="banner">
       <div class="wrapper site-header__inner">
-        <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
+        <a class="site-title" rel="author" href="{{ "/" | relative_url }}">
+          <img class="site-title__logo" src="{{ "/assets/greenfallow-logo-v2-compact.png" | relative_url }}" width="150" height="76" alt="" aria-hidden="true">
+          <span class="sr-only">{{ site.title | escape }}</span>
+        </a>
         <nav class="site-nav" aria-label="Hauptnavigation">
           <input type="checkbox" id="nav-trigger" class="nav-trigger">
           <label class="nav-toggle" for="nav-trigger" aria-label="Menü öffnen">

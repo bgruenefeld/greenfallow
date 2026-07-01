@@ -12,8 +12,7 @@ permalink: /breedingplan/
       <p class="eyebrow">Wurfplanung</p>
       <h1>Aktueller Stand unserer Wurfplanung</h1>
       <p>
-        Aktuell ist noch kein verbindlicher Zeitpunkt für unseren nächsten Wurf veröffentlicht. Sobald eine konkrete
-        Planung feststeht, informieren wir an dieser Stelle darüber.
+        Aktuell ist noch kein verbindlicher Zeitpunkt für unseren nächsten Wurf gegeben. Wir planen jedoch im Frühjahr 2027 einen letzten Wurf mit Reggae zu machen und sind aktuell auf der Suche nach einem geeigneten Deckrüden.
       </p>
       <p class="status-note">Stand: Juli 2026</p>
     </div>
@@ -37,7 +36,7 @@ permalink: /breedingplan/
         passen.
       </p>
       <p>
-        Interessenten können sich gerne frühzeitig melden, auch wenn aktuell keine verbindliche Planung veröffentlicht
+        Interessenten können sich daher gerne frühzeitig melden, auch wenn aktuell noch kein konkreter Wurftermin veröffentlicht
         ist.
       </p>
     </section>

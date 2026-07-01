@@ -32,6 +32,19 @@ permalink: /dogs/
         <span>Profil ansehen</span>
       </div>
     </a>
+    <a class="dog-card" href="{{ "/dogs/polly" | relative_url }}">
+      <img class="dog-card__image--polly" src="{{ "/assets/polly-gallery/polly-schmutzig.jpeg" | relative_url }}" alt="Greenfallow Bitches Brews, genannt Polly">
+      <div class="dog-card__body">
+        <p class="eyebrow">Nachwuchs</p>
+        <h3>Greenfallow Bitches Brew</h3>
+        <p class="dog-card__meta">Rufname: Polly · geboren am 01.03.2026</p>
+        <p>
+          Nachwuchshündin aus unserem B-Wurf nach Reggae vom Keien Fenn und Maesiwan Gunner.
+        </p>
+        <p>Weitere Angaben folgen mit ihrer Entwicklung.</p>
+        <span>Profil ansehen</span>
+      </div>
+    </a>
   </div>
 
   <h2>Hunde, die uns geprägt haben</h2>

@@ -621,8 +621,32 @@ a {
   object-fit: cover;
 }
 
+.dog-card__placeholder,
+.dog-profile__placeholder {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 320px;
+  background: linear-gradient(135deg, rgba(231, 239, 220, 0.78), rgba(250, 250, 246, 0.94));
+  color: var(--gf-leaf-dark);
+  font-weight: 700;
+}
+
+.dog-card__placeholder span,
+.dog-profile__placeholder span {
+  padding: 8px 14px;
+  border: 1px solid rgba(57, 91, 47, 0.22);
+  border-radius: 999px;
+  background: rgba(255, 255, 255, 0.62);
+}
+
 .dog-card__image--reggae {
   object-position: 50% 14%;
+}
+
+.dog-card__image--polly {
+  height: 360px;
+  object-position: 50% 28%;
 }
 
 .dog-card__body {
@@ -679,6 +703,16 @@ a {
   border-radius: 8px;
   object-fit: cover;
   box-shadow: var(--gf-shadow);
+}
+
+.dog-profile__placeholder {
+  min-height: 430px;
+  border-radius: 8px;
+  box-shadow: var(--gf-shadow);
+}
+
+.dog-profile__image--polly {
+  object-position: 50% 42%;
 }
 
 .dog-profile__intro {
@@ -753,6 +787,34 @@ a {
   gap: 18px;
   padding: 14px 0;
   border-top: 1px solid var(--gf-border);
+}
+
+.development-list {
+  display: grid;
+  gap: 10px;
+  margin: 18px 0 22px;
+  padding: 0;
+  list-style: none;
+}
+
+.development-list li {
+  position: relative;
+  padding: 12px 14px 12px 38px;
+  border: 1px solid rgba(57, 91, 47, 0.16);
+  border-radius: 8px;
+  background: rgba(231, 239, 220, 0.42);
+  color: #334236;
+}
+
+.development-list li::before {
+  content: "";
+  position: absolute;
+  top: 18px;
+  left: 16px;
+  width: 8px;
+  height: 8px;
+  border-radius: 999px;
+  background: var(--gf-leaf-dark);
 }
 
 .dog-facts dl div:first-child {
@@ -973,6 +1035,20 @@ a {
   border-radius: 8px;
   background: var(--gf-surface);
   box-shadow: 0 10px 24px rgba(31, 42, 36, 0.05);
+}
+
+.progeny-card--link,
+.progeny-card--link:visited {
+  color: var(--gf-ink);
+  text-decoration: none;
+  transition: border-color 150ms ease, box-shadow 150ms ease, transform 150ms ease;
+}
+
+.progeny-card--link:hover,
+.progeny-card--link:focus-visible {
+  border-color: rgba(57, 91, 47, 0.34);
+  box-shadow: 0 16px 30px rgba(31, 42, 36, 0.1);
+  transform: translateY(-2px);
 }
 
 .progeny-card img {

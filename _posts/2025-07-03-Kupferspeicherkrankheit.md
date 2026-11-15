@@ -166,6 +166,21 @@ Aus diesem Grund habe ich einen (KI generierten 🥰) Podcast erstellt, der den 
       </li>     
     </ul>
   </details>
+  <details>
+    <summary>7. Mein Hund ist ATP7B Träger - was nun?</summary>
+    <ul>
+      <li><strong>Welpen- und Jugendphase</strong>
+        Fütterung einer hochwertigen, ausgewogenen Welpen- bzw. Junghundenahrung (ohne kupferreiche Extras)
+      </li>
+      <li><strong>Monitoring ab dem Erwachsenenalter:</strong>
+      Ab einem Alter von ca. 2 Jahren wird empfohlen, den ALT-Wert (Alanin-Aminotransferase) im Blut regelmäßig (z. B. jährlich im Rahmen des Routine-Check-ups) zu kontrollieren. Ein Anstieg des ALT-Werts zeigt Leberzellanstrengungen frühzeitig an, bevor Symptome entstehen.
+      </li>   
+      <li>
+      <strong>Futterumstellung im Erwachsenenalter / bei ALT-Anstieg:</strong>
+      Wenn der ALT-Wert ansteigt – oder präventiv im Erwachsenenalter nach Rücksprache mit dem Tierarzt –, wird auf eine moderat kupferarme Ernährung für erwachsene Hunde umgestellt.
+      </li>  
+    </ul>
+  </details>
 
 
 </div>
